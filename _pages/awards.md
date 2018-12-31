@@ -9,7 +9,7 @@ author_profile: true
 9% acceptance rate. Granted two years tuition up to JPY 3,000,000 per year, a monthly stipend of JPY
 200,000 and a one-off payment of JPY 500,000. It can be extended until the end of the Ph.D. degree.
 
-- 2017.7: __[Women Techmaker Scholarship (Google Anita Borg Scholarship)](http://www.nakajimafound.or.jp/koubo.htm) (Doctoral Study Abroad Program Fellowship)__
+- 2017.7: __[Women Techmaker Scholarship (Google Anita Borg Scholarship)](http://www.nakajimafound.or.jp/koubo.htm)__  
 0.2% acceptance rate. Selected out of 25,000 applicants to receive academic scholarship from Google’s
 Women Techmakers Program due to outstanding academic performance and community involvement.
 
@@ -17,7 +17,7 @@ Women Techmakers Program due to outstanding academic performance and community i
 - 2017.10: __[Todai Girls Hackathon 2017 (東大ガールズハッカソン)](http://www.todaishimbun.org/utokyo-girls-hackathon20171103/)__    
 Organized a hackathon for female students to foster interest and improve inclusivity and diversity in
 CS and related majors at the University of Tokyo.  
-Gave a series of lectures on Java Programming and Android App Development, while mentoring a couple of teams.
+Gave series of lectures on Java Programming and Android App Development, while mentoring a couple of teams.
 ![Todai_Girls_Hackathon](/images/todai_girls_hackathon.jpg)
 
 - 2016.8, 2017.9: __[Mind The Gap](https://japan.googleblog.com/2016/05/mindthegap.html)__, by Google Tokyo

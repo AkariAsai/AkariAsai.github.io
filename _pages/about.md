@@ -12,7 +12,8 @@ My name is Akari Asai (浅井明里). [\[CV\]](https://akariasai.github.io/files
 I'm an undergraduate student (will graduate next March) majoring in [Electrical Engineering and Computer Science](http://www.ee.t.u-tokyo.ac.jp/j/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), Japan.  
 I'm a member of [Aizawa-Yamasaki Labratory](https://www.hal.t.u-tokyo.ac.jp/) and working with [Prof. Kiyoharu Aizawa](https://www.hal.t.u-tokyo.ac.jp/~aizawa/) and [Prof. Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html).  
 I am also working with [Prof. Yoshimasa Tsuruoka](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/).  
-I am currently researching in [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), [Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a research intern.
+I am currently researching in [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), [Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a research intern.  
+I was former intern in [Google Search](https://www.google.co.jp/), [Google Chrome](https://www.google.com/intl/ja_ALL/chrome/) and [Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/). 
 
 ## News
 - 2018.12: Our paper on [Wikipedia2Vec](https://github.com/wikipedia2vec/wikipedia2vec) is now publicly available on [Arxiv](https://arxiv.org/abs/1812.06280).  
