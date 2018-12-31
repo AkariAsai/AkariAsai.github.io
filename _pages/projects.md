@@ -5,12 +5,12 @@ author_profile: true
 ---
 
 ## Selected Open Source Projects
-- __[Wikipedia2Vec](https://github.com/wikipedia2vec/wikipedia2vec)__
+- __[Wikipedia2Vec](https://github.com/wikipedia2vec/wikipedia2vec)__  
 Wikipedia2Vec is a tool used for obtaining embeddings (or vector representations) of words and entities (i.e., concepts that have corresponding pages in Wikipedia) from Wikipedia.   
 ![Wikipedia2Vec](/images/wikipedia2vec.png)  
 [\[Paper\]](https://arxiv.org/abs/1812.06280) / [\[slides (Ja)\]](https://www.slideshare.net/ikuyamada/wikipedia-113013185) by [Dr.Ikuya Yamada](http://www.ikuya.net/index-en.html) / [\[hackernews\]](https://news.ycombinator.com/item?id=18745346)
 
-- __[Chromium: The Chromium Projects](https://www.chromium.org/Home)__
+- __[Chromium: The Chromium Projects](https://www.chromium.org/Home)__  
 Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. This site contains design documents, architecture overviews, testing information, and more to help you learn to build and work with the Chromium source code.  
 [\[Patches\]](https://chromium-review.googlesource.com/q/akariasai)
 
