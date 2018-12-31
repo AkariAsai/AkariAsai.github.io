@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/ 
-
-  - title: "Outreach"
-    url: /outreach/
+  - title: "Research"
+  url: /research/
 
   - title: "Projects"
     url: /projects/
+  
+  - title: "Awards and Leadership"
+    url: /awards/
