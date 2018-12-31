@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Akari Asai / Akari Asai's Website"
+title                    : "Akari Asai"
 title_separator          : "-"
 name                     : &name "Akari Asai"
-description              : &description "Fourth year undergraduate student at The University of Tokyo."
+description              : &description "Undergraduate student at The University of Tokyo. Currently researching in Microsoft Research Lab Asia."
 url                      : https://AkariAsai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AkariAsai.github.io"
