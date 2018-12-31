@@ -31,4 +31,4 @@ International Conference on Language Resources and Evaluation (LREC), 2018.
 - __Akari Asai__, Vivian Li, Daniela Stepanov, and Wang-Chiew Tan  
 **A Data-Driven Approach to Understanding Happiness**  
 Widening NLP Workshop (WiNLP), 2017.  
-[\[Project\]](http://www.megagon.ai/research/) / [\[Paper\]](https://drive.google.com/file/d/1OjqNuGEntBycdDPXtc7estGPcvJKThDw/view?usp=sharing) 
+[\[Project\]](http://www.megagon.ai/research/) / [\[Paper\]](https://akariasai.github.io/files/4_data_driven_approach_to_understanding.pdf)  

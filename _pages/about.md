@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About me
-My name is Akari Asai (浅井明里). [\[CV\]](https://drive.google.com/file/d/1sM08qSSP1vOd4JlzZ9enwyz2dupGz-3d/view?usp=sharing)  
+My name is Akari Asai (浅井明里). [\[CV\]](https://akariasai.github.io/files/CV_AkariAsai_2018_12_22.pdf)  
 I'm an undergraduate student (will graduate next March) majoring in [Electrical Engineering and Computer Science](http://www.ee.t.u-tokyo.ac.jp/j/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), Japan.  
 I'm a member of [Aizawa-Yamasaki Labratory](https://www.hal.t.u-tokyo.ac.jp/) and working with [Prof. Kiyoharu Aizawa](https://www.hal.t.u-tokyo.ac.jp/~aizawa/) and [Prof. Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html).  
 I am also working with [Prof. Yoshimasa Tsuruoka](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/).  
