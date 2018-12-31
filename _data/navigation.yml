@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Projects"
     url: /projects/
   
   - title: "Awards and Leadership"
     url: /awards/
+
+  - title: "Blog (Japanese)"
+    url: http://akaria.hatenablog.com/
