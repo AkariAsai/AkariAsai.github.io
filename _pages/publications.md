@@ -12,9 +12,9 @@ In submission.
 
 ## Preprints
 - Ikuya Yamada, __Akari Asai__, Hiroyuki Shindo, Hideaki Takeda, and Yoshiyasu Takefuji  
-**Multilingual Extractive Reading Comprehension by Runtime Machine Translation**  
+**Wikipedia2Vec: An Optimized Tool for Learning Embeddings of Words and Entities from Wikipedia**  
 In submission.  
-[\[Project\]](Wikipedia2Vec: An Optimized Tool for Learning Embeddings of Words and Entities from Wikipedia) / [\[Paper\]](https://arxiv.org/abs/1812.06280)
+[\[Project\]](https://wikipedia2vec.github.io/wikipedia2vec/) / [\[Paper\]](https://arxiv.org/abs/1812.06280)
 
 - __Akari Asai__, Akiko Eriguchi, Kazuma Hashimoto, and Yoshimasa Tsuruoka  
 **Multilingual Extractive Reading Comprehension by Runtime Machine Translation**  

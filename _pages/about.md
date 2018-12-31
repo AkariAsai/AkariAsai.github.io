@@ -1,11 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Akari Asai's personal website :)
+## About me
+My name is Akari Asai (浅井明里). [\[CV\]](https://drive.google.com/file/d/1sM08qSSP1vOd4JlzZ9enwyz2dupGz-3d/view?usp=sharing)  
+I'm an undergraduate student (will graduate next March) majoring in [Electrical Engineering and Computer Science](http://www.ee.t.u-tokyo.ac.jp/j/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), Japan.  
+I'm a member of [Aizawa-Yamasaki Labratory](https://www.hal.t.u-tokyo.ac.jp/) and working with [Prof. Kiyoharu Aizawa](https://www.hal.t.u-tokyo.ac.jp/~aizawa/) and [Prof. Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html).  
+I am also working with [Prof. Yoshimasa Tsuruoka](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/).  
+I am currently researching at [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) at [Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a research intern.
+
+## News
+- 2018.12: Our paper on [Wikipedia2Vec](https://github.com/wikipedia2vec/wikipedia2vec) is now publicly available on [Arxiv](https://arxiv.org/abs/1812.06280).  
+- 2018.11: Awarded [The Nakajima Foundation Scholarship](http://www.nakajimafound.or.jp/koubo.htm) (Doctoral Study Abroad Program Fellowship), which funds two years of my Ph.D.  
+- 2018.10: I will intern in MSRA (Beijing, China) untill late January.  
+- 2018.12: Our paper on [multilingual extractive reading comprehension](https://github.com/AkariAsai/extractive_rc_by_runtime_mt) is now publicly available on [Arxiv](https://arxiv.org/abs/1809.0327).  
+- 2018.5: Our work, [HappyDB](https://arxiv.org/abs/1801.07746) was presented in [LREC 2018](http://lrec2018.lrec-conf.org/en/) (Miyazaki, Japan).  
