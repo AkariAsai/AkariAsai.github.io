@@ -86,7 +86,7 @@ author:
   location         : "Tokyo, Japan"
   employer         :
   googlescholar    : "https://scholar.google.co.jp/citations?user=rlzhcs8AAAAJ"
-  email            :
+  email            : "asai@hal.t.u-tokyo.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AkariAsai"
+  github           : "AkariAsai"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/akariasai"
+  twitter          : "akariasai"
   vine             :
   weibo            :
   xing             :
