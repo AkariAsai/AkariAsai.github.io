@@ -5,7 +5,12 @@ author_profile: true
 ---
 
 ## Awards
-- 2018.11: __[The Nakajima Foundation Scholarship (中島記念国際交流財団海外留学奨学金)](http://www.nakajimafound.or.jp/koubo.htm) (Doctoral Study Abroad Program Fellowship)__  
+- 2019.2: __[The Dean's Award, The Best Bachelor Thesis Award](https://www.t.u-tokyo.ac.jp/foee/index.html)__  
+Awarded The Dean's Award and The Best Bachelor Thesis Award due to excellent academic performance and bachelor thesis (**Rank: 1/139 at The Department of Electrical and Electronic Engineering and Information and Communication Engineering**).   
+Thesis title: **Multi-task Learning based on Separable Formulation of Depth Estimation and its Uncertainty**
+
+
+- 2018.11: __[The Nakajima Foundation Scholarship (中島記念国際交流財団海外留学奨学金)](http://www.nakajimafound.or.jp/koubo.html) (Doctoral Study Abroad Program Fellowship)__  
 9% acceptance rate. Granted two years tuition up to JPY 3,000,000 per year, a monthly stipend of JPY
 200,000 and a one-off payment of JPY 500,000. It can be extended until the end of the Ph.D. degree.
 
