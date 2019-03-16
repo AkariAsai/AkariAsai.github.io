@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Awards
+-2019.3: __[The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/nlp2019/)__     
+Awarded The Young Researcher Award by The Association for Natural Language Processing (Japanese representative scientific and professional society for researchers working on problems involving natural language and computation).    
+Paper title: **実行時機械翻訳による多言語機械読解 (English Title: Multilingual Extractive Reading Comprehension by Runtime Machine Translation)**    
+[\[Paper\]](https://akariasai.github.io/files/nlp2019_multilingual_rc.pdf) / [\[Slide\]](https://akariasai.github.io/files/nlp2019_asai_r2.pdf)
+
 - 2019.2: __[The Dean's Award, The Best Bachelor Thesis Award](https://www.t.u-tokyo.ac.jp/foee/index.html)__  
 Awarded The Dean's Award and The Best Bachelor Thesis Award due to excellent academic performance and bachelor thesis (**Rank: 1/139 at The Department of Electrical and Electronic Engineering and Information and Communication Engineering**).   
 Thesis title: **Multi-task Learning based on Separable Formulation of Depth Estimation and its Uncertainty**
