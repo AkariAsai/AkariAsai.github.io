@@ -18,7 +18,7 @@ I recently ended my research internship in __[Natural Language Computing Group](
 I interned in __[Google Search](https://www.google.co.jp/)__ (Summer 2016), __[Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)__ (Summer 2017) and __[Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/)__ (Spring 2017).
 
 ## News
--2019.3: Awarded [The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/en/index.html)!
+- 2019.3: Awarded [The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/en/index.html)!
 - 2019.3: I will intern in salesforce research at Palo Alto, CA this spring :)   
 - 2019.2: I submitted my bachelor thesis, and awarded Best Bachelor Thesis Award and The Dean's Award (1/139 at my department).   
 - 2018.12: Our paper on [Wikipedia2Vec](https://github.com/wikipedia2vec/wikipedia2vec) is now publicly available on [Arxiv](https://arxiv.org/abs/1812.06280).  

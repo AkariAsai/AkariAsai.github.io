@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Awards
--2019.3: __[The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/nlp2019/)__     
+- 2019.3: __[The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/nlp2019/)__     
 Awarded The Young Researcher Award by The Association for Natural Language Processing (Japanese representative scientific and professional society for researchers working on problems involving natural language and computation).    
 Paper title: **実行時機械翻訳による多言語機械読解 (English Title: Multilingual Extractive Reading Comprehension by Runtime Machine Translation)**    
 [\[Paper\]](https://akariasai.github.io/files/nlp2019_multilingual_rc.pdf) / [\[Slide\]](https://akariasai.github.io/files/nlp2019_asai_r2.pdf)
