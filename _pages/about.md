@@ -8,16 +8,19 @@ redirect_from:
 ---
 
 ## About me
-My name is __Akari Asai (浅井明里)__. [\[CV\]](https://akariasai.github.io/files/CV_AkariAsai_2018_12_22.pdf)  
-I'm an undergraduate student (will graduate soon!) majoring in [Electrical Engineering and Computer Science](http://www.ee.t.u-tokyo.ac.jp/j/) at __[The University of Tokyo](https://www.u-tokyo.ac.jp/en/)__, Japan.  
-I'm a member of __[Aizawa-Yamasaki Labratory](https://www.hal.t.u-tokyo.ac.jp/)__ and working with [Prof. Kiyoharu Aizawa](https://www.hal.t.u-tokyo.ac.jp/~aizawa/) and [Prof. Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html).  
-I am also working with [Prof. Yoshimasa Tsuruoka](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/).  
+Hi, I'm __Akari Asai (浅井明里)__. [\[CV\]](https://akariasai.github.io/files/CV_latest_main.pdf)  
+I have recently graduated from The University of Tokyo, where I majored in [Electrical Engineering and Computer Science](http://www.ee.t.u-tokyo.ac.jp/j/) and formerly
+ studied Economics (with a focus on Applied Micro Economics) at __[The University of Tokyo](https://www.u-tokyo.ac.jp/en/)__, Japan.    
+I'm excited to start my Ph.D. in Computer Science and Engineering at the University of Washington this September!  
+
+I am currently at __[Salesforce Research](https://www.salesforce.com/research/)__ working with [Kazuma Hashimoto](https://www.logos.t.u-tokyo.ac.jp/~hassy/) and __[Caiming Xiong](http://www.stat.ucla.edu/~caiming/)__.
 
 I recently ended my research internship in __[Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), [Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)__.  
 
-I interned in __[Google Search](https://www.google.co.jp/)__ (Summer 2016), __[Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)__ (Summer 2017) and __[Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/)__ (Spring 2017).
+I interned in __[Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)__ (Winter 2018, Research Intern), __[Google Search](https://www.google.co.jp/)__ (Summer 2016, Engineering Intern), __[Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)__ (Summer 2017, Engineering Intern) and __[Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/)__ (Spring 2017, Research Intern).
 
 ## News
+- 2019.5: Our work on uncertainty estimation in deep visual learning has been accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Uncertainty and Robustness in Deep Visual Learning 2019! See you in Long Beach :)   
 - 2019.3: Awarded [The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/en/index.html)!
 - 2019.3: I will intern in salesforce research at Palo Alto, CA this spring :)   
 - 2019.2: I submitted my bachelor thesis, and awarded Best Bachelor Thesis Award and The Dean's Award (1/139 at my department).   
