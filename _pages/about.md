@@ -12,10 +12,7 @@ Hi, I'm __Akari Asai (浅井明里)__. [\[CV\]](https://akariasai.github.io/file
 I have recently graduated from The University of Tokyo, where I majored in [Electrical Engineering and Computer Science](http://www.ee.t.u-tokyo.ac.jp/j/) and formerly
  studied Economics (with a focus on Applied Micro Economics) at __[The University of Tokyo](https://www.u-tokyo.ac.jp/en/)__, Japan.    
 I'm excited to start my Ph.D. in Computer Science and Engineering at the University of Washington this September!  
-
 I am currently at __[Salesforce Research](https://www.salesforce.com/research/)__ working with [Kazuma Hashimoto](https://www.logos.t.u-tokyo.ac.jp/~hassy/) and __[Caiming Xiong](http://www.stat.ucla.edu/~caiming/)__.
-
-I recently ended my research internship in __[Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), [Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)__.  
 
 I interned in __[Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)__ (Winter 2018, Research Intern), __[Google Search](https://www.google.co.jp/)__ (Summer 2016, Engineering Intern), __[Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)__ (Summer 2017, Engineering Intern) and __[Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/)__ (Spring 2017, Research Intern).
 

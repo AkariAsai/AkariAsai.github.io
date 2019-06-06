@@ -23,7 +23,7 @@ International Conference on Language Resources and Evaluation (LREC), 2018.
 [\[Project\]](https://rit-public.github.io/HappyDB/) / [\[Paper\]](https://arxiv.org/abs/1801.07746) / [\[Shared task at AAAI 2019\]](https://sites.google.com/view/affcon2019/cl-aff-shared-task) / [\[MIT Technology Review\]](https://www.technologyreview.com/s/610159/100000-happy-moments/)
 
 ## International Workshops
-__Akari Asai__, Ikami Daiki, and Kiyoharu Aizawa  
+- __Akari Asai__, Ikami Daiki, and Kiyoharu Aizawa  
 **Multi-task Learning based on Separable Formulation of Depth Estimation and its Uncertainty**  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Uncertainty and Robustness in Deep Visual Learning, 2019.
 
