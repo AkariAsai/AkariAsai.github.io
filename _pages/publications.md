@@ -25,7 +25,8 @@ International Conference on Language Resources and Evaluation (LREC), 2018.
 ## International Workshops
 - __Akari Asai__, Ikami Daiki, and Kiyoharu Aizawa  
 **Multi-task Learning based on Separable Formulation of Depth Estimation and its Uncertainty**  
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Uncertainty and Robustness in Deep Visual Learning, 2019. [\[Paper\]](https://akariasai.github.io/files/uncertainty_estimation_in_deep_learning.pdf) 
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Uncertainty and Robustness in Deep Visual Learning, 2019.    
+[\[Paper\]](https://akariasai.github.io/files/uncertainty_estimation_in_deep_learning.pdf)  / [\[Poster\]](https://akariasai.github.io/files/cvpr19_asai_poster.pdf)
 
 - __Akari Asai__, Vivian Li, Daniela Stepanov, and Wang-Chiew Tan  
 **A Data-Driven Approach to Understanding Happiness**  
