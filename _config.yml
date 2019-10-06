@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Akari Asai"
 title_separator          : "-"
 name                     : &name "Akari Asai"
-description              : &description "Undergraduate student at The University of Tokyo. Currently researching in Microsoft Research Lab Asia."
+description              : &description "First year Ph.D. student as University of Washington."
 url                      : https://AkariAsai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AkariAsai.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Akari Asai"
   avatar           : "profile.png"
-  bio              : "Fourth year undergraduate student at The University of Tokyo."
-  location         : "Tokyo, Japan"
+  bio              : "First year Ph.D. student at University of Washington."
+  location         : "Seattle, WA"
   employer         :
-  googlescholar    : "https://scholar.google.co.jp/citations?user=rlzhcs8AAAAJ"
-  email            : "asai@hal.t.u-tokyo.ac.jp"
+  googlescholar    : "https://scholar.google.com/citations?user=gqB4u_wAAAAJ&hl=en&oi=ao"
+  email            : "akari@cs.washington.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
