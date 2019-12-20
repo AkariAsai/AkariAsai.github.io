@@ -16,10 +16,8 @@ My primary research interests lie in Natural Language Processing. In particular,
 I interned in __[Salesforce Research](https://www.salesforce.com/research/)__ (Summer 2019, Research Intern), __[Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)__ (Winter 2018, Research Intern), __[Google Search](https://www.google.co.jp/)__ (Summer 2016, Engineering Intern), __[Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)__ (Summer 2017, Engineering Intern) and __[Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/)__ (Spring 2017, Research Intern).
 
 ## News
+- 2019.12: Our ["Learning to Retrieve Reasoning Paths on Wikipedia Graphs"] has been accepted to International Conference on Learning Representations (ICLR) 2020!
 - 2019.9: Started my Ph.D. at the University of Washington :)
 - 2019.5: Our work on uncertainty estimation in deep visual learning has been accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Uncertainty and Robustness in Deep Visual Learning 2019! See you in Long Beach :)   
 - 2019.3: Awarded [The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/en/index.html)!
-- 2019.3: I will intern in salesforce research at Palo Alto, CA this spring :)   
-- 2019.2: I submitted my bachelor thesis, and awarded Best Bachelor Thesis Award and The Dean's Award (1/139 at my department).   
-- 2018.12: Our paper on [Wikipedia2Vec](https://github.com/wikipedia2vec/wikipedia2vec) is now publicly available on [Arxiv](https://arxiv.org/abs/1812.06280).  
-- 2018.11: Awarded [The Nakajima Foundation Scholarship](http://www.nakajimafound.or.jp/koubo.htm) (Doctoral Study Abroad Program Fellowship), which funds two years of my Ph.D.  
+- 2019.3: I will intern in salesforce research at Palo Alto, CA this spring :)  
