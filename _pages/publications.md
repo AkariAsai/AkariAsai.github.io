@@ -9,7 +9,7 @@ author_profile: true
 - __Akari Asai__, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, and Caiming Xiong    
 **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering**   
 International Conference on Learning Representations (ICLR), 2020. 
- [\[Paper\]](https://arxiv.org/pdf/1911.10470.pdf)  / [\[OpenReview\]](https://openreview.net/forum?id=SJgVHkrYDH)
+ [\[Paper\]](https://arxiv.org/pdf/1911.10470.pdf)  / [\[OpenReview\]](https://openreview.net/forum?id=SJgVHkrYDH) / [\[Code\]](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
 
 - __Akari Asai__, Ikami Daiki, and Kiyoharu Aizawa    
 **Multi-task Learning based on Separable Formulation of Depth Estimation and its Uncertainty**  
