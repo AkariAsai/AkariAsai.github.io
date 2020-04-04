@@ -16,6 +16,7 @@ My primary research interests lie in Natural Language Processing. In particular,
 I interned in __[Salesforce Research](https://www.salesforce.com/research/)__ (Summer 2019, Research Intern), __[Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)__ (Winter 2018, Research Intern), __[Google Search](https://www.google.co.jp/)__ (Summer 2016, Engineering Intern), __[Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)__ (Summer 2017, Engineering Intern) and __[Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/)__ (Spring 2017, Research Intern).
 
 ## News
+- 2020.4: Our paper on logic guided regularization and data augmentation for consistent question answering has been accepted to The Annual Conference of the Association for Computational Linguistics (ACL) 2020!
 - 2019.12: Our paper on open-domain QA has been accepted to International Conference on Learning Representations (ICLR) 2020!
 - 2019.9: Started my Ph.D. at the University of Washington :)
 - 2019.5: Our work on uncertainty estimation in deep visual learning has been accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Uncertainty and Robustness in Deep Visual Learning 2019! See you in Long Beach :)   

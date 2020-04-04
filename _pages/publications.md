@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## International Conferences / Workshops
+- __Akari Asai__, and Hannaneh Hajishirzi              
+**Logic-guided Data Augmentation and Reguralization for Consistent Question Answering**   
+The Annual Conference of the Association for Computational Linguistics (ACL), 2020. 
+
 - __Akari Asai__, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, and Caiming Xiong    
 **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering**   
 International Conference on Learning Representations (ICLR), 2020. 
