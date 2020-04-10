@@ -12,8 +12,8 @@ The Annual Conference of the Association for Computational Linguistics (ACL), 20
 
 - __Akari Asai__, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, and Caiming Xiong    
 **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering**   
-International Conference on Learning Representations (ICLR), 2020. 
- [\[Paper\]](https://arxiv.org/pdf/1911.10470.pdf)  / [\[OpenReview\]](https://openreview.net/forum?id=SJgVHkrYDH) / [\[Code\]](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
+International Conference on Learning Representations (ICLR), 2020.        
+ [\[Paper\]](https://arxiv.org/pdf/1911.10470.pdf)  / [\[OpenReview\]](https://openreview.net/forum?id=SJgVHkrYDH) / [\[Code\]](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths) / [\[Slides\]](https://akariasai.github.io/files/iclr_slides_final.pdf)
 
 - __Akari Asai__, Ikami Daiki, and Kiyoharu Aizawa    
 **Multi-task Learning based on Separable Formulation of Depth Estimation and its Uncertainty**  
