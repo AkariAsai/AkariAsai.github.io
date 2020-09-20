@@ -6,15 +6,19 @@ author_profile: true
 ---
 
 ## International Conferences / Workshops
-- Ikuya Yamada, __Akari Asai__, Hiroyuki Shindo, Hideaki Takeda, and Yuji Matsumoto
+- Ikuya Yamada, __Akari Asai__, Hiroyuki Shindo, Hideaki Takeda, and Yuji Matsumoto              
 **LUKE: Deep Contextualized Entity Representations withEntity-aware Self-attention**  
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.   
 
 
-- Ikuya Yamada, __Akari Asai__,  Jin Sakuma, Hiroyuki Shindo, Hideaki Takeda, Yoshiyasu Takefuji, and Yuji Matsumoto. 
+- Ikuya Yamada, __Akari Asai__,  Jin Sakuma, Hiroyuki Shindo, Hideaki Takeda, Yoshiyasu Takefuji, and Yuji Matsumoto.              
 **Wikipedia2Vec: An Optimized Tool for Learning Embeddings of Words and Entities from Wikipedia**  
 Conference on Empirical Methods in Natural Language Processing (EMNLP), system demonstrations, 2020.   
 [\[Project\]](https://wikipedia2vec.github.io/wikipedia2vec/) / [\[Paper\]](https://arxiv.org/abs/1812.06280)
+
+- Takumi Kawashima, Qing Yu, __Akari Asai__, Daiki Ikami, Kiyoharu Aizawa.       
+**The Aleatoric Uncertainty Estimation Using a Separate Formulation with Virtual Residuals.**    
+International Conference on Pattern Recognition (ICPR), 2020.   
 
 - __Akari Asai__, and Hannaneh Hajishirzi              
 **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering**   
