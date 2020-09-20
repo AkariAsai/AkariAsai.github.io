@@ -10,11 +10,10 @@ author_profile: true
 **LUKE: Deep Contextualized Entity Representations withEntity-aware Self-attention**  
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.   
 
-
 - Ikuya Yamada, __Akari Asai__,  Jin Sakuma, Hiroyuki Shindo, Hideaki Takeda, Yoshiyasu Takefuji, and Yuji Matsumoto.              
 **Wikipedia2Vec: An Optimized Tool for Learning Embeddings of Words and Entities from Wikipedia**  
 Conference on Empirical Methods in Natural Language Processing (EMNLP), system demonstrations, 2020.   
-[\[Project\]](https://wikipedia2vec.github.io/wikipedia2vec/) / [\[Paper\]](https://arxiv.org/abs/1812.06280)
+[\[Paper\]](https://arxiv.org/abs/1812.06280) / [\[Code\]](https://github.com/wikipedia2vec/wikipedia2vec) / [\[Project\]](https://wikipedia2vec.github.io/wikipedia2vec/)
 
 - Takumi Kawashima, Qing Yu, __Akari Asai__, Daiki Ikami, Kiyoharu Aizawa.       
 **The Aleatoric Uncertainty Estimation Using a Separate Formulation with Virtual Residuals.**    
@@ -23,7 +22,7 @@ International Conference on Pattern Recognition (ICPR), 2020.
 - __Akari Asai__, and Hannaneh Hajishirzi              
 **Logic-guided Data Augmentation and Reguralization for Consistent Question Answering**   
 The Annual Conference of the Association for Computational Linguistics (ACL), 2020.       
-[\[Paper\]](https://akariasai.github.io/files/SAT_consistency_2020_04_21.pdf) 
+[\[Paper\]](https://akariasai.github.io/files/SAT_consistency_2020_04_21.pdf) / [\[Code\]](https://github.com/AkariAsai/logic_guided_qa) / [\[Video\]](https://slideslive.com/38929217/logicguided-data-augmentation-and-regularization-for-consistent-question-answering)
 
 - __Akari Asai__, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, and Caiming Xiong    
 **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering**   
