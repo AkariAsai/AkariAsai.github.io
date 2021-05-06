@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ## Peer-reviewed Conference Papers
+- __Akari Asai__, and Eunsol Choi      
+**Challenges in Information Seeking QA:Unanswerable Questions and Paragraph Retrieval**  
+The Annual Conference of the Association for Computational Linguistics (ACL), 2021.        
+[\[Paper\]](https://arxiv.org/abs/2010.11915)
+
+- Ikuya Yamada, __Akari Asai__, and and Hannaneh Hajishirzi    
+**Efficient Passage Retrieval with Hashing for Open-domain Question Answering**  
+The Annual Conference of the Association for Computational Linguistics (ACL), 2021.        
+[\[Paper\]]()
+
 - __Akari Asai__, Jungo Kasai, Jonathan H. Clark, Kenton Lee, Eunsol Choi, and Hannaneh Hajishirzi        
 **XOR QA: Cross-lingual Open-Retrieval Question Answering**       
 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021.       
@@ -60,10 +70,6 @@ Widening NLP Workshop (WiNLP), 2017.
 
 
 ## Preprints
-- __Akari Asai__, and Eunsol Choi      
-**Challenges in Information Seeking QA:Unanswerable Questions and Paragraph Retrieval**  
-Preprint abs/2010.11915, 2020.        
-[\[Paper\]](https://arxiv.org/abs/2010.11915)
 
 - Daya Guo, __Akari Asai__, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, and Ming Zhou      
 **Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning**  
