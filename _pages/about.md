@@ -16,7 +16,8 @@ My primary research interests lie in Natural Language Processing, and I'm partic
 I interned in __[Salesforce Research](https://www.salesforce.com/research/)__ (Summer 2019, Research Intern), __[Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)__ (Winter 2018, Research Intern), __[Google Search](https://www.google.co.jp/)__ (Summer 2016, Engineering Intern), __[Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)__ (Summer 2017, Engineering Intern) and __[Megagon Labs (Recruit Institute of Technology)](http://www.megagon.ai/)__ (Spring 2017, Research Intern).
 
 ## News
-- 2021.5: Two papers on question answering has been accepted to ACL 2021 (main conference).         
+- 2021.5: I will intern at the [AI2 AllenNLP](https://allennlp.org/) team this summer :) 
+- 2021.5: Two papers on question answering have been accepted to ACL 2021 (main conference).         
 - 2021.3: Our [XOR QA paper](https://arxiv.org/abs/2010.11856) has been accepted to NAACL 2021.    
 - 2021.1: Our paper on multi-modal QA has been accepted to ICLR 2021.    
 - 2020.9: One long paper and one system demonstration paper on learning contextualized / static entity representations from Wikipedia have been accepted to EMNLP 2020.    

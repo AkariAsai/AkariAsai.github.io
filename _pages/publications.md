@@ -14,7 +14,7 @@ The Annual Conference of the Association for Computational Linguistics (ACL), 20
 - Ikuya Yamada, __Akari Asai__, and and Hannaneh Hajishirzi    
 **Efficient Passage Retrieval with Hashing for Open-domain Question Answering**  
 The Annual Conference of the Association for Computational Linguistics (ACL), 2021.             
-[\[Paper\]]()
+[\[Paper\]](https://arxiv.org/abs/2106.00882) / [\[Code\]](https://github.com/studio-ousia/bpr)     
 
 - __Akari Asai__, Jungo Kasai, Jonathan H. Clark, Kenton Lee, Eunsol Choi, and Hannaneh Hajishirzi        
 **XOR QA: Cross-lingual Open-Retrieval Question Answering**       
