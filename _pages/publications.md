@@ -19,7 +19,7 @@ The Annual Conference of the Association for Computational Linguistics (ACL), 20
 - __Akari Asai__, Jungo Kasai, Jonathan H. Clark, Kenton Lee, Eunsol Choi, and Hannaneh Hajishirzi        
 **XOR QA: Cross-lingual Open-Retrieval Question Answering**       
 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021.       
-[\[Project\]](https://nlp.cs.washington.edu/xorqa/) / [\[Paper\]](https://arxiv.org/abs/2010.11856) / [\[Code\]](https://github.com/AkariAsai/XORQA) [\[Poster\]](https://akariasai.github.io/files/naacl2021_xor_poster_final.pdf) / [\[Slides\]](https://akariasai.github.io/files/xorqa_slides_long.pdf)              
+[\[Project\]](https://nlp.cs.washington.edu/xorqa/) / [\[Paper\]](https://arxiv.org/abs/2010.11856) / [\[Code\]](https://github.com/AkariAsai/XORQA) / [\[Poster\]](https://akariasai.github.io/files/naacl2021_xor_poster_final.pdf) / [\[Slides\]](https://akariasai.github.io/files/xorqa_slides_long.pdf)              
 
 - Alon Talmor, Ori Yoran, Amnon Catav, Dan Lahav, Yizhong Wang, __Akari Asai__, Gabriel Ilharco, Hannaneh Hajishirzi, and Jonathan Berant       
 **MultiModalQA: complex question answering over text, tables and images**      
@@ -29,7 +29,7 @@ International Conference on Learning Representations (ICLR), 2021.
 - Ikuya Yamada, __Akari Asai__, Hiroyuki Shindo, Hideaki Takeda, and Yuji Matsumoto              
 **LUKE: Deep Contextualized Entity Representations withEntity-aware Self-attention**  
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.   
-[\[Paper\]](https://arxiv.org/abs/2010.01057) / [\[Code\]](https://github.com/studio-ousia/luke) / [\[Code\]](https://slideslive.com/38938803/luke-deep-contextualized-entity-representations-with-entityaware-selfattention)          
+[\[Paper\]](https://arxiv.org/abs/2010.01057) / [\[Code\]](https://github.com/studio-ousia/luke) / [\[Video\]](https://slideslive.com/38938803/luke-deep-contextualized-entity-representations-with-entityaware-selfattention)          
 
 - Ikuya Yamada, __Akari Asai__,  Jin Sakuma, Hiroyuki Shindo, Hideaki Takeda, Yoshiyasu Takefuji, and Yuji Matsumoto.              
 **Wikipedia2Vec: An Optimized Tool for Learning Embeddings of Words and Entities from Wikipedia**  
