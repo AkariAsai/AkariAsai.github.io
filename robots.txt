@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AkariAsai.github.io/sitemap.xml
+Sitemap: https://akariasai.github.io/sitemap.xml
