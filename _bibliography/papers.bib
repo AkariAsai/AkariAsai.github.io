@@ -3,83 +3,539 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{
+asai2024selfrag,
+author={Asai, Akari and Wu, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh},
+title={Self-{RAG}: Learning to Retrieve, Generate, and Critique through Self-Reflection},
+booktitle={The Twelfth International Conference on Learning Representations (ICLR; Oral, Top 1\%)},
+year={2024},
+url={https://openreview.net/forum?id=hSyW5go0v8},
+selected={true},
+pdf={https://arxiv.org/pdf/2310.11511.pdf},
+code={https://github.com/AkariAsai/self-rag},
+website="https://selfrag.github.io/",
+preview="self_rag.png",
+video="https://www.youtube.com/embed/bVz8Ua1VVsE?si=O2NOuf4gHuYNspB7",
+abstract={Despite their remarkable capabilities, large language models (LLMs) often produce responses containing factual inaccuracies due to their sole reliance on the parametric knowledge they encapsulate. Retrieval-Augmented Generation (RAG), an ad hoc approach that augments LMs with retrieval of relevant knowledge, decreases such issues. However, indiscriminately retrieving and incorporating a fixed number of retrieved passages, regardless of whether retrieval is necessary, or passages are relevant, diminishes LM versatility or can lead to unhelpful response generation. We introduce a new framework called Self-Reflective Retrieval-Augmented Generation (Self-RAG) that enhances an LM's quality and factuality through retrieval and self-reflection. Our framework trains a single arbitrary LM that adaptively retrieves passages on-demand, and generates and reflects on retrieved passages and its own generations using special tokens, called reflection tokens. Generating reflection tokens makes the LM controllable during the inference phase, enabling it to tailor its behavior to diverse task requirements. Experiments show that Self-RAG (7B and 13B parameters) significantly outperforms state-of-the-art LLMs and retrieval-augmented models on a diverse set of tasks. Specifically, Self-RAG outperforms ChatGPT and retrieval-augmented Llama2-chat on Open-domain QA, reasoning and fact verification tasks, and it shows significant gains in improving factuality and citation accuracy for long-form generations relative to these models.}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+
+@inproceedings{kasai2022realtime,
+  title={RealTime QA: What's the Answer Right Now?},
+  author={Kasai, Jungo and Sakaguchi, Keisuke and Takahashi, Yoichi and Bras, Ronan Le and Asai, Akari and Yu, Xinyan and Radev, Dragomir and Smith, Noah A and Choi, Yejin and Inui, Kentaro},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2023},
+  website="https://realtimeqa.github.io/",
+  preview="realtimeqa.png",
+  code="https://github.com/realtimeqa/realtimeqa_public",
+  url="https://arxiv.org/abs/2207.13332",
+  video="https://slideslive.com/39009055/realtime-qa-whats-the-answer-right-now",
+  pdf="https://arxiv.org/pdf/2207.13332.pdf",
+  abstract="We introduce RealTime QA, a dynamic question answering (QA) platform that announces questions and evaluates systems on a regular basis (weekly in this version). RealTime QA inquires about the current world, and QA systems need to answer questions about novel events or information. It therefore challenges static, conventional assumptions in open-domain QA datasets and pursues instantaneous applications. We build strong baseline models upon large pretrained language models, including GPT-3 and T5. Our benchmark is an ongoing effort, and this paper presents real-time evaluation results over the past year. Our experimental results show that GPT-3 can often properly update its generation results, based on newly-retrieved documents, highlighting the importance of up-to-date information retrieval. Nonetheless, we find that GPT-3 tends to return outdated answers when retrieved documents do not provide sufficient information to find an answer. This suggests an important avenue for future research: can an open-domain QA system identify such unanswerable cases and communicate with the user or even the retrieval module to modify the retrieval results? We hope that RealTime QA will spur progress in instantaneous applications of question answering and beyond."
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  selected={true}
+@inproceedings{kim-etal-2023-taskweb,
+    title = "{T}ask{W}eb: Selecting Better Source Tasks for Multi-task {NLP}",
+    author = "Kim, Joongwon  and
+      Asai, Akari  and
+      Ilharco, Gabriel  and
+      Hajishirzi, Hannaneh",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    year = "2023",
+    url = "https://aclanthology.org/2023.emnlp-main.680",
+    pdf="https://arxiv.org/pdf/2305.13256.pdf",
+    code="https://github.com/danieljkim0118/TaskWeb",
+    website="https://danieljkim0118.github.io/taskweb_nlp/",
+    preview="taskweb.png",
+    abstract = "Recent work in NLP has shown promising results in training models on large amounts of tasks to achieve better generalization. However, it is not well-understood how tasks are related, and how helpful training tasks can be chosen for a new task. In this work, we investigate whether knowing task relationships via pairwise task transfer improves choosing one or more source tasks that help to learn a new target task. We provide TaskWeb, a large-scale benchmark of pairwise task transfers for 22 NLP tasks using three different model types, sizes, and adaptation methods, spanning about 25,000 experiments. Then, we design a new method TaskShop based on our analysis of TaskWeb. TaskShop uses TaskWeb to estimate the benefit of using a source task for learning a new target task, and to choose a subset of helpful training tasks for multi-task training. Our method improves overall rankings and top-k precision of source tasks by 10 percent and 38 percent, respectively. We also use TaskShop to build much smaller multi-task training sets that improve zero-shot performances across 11 different target tasks by at least 4.3 percent.",
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@inproceedings{lin-etal-2023-train,
+    title = "How to Train Your Dragon: Diverse Augmentation Towards Generalizable Dense Retrieval",
+    author = "Lin, Sheng-Chieh  and
+      Asai, Akari  and
+      Li, Minghan  and
+      Oguz, Barlas  and
+      Lin, Jimmy  and
+      Mehdad, Yashar  and
+      Yih, Wen-tau  and
+      Chen, Xilun",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP",
+    year = "2023",
+    url = "https://aclanthology.org/2023.findings-emnlp.423",
+    pdf="https://arxiv.org/pdf/2302.07452.pdf",
+    preview="dragon.png",
+    code="https://github.com/facebookresearch/dpr-scale",
+    abstract = "Various techniques have been developed in recent years to improve dense retrieval (DR), such as unsupervised contrastive learning and pseudo-query generation. Existing DRs, however, often suffer from effectiveness tradeoffs between supervised and zero-shot retrieval, which some argue was due to the limited model capacity. We contradict this hypothesis and show that a generalizable DR can be trained to achieve high accuracy in both supervised and zero-shot retrieval without increasing model size. In particular, we systematically examine the contrastive learning of DRs, under the framework of Data Augmentation (DA). Our study shows that common DA practices such as query augmentation with generative models and pseudo-relevance label creation using a cross-encoder, are often inefficient and sub-optimal. We hence propose a new DA approach with diverse queries and sources of supervision to progressively train a generalizable DR. As a result, DRAGON, our Dense Retriever trained with diverse AuGmentatiON, is the first BERT-base-sized DR to achieve state-of-the-art effectiveness in both supervised and zero-shot evaluations and even competes with models using more complex late interaction.",
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+
+@inproceedings{ogundepo-etal-2023-cross,
+    title = "Cross-lingual Open-Retrieval Question Answering for {A}frican Languages",
+    author = "Ogundepo, Odunayo  and
+      Gwadabe, Tajuddeen  and
+      Rivera, Clara  and
+      Clark, Jonathan  and
+      Ruder, Sebastian  and
+      Adelani, David  and
+      Dossou, Bonaventure  and
+      Diop, Abdou  and
+      Sikasote, Claytone  and
+      Hacheme, Gilles  and
+      Buzaaba, Happy  and
+      Ezeani, Ignatius  and
+      Mabuya, Rooweither  and
+      Osei, Salomey  and
+      Emezue, Chris  and
+      Kahira, Albert  and
+      Muhammad, Shamsuddeen  and
+      Oladipo, Akintunde  and
+      Owodunni, Abraham  and
+      Tonja, Atnafu  and
+      Shode, Iyanuoluwa  and
+      Asai, Akari  and
+      Aremu, Anuoluwapo  and
+      Awokoya, Ayodele  and
+      Opoku, Bernard  and
+      Chukwuneke, Chiamaka  and
+      Mwase, Christine  and
+      Siro, Clemencia  and
+      Arthur, Stephen  and
+      Ajayi, Tunde  and
+      Otiende, Verrah  and
+      Rubungo, Andre  and
+      Sinkala, Boyd  and
+      Ajisafe, Daniel  and
+      Onwuegbuzia, Emeka  and
+      Lawan, Falalu  and
+      Ahmad, Ibrahim  and
+      Alabi, Jesujoba  and
+      Mbonu, Chinedu  and
+      Adeyemi, Mofetoluwa  and
+      Phiri, Mofya  and
+      Ahia, Orevaoghene  and
+      Iro, Ruqayya  and
+      Adhiambo, Sonia",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings Spotlight)",
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.997",
+    doi = "10.18653/v1/2023.findings-emnlp.997",
+    pdf="https://arxiv.org/pdf/2305.06897.pdf",
+    pages = "14957--14972",
+    preview="afriqa.png",
+    code="https://github.com/masakhane-io/afriqa",
+    abstract = "African languages have far less in-language content available digitally, making it challenging for question answering systems to satisfy the information needs of users. Cross-lingual open-retrieval question answering (XOR QA) systems {--} those that retrieve answer content from other languages while serving people in their native language{---}offer a means of filling this gap. To this end, we create Our Dataset, the first cross-lingual QA dataset with a focus on African languages. Our Dataset includes 12,000+ XOR QA examples across 10 African languages. While previous datasets have focused primarily on languages where cross-lingual QA augments coverage from the target language, Our Dataset focuses on languages where cross-lingual answer content is the only high-coverage source of answer content. Because of this, we argue that African languages are one of the most important and realistic use cases for XOR QA. Our experiments demonstrate the poor performance of automatic translation and multilingual retrieval methods. Overall, Our Dataset proves challenging for state-of-the-art QA models. We hope that the dataset enables the development of more equitable QA technology.",
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+
+@inproceedings{shen-etal-2023-xpqa,
+    title = "x{PQA}: Cross-Lingual Product Question Answering in 12 Languages",
+    author = "Shen, Xiaoyu  and
+      Asai, Akari  and
+      Byrne, Bill  and
+      De Gispert, Adria",
+    editor = "Sitaram, Sunayana  and
+      Beigman Klebanov, Beata  and
+      Williams, Jason D",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL; Industry Track)",
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-industry.12",
+    doi = "10.18653/v1/2023.acl-industry.12",
+    pages = "103--115",
+    preview="xpqa.png",
+    code="https://github.com/amazon-science/contextual-product-qa/",
+    pdf="https://arxiv.org/pdf/2305.09249.pdf",
+    abstract = "Product Question Answering (PQA) systems are key in e-commerce applications as they provide responses to customers{'} questions as they shop for products. While existing work on PQA focuses mainly on English, in practice there is need to support multiple customer languages while leveraging product information available in English. To study this practical industrial task, we present xPQA, a large-scale annotated cross-lingual PQA dataset in 12 languages, and report results in (1) candidate ranking, to select the best English candidate containing the information to answer a non-English question; and (2) answer generation, to generate a natural-sounding non-English answer based on the selected English candidate. We evaluate various approaches involving machine translation at runtime or offline, leveraging multilingual pre-trained LMs, and including or excluding xPQA training data. We find that in-domain data is essential as cross-lingual rankers trained on other domains perform poorly on the PQA task, and that translation-based approaches are most effective for candidate ranking while multilingual finetuning works best for answer generation. Still, there remains a significant performance gap between the English and the cross-lingual test sets.",
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+
+
+
+@inproceedings{mallen2022not,
+    title = "When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories",
+    author = "Mallen*, Alex  and
+      Asai*, Akari  and
+      Zhong, Victor  and
+      Das, Rajarshi  and
+      Khashabi, Daniel  and
+      Hajishirzi, Hannaneh",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL; Oral, Best Video Paper Award -- Most Viewed, Most influential ACL 2023 paper #14)",
+    year = "2023",
+    url = "https://aclanthology.org/2023.acl-long.546",
+    code = "https://github.com/AlexTMallen/adaptive-retrieval",
+    selected=true,
+    pdf="https://arxiv.org/pdf/2212.10511.pdf",
+    preview="popqa.png",
+    video="https://aclanthology.org/2023.acl-long.546.mp4",
+    abstract = "Despite their impressive performance on diverse tasks, large language models (LMs) still struggle with tasks requiring rich world knowledge, implying the difficulty of encoding a wealth of world knowledge in their parameters. This paper aims to understand LMs{'} strengths and limitations in memorizing factual knowledge, by conducting large-scale knowledge probing experiments on two open-domain entity-centric QA datasets: PopQA, our new dataset with 14k questions about long-tail entities, and EntityQuestions, a widely used open-domain QA dataset. We find that LMs struggle with less popular factual knowledge, and that retrieval augmentation helps significantly in these cases. Scaling, on the other hand, mainly improves memorization of popular knowledge, and fails to appreciably improve memorization of factual knowledge in the tail. Based on those findings, we devise a new method for retrieval-augmentation that improves performance and reduces inference costs by only retrieving non-parametric memories when necessary.",
+}
+
+
+@inproceedings{asai-etal-2023-retrieval,
+    title = "Retrieval-based Language Models and Applications",
+    author = "Asai, Akari  and
+      Min, Sewon  and
+      Zhong, Zexuan  and
+      Chen, Danqi",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Tutorial)",
+    year = "2023",
+    url = "https://aclanthology.org/2023.acl-tutorials.6",
+    pdf="https://aclanthology.org/2023.acl-tutorials.6.pdf",
+    website="https://acl2023-retrieval-lm.github.io/",
+    abstract="Retrieval-based language models (LMs) have shown impressive performance on diverse NLP tasks. In this tutorial, we will provide a comprehensive and coherent overview of recent advances in retrieval-based LMs. We will start by providing preliminaries covering the foundation of LMs (e.g., masked LMs, autoregressive LMs) and retrieval systems (e.g., nearest-neighbor search). We will then detail recent progress in retrieval-based models, focusing on their model architectures and learning approaches. Finally, we will show how retrieval-based LMs are adapted to downstream applications, and extended to multilingual and multi-modal settings. Finally, we will use an exercise to showcase the effectiveness of retrieval-based LMs.",
+    video={https://us06web.zoom.us/rec/play/6fqU9YDLoFtWqpk8w8I7oFrszHKW6JkbPVGgHsdPBxa69ecgCxbmfP33asLU3DJ74q5BXqDGR2ycOTFk.93teqylfi_uiViNK?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FNrYheXPtE5zOlbogmdBg653RIu7RBO1uAsYH2CZt_hacD1jOHksRahGlERHc_Ybs.KGX1cRVtJBQtJf0o}
+}
+
+
+
+@inproceedings{asai-etal-2023-task,
+    title = "Task-aware Retrieval with Instructions",
+    author = "Asai, Akari  and
+      Schick, Timo  and
+      Lewis, Patrick  and
+      Chen, Xilun  and
+      Izacard, Gautier  and
+      Riedel, Sebastian  and
+      Hajishirzi, Hannaneh  and
+      Yih, Wen-tau",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023 (Findings Spotlight)",
+    year = "2023",
+    url = "https://aclanthology.org/2023.findings-acl.225",
+    code="https://github.com/facebookresearch/tart",
+    preview="tart.png",
+    video="https://aclanthology.org/2023.findings-acl.225.mp4",
+    abstract="We study the problem of retrieval with instructions, where users of a retrieval system explicitly describe their intent along with their queries. We aim to develop a general-purpose task-aware retrieval system using multi-task instruction tuning, which can follow human-written instructions to find the best documents for a given query. We introduce the first large-scale collection of approximately 40 retrieval datasets with instructions, BERRI, and present TART, a multi-task retrieval system trained on BERRI with instructions. TART shows strong capabilities to adapt to a new retrieval task via instructions and advances the state of the art on two zero-shot retrieval benchmarks, BEIR and LOTTE, outperforming models up to three times larger. We further introduce a new evaluation setup, X^2-Retrieval to better reflect real-world scenarios, where diverse domains and tasks are pooled and a system needs to find documents aligning users' intents. In this setup, TART significantly outperforms competitive baselines, further demonstrating the effectiveness of guiding retrieval with instructions.",
+    video="https://aclanthology.org/2023.findings-acl.225.mp4",
+    pdf="https://arxiv.org/pdf/2211.09260.pdf",
+    selected=true
+}
+
+
+@inproceedings{Yamada2020LUKEDC,
+  title={LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention},
+  author={Ikuya Yamada and Akari Asai and Hiroyuki Shindo and Hideaki Takeda and Yuji Matsumoto},
+  booktitle={Conference on Empirical Methods in Natural Language Processing (EMNLP; Most influential EMNLP 2020 paper #8)},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:222124841},
+  code={https://github.com/studio-ousia/luke},
+  pdf="https://arxiv.org/pdf/2010.01057.pdf",
+  selected=true,
+  preview="luke.png",
+  abstract="Entity representations are useful in natural language tasks involving entities. In this paper, we propose new pretrained contextualized representations of words and entities based on the bidirectional transformer. The proposed model treats words and entities in a given text as independent tokens, and outputs contextualized representations of them. Our model is trained using a new pretraining task based on the masked language model of BERT. The task involves predicting randomly masked words and entities in a large entity-annotated corpus retrieved from Wikipedia. We also propose an entity-aware self-attention mechanism that is an extension of the self-attention mechanism of the transformer, and considers the types of tokens (words or entities) when computing attention scores. The proposed model achieves impressive empirical performance on a wide range of entity-related tasks. In particular, it obtains state-of-the-art results on five well-known datasets: Open Entity (entity typing), TACRED (relation classification), CoNLL-2003 (named entity recognition), ReCoRD (cloze-style question answering), and SQuAD 1.1 (extractive question answering). Our source code and pretrained representations are available at this https URL."
+}
+
+
+
+@inproceedings{NEURIPS2021_3df07fda,
+ author = {Asai, Akari and Yu, Xinyan and Kasai, Jungo and Hajishirzi, Hanna},
+ booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+ title = {One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval},
+ pdf = {https://proceedings.neurips.cc/paper_files/paper/2021/file/3df07fdae1ab273a967aaa1d355b8bb6-Paper.pdf},
+ year = {2021},
+ selected={true},
+ preview="mdpr.png",
+ code="https://github.com/AkariAsai/CORA",
+ video="https://slideslive.com/38967665/one-question-answering-model-for-many-languages-with-crosslingual-dense-passage-retrieval",
+ abstract="We present Cross-lingual Open-Retrieval Answer Generation (CORA), the first unified many-to-many question answering (QA) model that can answer questions across many languages, even for ones without language-specific annotated data or knowledge sources.We introduce a new dense passage retrieval algorithm that is trained to retrieve documents across languages for a question.Combined with a multilingual autoregressive generation model, CORA answers directly in the target language without any translation or in-language retrieval modules as used in prior work. We propose an iterative training method that automatically extends annotated data available only in high-resource languages to low-resource ones. Our results show that CORA substantially outperforms the previous state of the art on multilingual open QA benchmarks across 26 languages, 9 of which are unseen during training. Our analyses show the significance of cross-lingual retrieval and generation in many languages, particularly under low-resource settings."
+}
+
+
+@inproceedings{asai-choi-2021-challenges,
+    title = "Challenges in Information-Seeking {QA}: Unanswerable Questions and Paragraph Retrieval",
+    author = "Asai, Akari  and
+      Choi, Eunsol",
+    editor = "Zong, Chengqing  and
+      Xia, Fei  and
+      Li, Wenjie  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL)",
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.118",
+    video="https://aclanthology.org/2021.acl-long.118.mp4",
+    pdf="https://aclanthology.org/2021.acl-long.118.pdf",
+    code="https://github.com/AkariAsai/unanswerable_qa",
+    abstract = "Recent pretrained language models {``}solved{''} many reading comprehension benchmarks, where questions are written with access to the evidence document. However, datasets containing information-seeking queries where evidence documents are provided after the queries are written independently remain challenging. We analyze why answering information-seeking queries is more challenging and where their prevalent unanswerabilities arise, on Natural Questions and TyDi QA. Our controlled experiments suggest two headrooms {--} paragraph selection and answerability prediction, i.e. whether the paired evidence document contains the answer to the query or not. When provided with a gold paragraph and knowing when to abstain from answering, existing models easily outperform a human annotator. However, predicting answerability itself remains challenging. We manually annotate 800 unanswerable examples across six languages on what makes them challenging to answer. With this new data, we conduct per-category answerability prediction, revealing issues in the current dataset collection as well as task formulation. Together, our study points to avenues for future research in information-seeking question answering, both for dataset creation and model development. Our code and annotated data is publicly available at \url{https://github.com/AkariAsai/unanswerable_qa}.",
+}
+
+@inproceedings{yamada-etal-2021-efficient,
+    title = "Efficient Passage Retrieval with Hashing for Open-domain Question Answering",
+    author = "Yamada, Ikuya  and
+      Asai, Akari  and
+      Hajishirzi, Hannaneh",
+    editor = "Zong, Chengqing  and
+      Xia, Fei  and
+      Li, Wenjie  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL short)",
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-short.123",
+    doi = "10.18653/v1/2021.acl-short.123",
+    pages = "979--986",
+    pdf="https://aclanthology.org/2021.acl-short.123.pdf",
+    preview="bpr.png",
+    code="https://github.com/studio-ousia/bpr",
+    abstract = "Most state-of-the-art open-domain question answering systems use a neural retrieval model to encode passages into continuous vectors and extract them from a knowledge source. However, such retrieval models often require large memory to run because of the massive size of their passage index. In this paper, we introduce Binary Passage Retriever (BPR), a memory-efficient neural retrieval model that integrates a learning-to-hash technique into the state-of-the-art Dense Passage Retriever (DPR) to represent the passage index using compact binary codes rather than continuous vectors. BPR is trained with a multi-task objective over two tasks: efficient candidate generation based on binary codes and accurate reranking based on continuous vectors. Compared with DPR, BPR substantially reduces the memory cost from 65GB to 2GB without a loss of accuracy on two standard open-domain question answering benchmarks: Natural Questions and TriviaQA. Our code and trained models are available at \url{https://github.com/studio-ousia/bpr}.",
+}
+
+
+@inproceedings{asai-etal-2021-xor,
+    title = "{XOR} {QA}: Cross-lingual Open-Retrieval Question Answering",
+    author = "Asai, Akari  and
+      Kasai, Jungo  and
+      Clark, Jonathan  and
+      Lee, Kenton  and
+      Choi, Eunsol  and
+      Hajishirzi, Hannaneh",
+    editor = "Toutanova, Kristina  and
+      Rumshisky, Anna  and
+      Zettlemoyer, Luke  and
+      Hakkani-Tur, Dilek  and
+      Beltagy, Iz  and
+      Bethard, Steven  and
+      Cotterell, Ryan  and
+      Chakraborty, Tanmoy  and
+      Zhou, Yichao",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL; Oral)",
+    year = "2021",
+    url = "https://aclanthology.org/2021.naacl-main.46",
+    selected=true,
+    preview="xorqa.png",
+    abstract="Multilingual question answering tasks typically assume that answers exist in the same language as the question. Yet in practice, many languages face both information scarcity—where languages have few reference articles—and information asymmetry—where questions reference concepts from other cultures. This work extends open-retrieval question answering to a cross-lingual setting enabling questions from one language to be answered via answer content from another language. We construct a large-scale dataset built on 40K information-seeking questions across 7 diverse non-English languages that TyDi QA could not find same-language answers for. Based on this dataset, we introduce a task framework, called Cross-lingual Open-Retrieval Question Answering (XOR QA), that consists of three new tasks involving cross-lingual document retrieval from multilingual and English resources. We establish baselines with state-of-the-art machine translation systems and cross-lingual pretrained models. Experimental results suggest that XOR QA is a challenging task that will facilitate the development of novel techniques for multilingual question answering. Our data and code are available at https://nlp.cs.washington.edu/xorqa/.",
+    code="https://github.com/AkariAsai/XORQA",
+    video="https://aclanthology.org/2021.naacl-main.46.mp4",
+    pdf="https://aclanthology.org/2021.naacl-main.46.pdf"
+}
+
+
+
+
+@article{mishra2024finegrained,
+  title={Fine-grained Hallucinations Detections},
+  author={Mishra, Abhika and Asai, Akari and Wang, Yizhong and Balachandran, Vidhisha and Neubig, Graham and Tsvetkov, Yulia and Hajishirzi, Hannaneh},
+  journal={arXiv preprint},
+  year={2024},
+  preview="fava.png",
+  abstract="Large language models (LMs) are prone to generate diverse factually incorrect statements, which are widely called hallucinations. Current approaches predominantly focus on coarse-grained automatic hallucination detection or editing, overlooking nuanced error levels. In this paper, we propose a novel task -- automatic fine-grained hallucination detection -- and present a comprehensive taxonomy encompassing six hierarchically defined types of hallucination. To facilitate evaluation, we introduce a new benchmark that includes fine-grained human judgments on two LM outputs across various domains. Our analysis reveals that ChatGPT and Llama 2-Chat exhibit hallucinations in 60\% and 75\% of their outputs, respectively, and a majority of these hallucinations fall into categories that have been underexplored. As an initial step to address this, we train FAVA, a retrieval-augmented LM by carefully designing synthetic data generations to detect and correct fine-grained hallucinations. On our benchmark, our automatic and human evaluations show that FAVA significantly outperforms ChatGPT on fine-grained hallucination detection by a large margin though a large room for future improvement still exists. FAVA's suggested edits also improve the factuality of LM-generated text, resulting in 5-10\% FActScore improvements.",
+url="https://arxiv.org/abs/2401.06855",
+code="https://github.com/abhika-m/FAVA",
+website="https://fine-grained-hallucination.github.io/",
+pdf="https://arxiv.org/pdf/2401.06855.pdf"
+}
+
+
+@inproceedings{yamada-etal-2020-wikipedia2vec,
+    title = "{W}ikipedia2{V}ec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from {W}ikipedia",
+    author = "Yamada, Ikuya  and
+      Asai, Akari  and
+      Sakuma, Jin  and
+      Shindo, Hiroyuki  and
+      Takeda, Hideaki  and
+      Takefuji, Yoshiyasu  and
+      Matsumoto, Yuji",
+    editor = "Liu, Qun  and
+      Schlangen, David",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP System Demonstrations)",
+    year = "2020",
+    pdf="https://aclanthology.org/2020.emnlp-demos.4.pdf",
+    code="https://github.com/wikipedia2vec/wikipedia2vec",
+   abstract="The embeddings of entities in a large knowledge base (e.g., Wikipedia) are highly beneficial for solving various natural language tasks that involve real world knowledge. In this paper, we present Wikipedia2Vec, a Python-based open-source tool for learning the embeddings of words and entities from Wikipedia. The proposed tool enables users to learn the embeddings efficiently by issuing a single command with a Wikipedia dump file as an argument. We also introduce a web-based demonstration of our tool that allows users to visualize and explore the learned embeddings. In our experiments, our tool achieved a state-of-the-art result on the KORE entity relatedness dataset, and competitive results on various standard benchmark datasets. Furthermore, our tool has been used as a key component in various recent studies. We publicize the source code, demonstration, and the pretrained embeddings for 12 languages at https://wikipedia2vec.github.io/.",
+    website="https://wikipedia2vec.github.io/wikipedia2vec/",
+    abstract = "The embeddings of entities in a large knowledge base (e.g., Wikipedia) are highly beneficial for solving various natural language tasks that involve real world knowledge. In this paper, we present Wikipedia2Vec, a Python-based open-source tool for learning the embeddings of words and entities from Wikipedia. The proposed tool enables users to learn the embeddings efficiently by issuing a single command with a Wikipedia dump file as an argument. We also introduce a web-based demonstration of our tool that allows users to visualize and explore the learned embeddings. In our experiments, our tool achieved a state-of-the-art result on the KORE entity relatedness dataset, and competitive results on various standard benchmark datasets. Furthermore, our tool has been used as a key component in various recent studies. We publicize the source code, demonstration, and the pretrained embeddings for 12 languages at \url{https://wikipedia2vec.github.io/}.",
+}
+
+@inproceedings{asai-hajishirzi-2020-logic,
+    title = "Logic-Guided Data Augmentation and Regularization for Consistent Question Answering",
+    author = "Asai, Akari  and
+      Hajishirzi, Hannaneh",
+    editor = "Jurafsky, Dan  and
+      Chai, Joyce  and
+      Schluter, Natalie  and
+      Tetreault, Joel",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)",
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.acl-main.499",
+    doi = "10.18653/v1/2020.acl-main.499",
+    pages = "5642--5650",
+    preview="lgicqa.png",
+    pdf="https://aclanthology.org/2020.acl-main.499.pdf",
+    code="https://github.com/AkariAsai/logic_guided_qa",
+    video="https://slideslive.com/38929217/logicguided-data-augmentation-and-regularization-for-consistent-question-answering",
+    abstract = "Many natural language questions require qualitative, quantitative or logical comparisons between two entities or events. This paper addresses the problem of improving the accuracy and consistency of responses to comparison questions by integrating logic rules and neural models. Our method leverages logical and linguistic knowledge to augment labeled training data and then uses a consistency-based regularizer to train the model. Improving the global consistency of predictions, our approach achieves large improvements over previous methods in a variety of question answering (QA) tasks, including multiple-choice qualitative reasoning, cause-effect reasoning, and extractive machine reading comprehension. In particular, our method significantly improves the performance of RoBERTa-based models by 1-5 percent across datasets. We advance state of the art by around 5-8 percent on WIQA and QuaRel and reduce consistency violations by 58 percent on HotpotQA. We further demonstrate that our approach can learn effectively from limited data.",
+}
+
+
+@inproceedings{asai-etal-2022-attempt,
+    title = "{ATTEMPT}: Parameter-Efficient Multi-task Tuning via Attentional Mixtures of Soft Prompts",
+    author = "Asai, Akari  and
+      Salehi, Mohammadreza  and
+      Peters, Matthew  and
+      Hajishirzi, Hannaneh",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    year = "2022",
+    url = "https://aclanthology.org/2022.emnlp-main.446",
+    doi = "10.18653/v1/2022.emnlp-main.446",
+    pages = "6655--6672",
+    code="https://github.com/AkariAsai/ATTEMPT",
+    preview="attempt.png",
+    pdf="https://arxiv.org/pdf/2205.11961.pdf",
+    pdf="https://arxiv.org/pdf/2205.11961.pdf",
+    abstract = "This work introduces a new multi-task, parameter-efficient language model (LM) tuning method that learns to transfer knowledge across different tasks via a mixture of soft prompts{---}small prefix embedding vectors pre-trained for different tasks. Our method, called ATTEMPT (ATTEntional Mixtures of Prompt Tuning), obtains source prompts as encodings of large-scale source tasks into a small number of parameters and trains an attention module to interpolate the source prompts and a newly initialized target prompt for every instance in the target task. During training, only the target task prompt and the attention weights, which are shared between tasks in multi-task training, are updated, while the original LM and source prompts are intact. ATTEMPT is highly parameter-efficient (e.g., updates 2,300 times fewer parameters than full fine-tuning), while it overcomes instability of prompt tuning and achieves high task performance using learned knowledge from high-resource tasks. Moreover, it is modular using pre-trained soft prompts, and can flexibly add or remove source prompts for effective knowledge transfer. Our experimental results across 21 diverse NLP datasets show that ATTEMPT significantly outperforms prompt tuning and outperforms or matches fully fine-tuned or other parameter-efficient tuning approaches that use 10 times more parameters. Finally, ATTEMPT outperforms previous work in few-shot learning settings.",
+}
+
+@inproceedings{yu-etal-2022-beyond,
+    title = "Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources",
+    author = "Yu*, Xinyan  and
+      Asai*, Akari  and
+      Chatterjee, Trina  and
+      Hu, Junjie  and
+      Choi, Eunsol",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP",
+    year = "2022",
+    url = "https://aclanthology.org/2022.findings-emnlp.273",
+    preview="meta_survey.png",
+    pdf="https://arxiv.org/pdf/2211.15649.pdf",
+    website="https://multilingual-dataset-survey.github.io/",
+    abstract = "While the NLP community is generally aware of resource disparities among languages, we lack research that quantifies the extent and types of such disparity. Prior surveys estimating the availability of resources based on the number of datasets can be misleading as dataset quality varies: many datasets are automatically induced or translated from English data. To provide a more comprehensive picture of language resources, we examine the characteristics of 156 publicly available NLP datasets. We manually annotate how they are created, including input text and label sources and tools used to build them, and what they study, tasks they address and motivations for their creation. After quantifying the qualitative NLP resource gap across languages, we discuss how to improve data collection in low-resource languages. We survey language-proficient NLP researchers and crowd workers per language, finding that their estimated availability correlates with dataset availability. Through crowdsourcing experiments, we identify strategies for collecting high-quality multilingual data on the Mechanical Turk platform. We conclude by making macro and micro-level suggestions to the NLP community and individual researchers for future multilingual data development.",
+}
+
+
+@proceedings{mia-2022-multilingual,
+    title = "Proceedings of the Workshop on Multilingual Information Access (MIA)",
+    editor = "Asai, Akari  and
+      Choi, Eunsol  and
+      Clark, Jonathan H.  and
+      Hu, Junjie  and
+      Lee, Chia-Hsuan  and
+      Kasai, Jungo  and
+      Longpre, Shayne  and
+      Yamada, Ikuya  and
+      Zhang, Rui",
+    year = "2022",
+    url = "https://aclanthology.org/2022.mia-1.0",
+    pdf="https://aclanthology.org/volumes/2022.mia-1/",
+    website="https://mia-workshop.github.io/"
+}
+
+@inproceedings{asai-etal-2022-mia,
+    title = "{MIA} 2022 Shared Task: Evaluating Cross-lingual Open-Retrieval Question Answering for 16 Diverse Languages",
+    author = "Asai, Akari  and
+      Longpre, Shayne  and
+      Kasai, Jungo  and
+      Lee, Chia-Hsuan  and
+      Zhang, Rui  and
+      Hu, Junjie  and
+      Yamada, Ikuya  and
+      Clark, Jonathan H.  and
+      Choi, Eunsol",
+    editor = "Asai, Akari  and
+      Choi, Eunsol  and
+      Clark, Jonathan H.  and
+      Hu, Junjie  and
+      Lee, Chia-Hsuan  and
+      Kasai, Jungo  and
+      Longpre, Shayne  and
+      Yamada, Ikuya  and
+      Zhang, Rui",
+    booktitle = "Proceedings of the Workshop on Multilingual Information Access (MIA)",
+    year = "2022",
+    pdf="https://aclanthology.org/2022.mia-1.11.pdf",
+    website="https://mia-workshop.github.io/shared_task.html",
+    code="https://github.com/mia-workshop/MIA-Shared-Task-2022",
+    abstract = "We present the results of the Workshop on Multilingual Information Access (MIA) 2022 Shared Task, evaluating cross-lingual open-retrieval question answering (QA) systems in 16 typologically diverse languages. In this task, we adapted two large-scale cross-lingual open-retrieval QA datasets in 14 typologically diverse languages, and newly annotated open-retrieval QA data in 2 underrepresented languages: Tagalog and Tamil. Four teams submitted their systems. The best constrained system uses entity-aware contextualized representations for document retrieval, thereby achieving an average F1 score of 31.6, which is 4.1 F1 absolute higher than the challenging baseline. The best system obtains particularly significant improvements in Tamil (20.8 F1), whereas most of the other systems yield nearly zero scores. The best unconstrained system achieves 32.2 F1, outperforming our baseline by 4.5 points.",
+}
+
+
+
+@inproceedings{asai-etal-2022-evidentiality,
+    title = "Evidentiality-guided Generation for Knowledge-Intensive {NLP} Tasks",
+    author = "Asai, Akari  and
+      Gardner, Matt  and
+      Hajishirzi, Hannaneh",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.162",
+    doi = "10.18653/v1/2022.naacl-main.162",
+    pages = "2226--2243",
+    code="https://github.com/AkariAsai/evidentiality_qa",
+    preview="evidentiality.png",
+    pdf="https://arxiv.org/pdf/2112.08688.pdf",
+    video="https://aclanthology.org/2022.naacl-main.162.mp4",
+    abstract = "Retrieval-augmented generation models have shown state-of-the-art performance across many knowledge-intensive NLP tasks such as open-domain question answering and fact verification. These models are trained to generate a final output given retrieved passages that can be irrelevant to an input query, leading to learning spurious cues or memorization. This work introduces a method to incorporate \textit{evidentiality} of passages{---}whether a passage contains correct evidence to support the output{---}into training the generator. We introduce a multi-task learning framework to jointly generate the final output and predict the \textit{evidentiality} of each passage. Furthermore, we introduce a new task-agnostic method for obtaining high-quality \textit{silver} evidentiality labels, addressing the issues of gold evidentiality labels being unavailable in most domains. Our experiments on five datasets across three knowledge-intensive tasks show that our new evidentiality-guided generator significantly outperforms its direct counterpart on all of them, and advances the state of the art on three of them. Our analysis shows that multi-task learning and silver evidentiality mining play key roles. Our code is available at \url{https://github.com/AkariAsai/evidentiality_qa}",
+}
+
+@inproceedings{asai-etal-2018-happydb,
+    title = "{H}appy{DB}: A Corpus of 100,000 Crowdsourced Happy Moments",
+    author = "Asai, Akari  and
+      Evensen, Sara  and
+      Golshan, Behzad  and
+      Halevy, Alon  and
+      Li, Vivian  and
+      Lopatenko, Andrei  and
+      Stepanov, Daniela  and
+      Suhara, Yoshihiko  and
+      Tan, Wang-Chiew  and
+      Xu, Yinzhan",
+    editor = "Calzolari, Nicoletta  and
+      Choukri, Khalid  and
+      Cieri, Christopher  and
+      Declerck, Thierry  and
+      Goggi, Sara  and
+      Hasida, Koiti  and
+      Isahara, Hitoshi  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Mazo, H{\'e}l{\`e}ne  and
+      Moreno, Asuncion  and
+      Odijk, Jan  and
+      Piperidis, Stelios  and
+      Tokunaga, Takenobu",
+    booktitle = "Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018)",
+    year = "2018",
+    address = "Miyazaki, Japan",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/L18-1103",
+    preview="happydb.png",
+    pdf="https://arxiv.org/pdf/1801.07746.pdf",
+    website="https://megagon.ai/happydb-a-happiness-database-of-100000-happy-moments/",
+    code="https://github.com/megagonlabs/HappyDB",
+    abstract="The science of happiness is an area of positive psychology concerned with understanding what behaviors make people happy in a sustainable fashion. Recently, there has been interest in developing technologies that help incorporate the findings of the science of happiness into users' daily lives by steering them towards behaviors that increase happiness. With the goal of building technology that can understand how people express their happy moments in text, we crowd-sourced HappyDB, a corpus of 100,000 happy moments that we make publicly available. This paper describes HappyDB and its properties, and outlines several important NLP problems that can be studied with the help of the corpus. We also apply several state-of-the-art analysis techniques to analyze HappyDB. Our results demonstrate the need for deeper NLP techniques to be developed which makes HappyDB an exciting resource for follow-on research."
+}
+
+
+@inproceedings{asai2019learning,
+  title={Learning to retrieve reasoning paths over wikipedia graph for question answering},
+  author={Asai, Akari and Hashimoto, Kazuma and Hajishirzi, Hannaneh and Socher, Richard and Xiong, Caiming},
+  booktitle={ International Conference on Learning Representations (ICLR)},
+  year={2020},
+url="https://openreview.net/forum?id=SJgVHkrYDH",
+selected={true},
+preview="reasoning_paths.png",
+code={https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths},
+pdf="https://arxiv.org/pdf/1911.10470.pdf",
+blog="https://blog.salesforceairesearch.com/learning-to-retrieve-reasoning-paths-from-the-wikipedia-graph-for-question-answering/",
+abstract="Answering questions that require multi-hop reasoning at web-scale necessitates retrieving multiple evidence documents, one of which often has little lexical or semantic relationship to the question. This paper introduces a new graph-based recurrent retrieval approach that learns to retrieve reasoning paths over the Wikipedia graph to answer multi-hop open-domain questions. Our retriever model trains a recurrent neural network that learns to sequentially retrieve evidence paragraphs in the reasoning path by conditioning on the previously retrieved documents. Our reader model ranks the reasoning paths and extracts the answer span included in the best reasoning path. Experimental results show state-of-the-art results in three open-domain QA datasets, showcasing the effectiveness and robustness of our method. Notably, our method achieves significant improvement in HotpotQA, outperforming the previous best model by more than 14 points."
 }

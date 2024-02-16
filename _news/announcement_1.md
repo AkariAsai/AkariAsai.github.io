@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our [Self-RAG](https://arxiv.org/abs/2310.11511) was accepted as an oral paper (top 1% among submissions) at ICLR 2023.
