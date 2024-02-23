@@ -30,8 +30,8 @@ nav_order: 4
 
 
 ##### External talks
-- 2024.1 (expected): Meta Smart Glass AI Reading Group, *Reliable, Adaptive and Attributable LMs with Retrieval*
-- 2024.1 (expected): [University College London, Web Intelligence Group](https://wi.cs.ucl.ac.uk/), *Reliable, Adaptive and Attributable LMs with Retrieval*
+- 2024.3 (expected): Meta Smart Glass AI Reading Group, *Reliable, Adaptive and Attributable LMs with Retrieval*
+- 2024.2: [University College London, Web Intelligence Group](https://wi.cs.ucl.ac.uk/), *Reliable, Adaptive and Attributable LMs with Retrieval*
 - 2023.12: [Microsoft Research Health Futures team](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), *Self-reflective Language Models with Retrieval*
 - 2023.10: [University of Edinburgh, Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc/news-events/previous-speakers/akari-asai-seminar), *Self-reflective Language Models with Retrieval*
 - 2023.10: [University of Massachusetts Amherst Machine Learning and Friends Lunch](https://ds.cs.umass.edu/mlfl), *Self-reflective Language Models with Retrieval*

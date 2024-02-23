@@ -234,6 +234,19 @@ booktitle={Thirty-seventh Conference on Neural Information Processing Systems Da
 }
 
 
+@inproceedings{asai2019learning,
+  title={Learning to retrieve reasoning paths over wikipedia graph for question answering},
+  author={Asai, Akari and Hashimoto, Kazuma and Hajishirzi, Hannaneh and Socher, Richard and Xiong, Caiming},
+  booktitle={ International Conference on Learning Representations (ICLR)},
+  year={2020},
+url="https://openreview.net/forum?id=SJgVHkrYDH",
+selected={true},
+preview="reasoning_paths.png",
+code={https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths},
+pdf="https://arxiv.org/pdf/1911.10470.pdf",
+blog="https://blog.salesforceairesearch.com/learning-to-retrieve-reasoning-paths-from-the-wikipedia-graph-for-question-answering/",
+abstract="Answering questions that require multi-hop reasoning at web-scale necessitates retrieving multiple evidence documents, one of which often has little lexical or semantic relationship to the question. This paper introduces a new graph-based recurrent retrieval approach that learns to retrieve reasoning paths over the Wikipedia graph to answer multi-hop open-domain questions. Our retriever model trains a recurrent neural network that learns to sequentially retrieve evidence paragraphs in the reasoning path by conditioning on the previously retrieved documents. Our reader model ranks the reasoning paths and extracts the answer span included in the best reasoning path. Experimental results show state-of-the-art results in three open-domain QA datasets, showcasing the effectiveness and robustness of our method. Notably, our method achieves significant improvement in HotpotQA, outperforming the previous best model by more than 14 points."
+}
 
 @inproceedings{NEURIPS2021_3df07fda,
  author = {Asai, Akari and Yu, Xinyan and Kasai, Jungo and Hajishirzi, Hanna},
@@ -522,19 +535,4 @@ pdf="https://arxiv.org/pdf/2401.06855.pdf"
     website="https://megagon.ai/happydb-a-happiness-database-of-100000-happy-moments/",
     code="https://github.com/megagonlabs/HappyDB",
     abstract="The science of happiness is an area of positive psychology concerned with understanding what behaviors make people happy in a sustainable fashion. Recently, there has been interest in developing technologies that help incorporate the findings of the science of happiness into users' daily lives by steering them towards behaviors that increase happiness. With the goal of building technology that can understand how people express their happy moments in text, we crowd-sourced HappyDB, a corpus of 100,000 happy moments that we make publicly available. This paper describes HappyDB and its properties, and outlines several important NLP problems that can be studied with the help of the corpus. We also apply several state-of-the-art analysis techniques to analyze HappyDB. Our results demonstrate the need for deeper NLP techniques to be developed which makes HappyDB an exciting resource for follow-on research."
-}
-
-
-@inproceedings{asai2019learning,
-  title={Learning to retrieve reasoning paths over wikipedia graph for question answering},
-  author={Asai, Akari and Hashimoto, Kazuma and Hajishirzi, Hannaneh and Socher, Richard and Xiong, Caiming},
-  booktitle={ International Conference on Learning Representations (ICLR)},
-  year={2020},
-url="https://openreview.net/forum?id=SJgVHkrYDH",
-selected={true},
-preview="reasoning_paths.png",
-code={https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths},
-pdf="https://arxiv.org/pdf/1911.10470.pdf",
-blog="https://blog.salesforceairesearch.com/learning-to-retrieve-reasoning-paths-from-the-wikipedia-graph-for-question-answering/",
-abstract="Answering questions that require multi-hop reasoning at web-scale necessitates retrieving multiple evidence documents, one of which often has little lexical or semantic relationship to the question. This paper introduces a new graph-based recurrent retrieval approach that learns to retrieve reasoning paths over the Wikipedia graph to answer multi-hop open-domain questions. Our retriever model trains a recurrent neural network that learns to sequentially retrieve evidence paragraphs in the reasoning path by conditioning on the previously retrieved documents. Our reader model ranks the reasoning paths and extracts the answer span included in the best reasoning path. Experimental results show state-of-the-art results in three open-domain QA datasets, showcasing the effectiveness and robustness of our method. Notably, our method achieves significant improvement in HotpotQA, outperforming the previous best model by more than 14 points."
 }
