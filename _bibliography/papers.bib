@@ -179,6 +179,18 @@ booktitle={Thirty-seventh Conference on Neural Information Processing Systems Da
     abstract = "Despite their impressive performance on diverse tasks, large language models (LMs) still struggle with tasks requiring rich world knowledge, implying the difficulty of encoding a wealth of world knowledge in their parameters. This paper aims to understand LMs{'} strengths and limitations in memorizing factual knowledge, by conducting large-scale knowledge probing experiments on two open-domain entity-centric QA datasets: PopQA, our new dataset with 14k questions about long-tail entities, and EntityQuestions, a widely used open-domain QA dataset. We find that LMs struggle with less popular factual knowledge, and that retrieval augmentation helps significantly in these cases. Scaling, on the other hand, mainly improves memorization of popular knowledge, and fails to appreciably improve memorization of factual knowledge in the tail. Based on those findings, we devise a new method for retrieval-augmentation that improves performance and reduces inference costs by only retrieving non-parametric memories when necessary.",
 }
 
+@article{asai2024retrieval,
+  title={Reliable, Adaptable, and Attributable Language Models with Retrieval},
+  author={Asai, Akari  and Zhong, Zexuan and Chen, Danqi and Koh, Pang Wei  and Zettlemoyer, Luke and Hajishirzi, Hannaneh and Yih, Wen-tau},
+  journal={arXiv preprint},
+  year={2024},
+  abstract="Parametric language models (LMs), which are trained on vast amounts of web data, exhibit remarkable flexibility and capability. However, they still face practical challenges such as hallucinations, difficulty in adapting to new data distributions, and a lack of verifiability. In this position paper, we advocate for retrieval-augmented LMs to replace parametric LMs as the next generation of LMs. By incorporating large-scale datastores during inference, retrieval-augmented LMs can be more reliable, adaptable, and attributable. Despite their potential, retrieval-augmented LMs have yet to be widely adopted due to several obstacles: specifically, current retrieval-augmented LMs struggle to leverage helpful text beyond knowledge-intensive tasks such as question answering, have limited interaction between retrieval and LM components, and lack the infrastructure for scaling. To address these, we propose a roadmap for developing general-purpose retrieval-augmented LMs. This involves a reconsideration of datastores and retrievers, the exploration of pipelines with improved retriever-LM interaction, and significant investment in infrastructure for efficient training and inference.",
+url="https://arxiv.org/abs/2403.03187",
+pdf="https://arxiv.org/pdf/2403.03187.pdf",
+selected=true,
+}
+
+
 
 @inproceedings{asai-etal-2023-retrieval,
     title = "Retrieval-based Language Models and Applications",
@@ -331,8 +343,6 @@ abstract="Answering questions that require multi-hop reasoning at web-scale nece
     video="https://aclanthology.org/2021.naacl-main.46.mp4",
     pdf="https://aclanthology.org/2021.naacl-main.46.pdf"
 }
-
-
 
 
 @article{mishra2024finegrained,
