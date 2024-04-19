@@ -17,9 +17,9 @@ nav_order: 4
 
 
 ##### Invited Lectures
-- (expected) Invited lecture about *Retrieval-augmented LMs* at [Washington University in St. Louis CSE 561A: Large Language Models (Spring 2024)](https://teapot123.github.io/CSE561A_2024sp/)
-- (expected) Invited lecture about *Retrieval-augmented LMs* at [Yale CPSC 477/577 NLP (Spring 2024)](https://yale-nlp.github.io/cpsc477/)
-- (expected) Invited lecture about *State-of-the-art of RAG* at [CMU Advanced NLP (Spring 2024)](https://phontron.com/class/anlp2024/)
+- Invited lecture about *Retrieval-augmented LMs* at [Washington University in St. Louis CSE 561A: Large Language Models (Spring 2024)](https://teapot123.github.io/CSE561A_2024sp/)
+- Invited lecture about *Retrieval-augmented LMs* at [Yale CPSC 477/577 NLP (Spring 2024)](https://yale-nlp.github.io/cpsc477/)
+- Invited lecture about *State-of-the-art of RAG* at [CMU Advanced NLP (Spring 2024)](https://phontron.com/class/anlp2024/)
 - Invited lecture about *Retrieval-augmented LMs* at [UW CSE 447: Natural Language Processing (Winter 2024)](https://courses.cs.washington.edu/courses/cse447/24wi/) [(slides)](assets/pdf/akari_ralm_lecture_final.pdf) [(video)](https://drive.google.com/file/d/1iOnY-2hzr59ktuWu8hzouWZJsw_YsuvN/view?usp=drive_link)
 - Invited lecture about *Introduction to AI* at [UW CSE 473 - Introduction to Artificial Intelligence (Fall 2023)](https://courses.cs.washington.edu/courses/cse447/24wi/)
 - Invited lecture about *Multilingual NLP* at [UW CSE 447: Natural Language Processing (Winter 2023)](https://courses.cs.washington.edu/courses/cse447/23wi/)
