@@ -1,13 +1,25 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@inproceedings{mishra2024finegrained,
+  title={Fine-grained Hallucinations Detections},
+  author={Mishra, Abhika and Asai, Akari and Wang, Yizhong and Balachandran, Vidhisha and Neubig, Graham and Tsvetkov, Yulia and Hajishirzi, Hannaneh},
+  booktitle={Conference on Language Modeling (COLM)},
+  year={2024},
+  preview="fava.png",
+  abstract="Large language models (LMs) are prone to generate diverse factually incorrect statements, which are widely called hallucinations. Current approaches predominantly focus on coarse-grained automatic hallucination detection or editing, overlooking nuanced error levels. In this paper, we propose a novel task -- automatic fine-grained hallucination detection -- and present a comprehensive taxonomy encompassing six hierarchically defined types of hallucination. To facilitate evaluation, we introduce a new benchmark that includes fine-grained human judgments on two LM outputs across various domains. Our analysis reveals that ChatGPT and Llama 2-Chat exhibit hallucinations in 60\% and 75\% of their outputs, respectively, and a majority of these hallucinations fall into categories that have been underexplored. As an initial step to address this, we train FAVA, a retrieval-augmented LM by carefully designing synthetic data generations to detect and correct fine-grained hallucinations. On our benchmark, our automatic and human evaluations show that FAVA significantly outperforms ChatGPT on fine-grained hallucination detection by a large margin though a large room for future improvement still exists. FAVA's suggested edits also improve the factuality of LM-generated text, resulting in 5-10\% FActScore improvements.",
+url="https://arxiv.org/abs/2401.06855",
+code="https://github.com/abhika-m/FAVA",
+website="https://fine-grained-hallucination.github.io/",
+pdf="https://arxiv.org/pdf/2401.06855.pdf"
+}
+
 
 @inproceedings{
 asai2024buffet,
 title={{BUFFET}: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer},
 author={Akari Asai and Sneha Kudugunta and Xinyan Velocity Yu and Terra Blevins and Hila Gonen and Machel Reid and Yulia Tsvetkov and Sebastian Ruder and Hannaneh Hajishirzi},
-booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL; Oral)},
 year={2024},
 url={https://openreview.net/forum?id=SgRl7Jm3M9},
 abstract="Despite remarkable advancements in few-shot generalization in natural language processing, most models are developed and evaluated primarily in English. To establish a rigorous and equitable evaluation framework for few-shot cross-lingual transfer, we introduce a new benchmark, called BUFFET, which unifies 15 diverse tasks across 54 languages in a sequence-to-sequence format and provides a fixed set of few-shot examples and instructions.  Using BUFFET, we perform thorough evaluations of ten state-of-the-art multilingual large language models with different transfer methods, namely in-context learning and fine-tuning. Our findings reveal significant room for improvement in few-shot in-context cross-lingual transfer. Strong multilingual pre-trained or instruction-tuned models such as BLOOM or ChatGPT lag behind much smaller mT5-base models given the same number of few-shot samples, particularly in low-resource languages.
@@ -355,20 +367,6 @@ abstract="Answering questions that require multi-hop reasoning at web-scale nece
     code="https://github.com/AkariAsai/XORQA",
     video="https://aclanthology.org/2021.naacl-main.46.mp4",
     pdf="https://aclanthology.org/2021.naacl-main.46.pdf"
-}
-
-
-@article{mishra2024finegrained,
-  title={Fine-grained Hallucinations Detections},
-  author={Mishra, Abhika and Asai, Akari and Wang, Yizhong and Balachandran, Vidhisha and Neubig, Graham and Tsvetkov, Yulia and Hajishirzi, Hannaneh},
-  journal={arXiv preprint},
-  year={2024},
-  preview="fava.png",
-  abstract="Large language models (LMs) are prone to generate diverse factually incorrect statements, which are widely called hallucinations. Current approaches predominantly focus on coarse-grained automatic hallucination detection or editing, overlooking nuanced error levels. In this paper, we propose a novel task -- automatic fine-grained hallucination detection -- and present a comprehensive taxonomy encompassing six hierarchically defined types of hallucination. To facilitate evaluation, we introduce a new benchmark that includes fine-grained human judgments on two LM outputs across various domains. Our analysis reveals that ChatGPT and Llama 2-Chat exhibit hallucinations in 60\% and 75\% of their outputs, respectively, and a majority of these hallucinations fall into categories that have been underexplored. As an initial step to address this, we train FAVA, a retrieval-augmented LM by carefully designing synthetic data generations to detect and correct fine-grained hallucinations. On our benchmark, our automatic and human evaluations show that FAVA significantly outperforms ChatGPT on fine-grained hallucination detection by a large margin though a large room for future improvement still exists. FAVA's suggested edits also improve the factuality of LM-generated text, resulting in 5-10\% FActScore improvements.",
-url="https://arxiv.org/abs/2401.06855",
-code="https://github.com/abhika-m/FAVA",
-website="https://fine-grained-hallucination.github.io/",
-pdf="https://arxiv.org/pdf/2401.06855.pdf"
 }
 
 
