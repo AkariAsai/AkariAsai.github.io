@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 ##### Selected Press
+- 2024.7: **Forbes -- Innovation** -- [How RAG-Powered AI Applications Have A Positive Impact On Businesses](https://www.forbes.com/councils/forbestechcouncil/2024/07/30/how-rag-powered-ai-applications-have-a-positive-impact-on-businesses/)
 - 2023.11: **Towards Data Science** -- [How Self-RAG Could Revolutionize Industrial LLMs](https://towardsdatascience.com/how-self-rag-could-revolutionize-industrial-llms-b33d9f810264)
 - 2022.10: **UW CSE News** -- [Lost in translation no more: IBM Fellowship winner Akari Asai asks — and answers — big questions in NLP to expand information access to all](https://news.cs.washington.edu/2022/10/20/lost-in-translation-no-more-ibm-fellowship-winner-akari-asai-asks-and-answers-big-questions-in-nlp-to-expand-information-access-to-all/)
 - 2020.2: **VentureBeat** -- [Salesforce’s AI navigates Wikipedia to find answers to complex questions](https://venturebeat.com/ai/salesforces-ai-navigates-wikipedia-to-find-answers-to-complex-questions/)
