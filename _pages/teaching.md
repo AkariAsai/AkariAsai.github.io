@@ -17,6 +17,8 @@ nav_order: 4
 
 
 ##### Invited Lectures
+- (expected) Invited lecture about *Past, Present and Future of Retrieval-augmented Language Models* at [University of Wisconsin-Madison Advanced Natural Language Processing (Fall 2024)](https://junjiehu.github.io/cs769-fall24/lectures/)
+- Invited lecture about *Past, Present and Future of Retrieval-augmented Language Models* at [CMU Large Language Models and Applications (Fall 2024)](https://cmu-llms.org/)
 - Invited lecture about *Retrieval-augmented LMs* at [Washington University in St. Louis CSE 561A: Large Language Models (Spring 2024)](https://teapot123.github.io/CSE561A_2024sp/)
 - Invited lecture about *Retrieval-augmented LMs* at [Yale CPSC 477/577 NLP (Spring 2024)](https://yale-nlp.github.io/cpsc477/)
 - Invited lecture about *State-of-the-art of RAG* at [CMU Advanced NLP (Spring 2024)](https://phontron.com/class/anlp2024/)
