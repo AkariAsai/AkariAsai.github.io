@@ -235,7 +235,7 @@ booktitle={Thirty-seventh Conference on Neural Information Processing Systems Da
     year = "2023",
     url = "https://aclanthology.org/2023.acl-long.546",
     code = "https://github.com/AlexTMallen/adaptive-retrieval",
-    selected=true,
+    selected={true},
     pdf="https://arxiv.org/pdf/2212.10511.pdf",
     preview="popqa.png",
     video="https://aclanthology.org/2023.acl-long.546.mp4",
@@ -250,7 +250,7 @@ booktitle={Thirty-seventh Conference on Neural Information Processing Systems Da
   abstract="Parametric language models (LMs), which are trained on vast amounts of web data, exhibit remarkable flexibility and capability. However, they still face practical challenges such as hallucinations, difficulty in adapting to new data distributions, and a lack of verifiability. In this position paper, we advocate for retrieval-augmented LMs to replace parametric LMs as the next generation of LMs. By incorporating large-scale datastores during inference, retrieval-augmented LMs can be more reliable, adaptable, and attributable. Despite their potential, retrieval-augmented LMs have yet to be widely adopted due to several obstacles: specifically, current retrieval-augmented LMs struggle to leverage helpful text beyond knowledge-intensive tasks such as question answering, have limited interaction between retrieval and LM components, and lack the infrastructure for scaling. To address these, we propose a roadmap for developing general-purpose retrieval-augmented LMs. This involves a reconsideration of datastores and retrievers, the exploration of pipelines with improved retriever-LM interaction, and significant investment in infrastructure for efficient training and inference.",
 url="https://arxiv.org/abs/2403.03187",
 pdf="https://arxiv.org/pdf/2403.03187.pdf",
-selected=true,
+selected={true},
 }
 
 
@@ -291,7 +291,7 @@ selected=true,
     abstract="We study the problem of retrieval with instructions, where users of a retrieval system explicitly describe their intent along with their queries. We aim to develop a general-purpose task-aware retrieval system using multi-task instruction tuning, which can follow human-written instructions to find the best documents for a given query. We introduce the first large-scale collection of approximately 40 retrieval datasets with instructions, BERRI, and present TART, a multi-task retrieval system trained on BERRI with instructions. TART shows strong capabilities to adapt to a new retrieval task via instructions and advances the state of the art on two zero-shot retrieval benchmarks, BEIR and LOTTE, outperforming models up to three times larger. We further introduce a new evaluation setup, X^2-Retrieval to better reflect real-world scenarios, where diverse domains and tasks are pooled and a system needs to find documents aligning users' intents. In this setup, TART significantly outperforms competitive baselines, further demonstrating the effectiveness of guiding retrieval with instructions.",
     video="https://aclanthology.org/2023.findings-acl.225.mp4",
     pdf="https://arxiv.org/pdf/2211.09260.pdf",
-    selected=true
+selected={true},
 }
 
 
@@ -303,7 +303,7 @@ selected=true,
   url={https://api.semanticscholar.org/CorpusID:222124841},
   code={https://github.com/studio-ousia/luke},
   pdf="https://arxiv.org/pdf/2010.01057.pdf",
-  selected=true,
+selected={true},
   preview="luke.png",
   abstract="Entity representations are useful in natural language tasks involving entities. In this paper, we propose new pretrained contextualized representations of words and entities based on the bidirectional transformer. The proposed model treats words and entities in a given text as independent tokens, and outputs contextualized representations of them. Our model is trained using a new pretraining task based on the masked language model of BERT. The task involves predicting randomly masked words and entities in a large entity-annotated corpus retrieved from Wikipedia. We also propose an entity-aware self-attention mechanism that is an extension of the self-attention mechanism of the transformer, and considers the types of tokens (words or entities) when computing attention scores. The proposed model achieves impressive empirical performance on a wide range of entity-related tasks. In particular, it obtains state-of-the-art results on five well-known datasets: Open Entity (entity typing), TACRED (relation classification), CoNLL-2003 (named entity recognition), ReCoRD (cloze-style question answering), and SQuAD 1.1 (extractive question answering). Our source code and pretrained representations are available at this https URL."
 }
@@ -399,7 +399,7 @@ abstract="Answering questions that require multi-hop reasoning at web-scale nece
     booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL; Oral)",
     year = "2021",
     url = "https://aclanthology.org/2021.naacl-main.46",
-    selected=true,
+selected={true},
     preview="xorqa.png",
     abstract="Multilingual question answering tasks typically assume that answers exist in the same language as the question. Yet in practice, many languages face both information scarcity—where languages have few reference articles—and information asymmetry—where questions reference concepts from other cultures. This work extends open-retrieval question answering to a cross-lingual setting enabling questions from one language to be answered via answer content from another language. We construct a large-scale dataset built on 40K information-seeking questions across 7 diverse non-English languages that TyDi QA could not find same-language answers for. Based on this dataset, we introduce a task framework, called Cross-lingual Open-Retrieval Question Answering (XOR QA), that consists of three new tasks involving cross-lingual document retrieval from multilingual and English resources. We establish baselines with state-of-the-art machine translation systems and cross-lingual pretrained models. Experimental results suggest that XOR QA is a challenging task that will facilitate the development of novel techniques for multilingual question answering. Our data and code are available at https://nlp.cs.washington.edu/xorqa/.",
     code="https://github.com/AkariAsai/XORQA",
