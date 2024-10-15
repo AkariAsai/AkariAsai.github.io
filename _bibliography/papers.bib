@@ -26,7 +26,7 @@
 
 @inproceedings{chen2024copybench,
   title={CopyBench: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation},
-  author={Chen, Tong and Asai, Akari and Mireshghallah, Niloofar and Min, Sewon and Grimmelmann, James and Choi, Yejin and Hajishirzi, Hannaneh and Zettlemoyer, Luke and Koh, Pang Wei},
+  author={Chen, Tong and Asai*, Akari and Mireshghallah*, Niloofar and Min, Sewon and Grimmelmann, James and Choi, Yejin and Hajishirzi, Hannaneh and Zettlemoyer, Luke and Koh, Pang Wei},
   booktitle={Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year={2024},
   url="https://www.arxiv.org/pdf/2407.07087",
@@ -221,6 +221,18 @@ booktitle={Thirty-seventh Conference on Neural Information Processing Systems Da
 }
 
 
+@article{asai2024retrieval,
+  title={Reliable, Adaptable, and Attributable Language Models with Retrieval},
+  author={Asai, Akari  and Zhong, Zexuan and Chen, Danqi and Koh, Pang Wei  and Zettlemoyer, Luke and Hajishirzi, Hannaneh and Yih, Wen-tau},
+  journal={arXiv preprint},
+  year={2024},
+  abstract="Parametric language models (LMs), which are trained on vast amounts of web data, exhibit remarkable flexibility and capability. However, they still face practical challenges such as hallucinations, difficulty in adapting to new data distributions, and a lack of verifiability. In this position paper, we advocate for retrieval-augmented LMs to replace parametric LMs as the next generation of LMs. By incorporating large-scale datastores during inference, retrieval-augmented LMs can be more reliable, adaptable, and attributable. Despite their potential, retrieval-augmented LMs have yet to be widely adopted due to several obstacles: specifically, current retrieval-augmented LMs struggle to leverage helpful text beyond knowledge-intensive tasks such as question answering, have limited interaction between retrieval and LM components, and lack the infrastructure for scaling. To address these, we propose a roadmap for developing general-purpose retrieval-augmented LMs. This involves a reconsideration of datastores and retrievers, the exploration of pipelines with improved retriever-LM interaction, and significant investment in infrastructure for efficient training and inference.",
+url="https://arxiv.org/abs/2403.03187",
+pdf="https://arxiv.org/pdf/2403.03187.pdf",
+selected={true},
+}
+
+
 
 
 @inproceedings{mallen2022not,
@@ -241,18 +253,6 @@ booktitle={Thirty-seventh Conference on Neural Information Processing Systems Da
     video="https://aclanthology.org/2023.acl-long.546.mp4",
     abstract = "Despite their impressive performance on diverse tasks, large language models (LMs) still struggle with tasks requiring rich world knowledge, implying the difficulty of encoding a wealth of world knowledge in their parameters. This paper aims to understand LMs{'} strengths and limitations in memorizing factual knowledge, by conducting large-scale knowledge probing experiments on two open-domain entity-centric QA datasets: PopQA, our new dataset with 14k questions about long-tail entities, and EntityQuestions, a widely used open-domain QA dataset. We find that LMs struggle with less popular factual knowledge, and that retrieval augmentation helps significantly in these cases. Scaling, on the other hand, mainly improves memorization of popular knowledge, and fails to appreciably improve memorization of factual knowledge in the tail. Based on those findings, we devise a new method for retrieval-augmentation that improves performance and reduces inference costs by only retrieving non-parametric memories when necessary.",
 }
-
-@article{asai2024retrieval,
-  title={Reliable, Adaptable, and Attributable Language Models with Retrieval},
-  author={Asai, Akari  and Zhong, Zexuan and Chen, Danqi and Koh, Pang Wei  and Zettlemoyer, Luke and Hajishirzi, Hannaneh and Yih, Wen-tau},
-  journal={arXiv preprint},
-  year={2024},
-  abstract="Parametric language models (LMs), which are trained on vast amounts of web data, exhibit remarkable flexibility and capability. However, they still face practical challenges such as hallucinations, difficulty in adapting to new data distributions, and a lack of verifiability. In this position paper, we advocate for retrieval-augmented LMs to replace parametric LMs as the next generation of LMs. By incorporating large-scale datastores during inference, retrieval-augmented LMs can be more reliable, adaptable, and attributable. Despite their potential, retrieval-augmented LMs have yet to be widely adopted due to several obstacles: specifically, current retrieval-augmented LMs struggle to leverage helpful text beyond knowledge-intensive tasks such as question answering, have limited interaction between retrieval and LM components, and lack the infrastructure for scaling. To address these, we propose a roadmap for developing general-purpose retrieval-augmented LMs. This involves a reconsideration of datastores and retrievers, the exploration of pipelines with improved retriever-LM interaction, and significant investment in infrastructure for efficient training and inference.",
-url="https://arxiv.org/abs/2403.03187",
-pdf="https://arxiv.org/pdf/2403.03187.pdf",
-selected={true},
-}
-
 
 
 @inproceedings{asai-etal-2023-retrieval,
@@ -293,35 +293,29 @@ selected={true},
     pdf="https://arxiv.org/pdf/2211.09260.pdf",
 selected={true},
 }
-
-
-@inproceedings{Yamada2020LUKEDC,
-  title={LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention},
-  author={Ikuya Yamada and Akari Asai and Hiroyuki Shindo and Hideaki Takeda and Yuji Matsumoto},
-  booktitle={Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year={2020},
-  url={https://api.semanticscholar.org/CorpusID:222124841},
-  code={https://github.com/studio-ousia/luke},
-  pdf="https://arxiv.org/pdf/2010.01057.pdf",
-selected={true},
-  preview="luke.png",
-  abstract="Entity representations are useful in natural language tasks involving entities. In this paper, we propose new pretrained contextualized representations of words and entities based on the bidirectional transformer. The proposed model treats words and entities in a given text as independent tokens, and outputs contextualized representations of them. Our model is trained using a new pretraining task based on the masked language model of BERT. The task involves predicting randomly masked words and entities in a large entity-annotated corpus retrieved from Wikipedia. We also propose an entity-aware self-attention mechanism that is an extension of the self-attention mechanism of the transformer, and considers the types of tokens (words or entities) when computing attention scores. The proposed model achieves impressive empirical performance on a wide range of entity-related tasks. In particular, it obtains state-of-the-art results on five well-known datasets: Open Entity (entity typing), TACRED (relation classification), CoNLL-2003 (named entity recognition), ReCoRD (cloze-style question answering), and SQuAD 1.1 (extractive question answering). Our source code and pretrained representations are available at this https URL."
+@inproceedings{asai-etal-2022-evidentiality,
+    title = "Evidentiality-guided Generation for Knowledge-Intensive {NLP} Tasks",
+    author = "Asai, Akari  and
+      Gardner, Matt  and
+      Hajishirzi, Hannaneh",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL; Oral)",
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.162",
+    doi = "10.18653/v1/2022.naacl-main.162",
+    pages = "2226--2243",
+    code="https://github.com/AkariAsai/evidentiality_qa",
+    preview="evidentiality.png",
+    pdf="https://arxiv.org/pdf/2112.08688.pdf",
+    video="https://aclanthology.org/2022.naacl-main.162.mp4",
+    selected={true},
+    abstract = "Retrieval-augmented generation models have shown state-of-the-art performance across many knowledge-intensive NLP tasks such as open-domain question answering and fact verification. These models are trained to generate a final output given retrieved passages that can be irrelevant to an input query, leading to learning spurious cues or memorization. This work introduces a method to incorporate \textit{evidentiality} of passages{---}whether a passage contains correct evidence to support the output{---}into training the generator. We introduce a multi-task learning framework to jointly generate the final output and predict the \textit{evidentiality} of each passage. Furthermore, we introduce a new task-agnostic method for obtaining high-quality \textit{silver} evidentiality labels, addressing the issues of gold evidentiality labels being unavailable in most domains. Our experiments on five datasets across three knowledge-intensive tasks show that our new evidentiality-guided generator significantly outperforms its direct counterpart on all of them, and advances the state of the art on three of them. Our analysis shows that multi-task learning and silver evidentiality mining play key roles. Our code is available at \url{https://github.com/AkariAsai/evidentiality_qa}",
 }
 
-
-@inproceedings{asai2019learning,
-  title={Learning to retrieve reasoning paths over wikipedia graph for question answering},
-  author={Asai, Akari and Hashimoto, Kazuma and Hajishirzi, Hannaneh and Socher, Richard and Xiong, Caiming},
-  booktitle={ International Conference on Learning Representations (ICLR)},
-  year={2020},
-url="https://openreview.net/forum?id=SJgVHkrYDH",
-selected={true},
-preview="reasoning_paths.png",
-code={https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths},
-pdf="https://arxiv.org/pdf/1911.10470.pdf",
-blog="https://blog.salesforceairesearch.com/learning-to-retrieve-reasoning-paths-from-the-wikipedia-graph-for-question-answering/",
-abstract="Answering questions that require multi-hop reasoning at web-scale necessitates retrieving multiple evidence documents, one of which often has little lexical or semantic relationship to the question. This paper introduces a new graph-based recurrent retrieval approach that learns to retrieve reasoning paths over the Wikipedia graph to answer multi-hop open-domain questions. Our retriever model trains a recurrent neural network that learns to sequentially retrieve evidence paragraphs in the reasoning path by conditioning on the previously retrieved documents. Our reader model ranks the reasoning paths and extracts the answer span included in the best reasoning path. Experimental results show state-of-the-art results in three open-domain QA datasets, showcasing the effectiveness and robustness of our method. Notably, our method achieves significant improvement in HotpotQA, outperforming the previous best model by more than 14 points."
-}
 
 @inproceedings{NEURIPS2021_3df07fda,
  author = {Asai, Akari and Yu, Xinyan and Kasai, Jungo and Hajishirzi, Hanna},
@@ -451,6 +445,20 @@ selected={true},
 }
 
 
+@inproceedings{Yamada2020LUKEDC,
+  title={LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention},
+  author={Ikuya Yamada and Akari Asai and Hiroyuki Shindo and Hideaki Takeda and Yuji Matsumoto},
+  booktitle={Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:222124841},
+  code={https://github.com/studio-ousia/luke},
+  pdf="https://arxiv.org/pdf/2010.01057.pdf",
+selected={true},
+  preview="luke.png",
+  abstract="Entity representations are useful in natural language tasks involving entities. In this paper, we propose new pretrained contextualized representations of words and entities based on the bidirectional transformer. The proposed model treats words and entities in a given text as independent tokens, and outputs contextualized representations of them. Our model is trained using a new pretraining task based on the masked language model of BERT. The task involves predicting randomly masked words and entities in a large entity-annotated corpus retrieved from Wikipedia. We also propose an entity-aware self-attention mechanism that is an extension of the self-attention mechanism of the transformer, and considers the types of tokens (words or entities) when computing attention scores. The proposed model achieves impressive empirical performance on a wide range of entity-related tasks. In particular, it obtains state-of-the-art results on five well-known datasets: Open Entity (entity typing), TACRED (relation classification), CoNLL-2003 (named entity recognition), ReCoRD (cloze-style question answering), and SQuAD 1.1 (extractive question answering). Our source code and pretrained representations are available at this https URL."
+}
+
+
 @inproceedings{asai-etal-2022-attempt,
     title = "{ATTEMPT}: Parameter-Efficient Multi-task Tuning via Attentional Mixtures of Soft Prompts",
     author = "Asai, Akari  and
@@ -535,28 +543,18 @@ selected={true},
 }
 
 
-
-@inproceedings{asai-etal-2022-evidentiality,
-    title = "Evidentiality-guided Generation for Knowledge-Intensive {NLP} Tasks",
-    author = "Asai, Akari  and
-      Gardner, Matt  and
-      Hajishirzi, Hannaneh",
-    editor = "Carpuat, Marine  and
-      de Marneffe, Marie-Catherine  and
-      Meza Ruiz, Ivan Vladimir",
-    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL; Oral)",
-    year = "2022",
-    address = "Seattle, United States",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.naacl-main.162",
-    doi = "10.18653/v1/2022.naacl-main.162",
-    pages = "2226--2243",
-    code="https://github.com/AkariAsai/evidentiality_qa",
-    preview="evidentiality.png",
-    pdf="https://arxiv.org/pdf/2112.08688.pdf",
-    video="https://aclanthology.org/2022.naacl-main.162.mp4",
-    selected={true},
-    abstract = "Retrieval-augmented generation models have shown state-of-the-art performance across many knowledge-intensive NLP tasks such as open-domain question answering and fact verification. These models are trained to generate a final output given retrieved passages that can be irrelevant to an input query, leading to learning spurious cues or memorization. This work introduces a method to incorporate \textit{evidentiality} of passages{---}whether a passage contains correct evidence to support the output{---}into training the generator. We introduce a multi-task learning framework to jointly generate the final output and predict the \textit{evidentiality} of each passage. Furthermore, we introduce a new task-agnostic method for obtaining high-quality \textit{silver} evidentiality labels, addressing the issues of gold evidentiality labels being unavailable in most domains. Our experiments on five datasets across three knowledge-intensive tasks show that our new evidentiality-guided generator significantly outperforms its direct counterpart on all of them, and advances the state of the art on three of them. Our analysis shows that multi-task learning and silver evidentiality mining play key roles. Our code is available at \url{https://github.com/AkariAsai/evidentiality_qa}",
+@inproceedings{asai2019learning,
+  title={Learning to retrieve reasoning paths over wikipedia graph for question answering},
+  author={Asai, Akari and Hashimoto, Kazuma and Hajishirzi, Hannaneh and Socher, Richard and Xiong, Caiming},
+  booktitle={ International Conference on Learning Representations (ICLR)},
+  year={2020},
+url="https://openreview.net/forum?id=SJgVHkrYDH",
+selected={true},
+preview="reasoning_paths.png",
+code={https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths},
+pdf="https://arxiv.org/pdf/1911.10470.pdf",
+blog="https://blog.salesforceairesearch.com/learning-to-retrieve-reasoning-paths-from-the-wikipedia-graph-for-question-answering/",
+abstract="Answering questions that require multi-hop reasoning at web-scale necessitates retrieving multiple evidence documents, one of which often has little lexical or semantic relationship to the question. This paper introduces a new graph-based recurrent retrieval approach that learns to retrieve reasoning paths over the Wikipedia graph to answer multi-hop open-domain questions. Our retriever model trains a recurrent neural network that learns to sequentially retrieve evidence paragraphs in the reasoning path by conditioning on the previously retrieved documents. Our reader model ranks the reasoning paths and extracts the answer span included in the best reasoning path. Experimental results show state-of-the-art results in three open-domain QA datasets, showcasing the effectiveness and robustness of our method. Notably, our method achieves significant improvement in HotpotQA, outperforming the previous best model by more than 14 points."
 }
 
 @inproceedings{asai-etal-2018-happydb,
