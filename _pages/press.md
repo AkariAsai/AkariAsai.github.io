@@ -7,6 +7,8 @@ nav_order: 4
 ---
 
 ##### Selected Press
+- 2024.11: **MIT Technology Reviews -- Innovators Under 35** -- [A trailblazer in retrieval-augmented generation research is taking on the challenge of preventing hallucinations and elevating LLM reliability by putting external knowledge to use.](https://www.technologyreview.jp/l/innovators_jp/348573/akari-asai/)
+
 - 2024.7: **Forbes -- Innovation** -- [How RAG-Powered AI Applications Have A Positive Impact On Businesses](https://www.forbes.com/councils/forbestechcouncil/2024/07/30/how-rag-powered-ai-applications-have-a-positive-impact-on-businesses/)
 - 2023.11: **Towards Data Science** -- [How Self-RAG Could Revolutionize Industrial LLMs](https://towardsdatascience.com/how-self-rag-could-revolutionize-industrial-llms-b33d9f810264)
 - 2022.10: **UW CSE News** -- [Lost in translation no more: IBM Fellowship winner Akari Asai asks — and answers — big questions in NLP to expand information access to all](https://news.cs.washington.edu/2022/10/20/lost-in-translation-no-more-ibm-fellowship-winner-akari-asai-asks-and-answers-big-questions-in-nlp-to-expand-information-access-to-all/)
@@ -31,6 +33,8 @@ nav_order: 4
 
 
 ##### External talks
+- 205.1 (expected): [University of Pittsburgh CS Colloquium](https://www.cs.pitt.edu/news/colloquium-talks)
+- 2024.11: [CMU WInE group](https://www.cs.cmu.edu/~sherryw/group.html) *OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs*
 - 2024.5: Microsoft Research India, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
 - 2024.5: NIH, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
 - 2024.3: Meta Smart Glass AI Reading Group, *Reliable, Adaptive and Attributable LMs with Retrieval*

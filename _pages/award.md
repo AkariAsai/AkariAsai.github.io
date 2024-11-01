@@ -6,6 +6,8 @@ nav: true
 nav_order: 3
 ---
 
+- 2024.11: **MIT Technology Review Innovators Under 35 from Japan** by [MIT Technology Review](https://www.technologyreview.jp/l/innovators_jp/348573/akari-asai/).
+
 - 2023.12: **Best Paper Honarable Mention** at [NeurIPS Instruction Workshop](https://an-instructive-workshop.github.io/) -- Our Self-RAG paper got the best paper honarable mention.
 
 - 2023.12: **Best Video Award** at [ACL 2023](https://2023.aclweb.org/) -- Our Adaptive Retriever paper got the best video award based on view counts and community votes at ACL 2023.
