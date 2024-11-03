@@ -6,7 +6,12 @@ nav: true
 nav_order: 3
 ---
 
+
 - 2024.11: **MIT Technology Review Innovators Under 35 from Japan** by [MIT Technology Review](https://www.technologyreview.jp/l/innovators_jp/348573/akari-asai/).
+
+- 2024.11: **NeurIPS 2024 Outstanding Reviewer** (Complimentary Registration)
+
+- 2024.3: **Outstanding Paper Award** at [30th Annual Meeting of the Association for Natural Language Processing Awarde](https://www.anlp.jp/nlp2024/award.html)
 
 - 2023.12: **Best Paper Honarable Mention** at [NeurIPS Instruction Workshop](https://an-instructive-workshop.github.io/) -- Our Self-RAG paper got the best paper honarable mention.
 
