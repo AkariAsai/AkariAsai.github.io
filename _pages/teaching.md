@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I enjoyed teaching and mentoring students with diverse background.
+description: I enjoy teaching and mentoring students with diverse backgrounds.
 nav: true
 nav_order: 4
 ---
