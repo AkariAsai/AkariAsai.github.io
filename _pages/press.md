@@ -7,7 +7,12 @@ nav_order: 4
 ---
 
 ##### Selected Press
-- 2024.11: **MIT Technology Reviews -- Innovators Under 35** -- [A trailblazer in retrieval-augmented generation research is taking on the challenge of preventing hallucinations and elevating LLM reliability by putting external knowledge to use.](https://www.technologyreview.jp/l/innovators_jp/348573/akari-asai/)
+- 2024.12: **msn**-- [AI Meets Academia: OpenScholar Redefines Literature Reviews](https://www.msn.com/en-gb/news/techandscience/ai-meets-academia-openscholar-redefines-literature-reviews/ar-AA1v5X7f)
+
+- 2024.11: **VentureBeat** -- [OpenScholar: The open-source A.I. that’s outperforming GPT-4o in scientific research](https://venturebeat.com/ai/openscholar-the-open-source-a-i-thats-outperforming-gpt-4o-in-scientific-research/)
+
+
+- 2024.11: **MIT Technology Reviews - Innovators Under 35** -- [A trailblazer in retrieval-augmented generation research is taking on the challenge of preventing hallucinations and elevating LLM reliability by putting external knowledge to use.](https://www.technologyreview.jp/l/innovators_jp/348573/akari-asai/)
 
 - 2024.7: **Forbes -- Innovation** -- [How RAG-Powered AI Applications Have A Positive Impact On Businesses](https://www.forbes.com/councils/forbestechcouncil/2024/07/30/how-rag-powered-ai-applications-have-a-positive-impact-on-businesses/)
 - 2023.11: **Towards Data Science** -- [How Self-RAG Could Revolutionize Industrial LLMs](https://towardsdatascience.com/how-self-rag-could-revolutionize-industrial-llms-b33d9f810264)
