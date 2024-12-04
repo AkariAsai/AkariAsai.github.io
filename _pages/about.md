@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am currently in my final year of pursuing a Ph.D. in NLP at Paul G. Allen School of Computer Science & Engineering, University of Washington. I am fortunate to be advised by [Prof. Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html). I am also spending some time at [Meta AI Research](https://ai.meta.com/research/) as a visiting student researcher, under the supervision of [Dr. Wen-tau Yih](https://scottyih.org/). Prior to joining UW, I obtained a B.E. in [Electrical Engineering and Computer Science](https://www.ee.t.u-tokyo.ac.jp/en/) from The University of Tokyo, Japan.
 
-**I am on the academic job market this year! Please feel free to reach out if you'd like to discuss opportunities.**
+**I am on the academic job market this year! Please feel free to reach out if you'd like to discuss opportunities. I am attending NeurIPS!**
 
 My research focuses on natural language processing and machine learning, with a particular emphasis on large language models (LLMs). I investigate the core limitations of LLMs---such as hallucinations---that cannot be overcome by scaling alone. To address these challenges, I pioneered [**Retrieval-Augmented LMs**](https://acl2023-retrieval-lm.github.io/), a novel class of LLMs that integrate dynamic retrieval. More specifically,
 
