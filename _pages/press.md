@@ -12,7 +12,7 @@ nav_order: 4
 - 2024.11: **VentureBeat** -- [OpenScholar: The open-source A.I. that’s outperforming GPT-4o in scientific research](https://venturebeat.com/ai/openscholar-the-open-source-a-i-thats-outperforming-gpt-4o-in-scientific-research/)
 
 
-- 2024.11: **MIT Technology Reviews - Innovators Under 35** -- [A trailblazer in retrieval-augmented generation research is taking on the challenge of preventing hallucinations and elevating LLM reliability by putting external knowledge to use.](https://www.technologyreview.jp/l/innovators_jp/348573/akari-asai/)
+- 2024.11: **MIT Technology Reviews - Innovators Under 35** -- [A trailblazer in retrieval-augmented generation research is taking on the challenge of preventing hallucinations and elevating LLM reliability.](https://www.innovatorsunder35.com/the-list/akari-asai)
 
 - 2024.7: **Forbes -- Innovation** -- [How RAG-Powered AI Applications Have A Positive Impact On Businesses](https://www.forbes.com/councils/forbestechcouncil/2024/07/30/how-rag-powered-ai-applications-have-a-positive-impact-on-businesses/)
 - 2023.11: **Towards Data Science** -- [How Self-RAG Could Revolutionize Industrial LLMs](https://towardsdatascience.com/how-self-rag-could-revolutionize-industrial-llms-b33d9f810264)
@@ -42,7 +42,6 @@ nav_order: 4
 - 2024.11: [CMU WInE group](https://www.cs.cmu.edu/~sherryw/group.html) *OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs*
 - 2024.5: Microsoft Research India, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
 - 2024.5: NIH, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
-- 2024.3: Meta Smart Glass AI Reading Group, *Reliable, Adaptive and Attributable LMs with Retrieval*
 - 2024.3: Meta Smart Glass AI Reading Group, *Reliable, Adaptive and Attributable LMs with Retrieval*
 - 2024.2: [University College London, Web Intelligence Group](https://wi.cs.ucl.ac.uk/), *Reliable, Adaptive and Attributable LMs with Retrieval*
 - 2023.12: [Microsoft Research Health Futures team](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), *Self-reflective Language Models with Retrieval*
