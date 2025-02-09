@@ -32,9 +32,11 @@ nav_order: 4
 I'm fortunate to work with passionate and talented undergraduate and graduate students.
 - [Velocity Yu](https://velocitycavalry.github.io/), UW CSE BS Undergrad -> USC Ph.D. April 2021 - June 2022.
 - [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), UW CSE Undergrad --> EleutherAI. April 2022 - July 2023.
+- [Daniel Kim](https://danieljkim0118.github.io/), UW CSE Ph.D. student. September 2022-July 2023.
 - [Abhika Mishra](https://abhika-m.github.io/), UW CSE undergrad. January 2023 - Present.
-- [Daniel Kim](https://danieljkim0118.github.io/), UW CSE Ph.D. student. Sept 2022-July 2023.
 - [Go Kamoda](https://gokamoda.github.io/), Tohoku University CS Master student. March 2023 - Present.
+- [Rulin Shao](https://rulinshao.github.io/), UW CSE Ph.D. student. February 2024 - July 2024. 
+- [Tong Chen](https://scholar.google.com/citations?user=fOcXofAAAAAJ&hl=en), UW CSE Ph.D. student. February 2024 - Present. 
 
 ##### Community Office Hours
 
