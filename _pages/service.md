@@ -8,12 +8,13 @@ nav_order: 6
 
 #### UW CSE & UW NLP
 - Ph.D. Admission NLP Student Area Chair (2021, 2022)
-- Ph.D. Admission Committee Member (2021, 2022)
+- Ph.D. Admission Committee Member (2021, 2022) 
 - UW CSE [Diversity and Inclusion Committee Representative](https://www.cs.washington.edu/diversity/committee) (2022-2023)
-- UW NLP Seminar Organizer (2023-2024, 2024-2025)
+- UW NLP Seminar Organizer (2023-2024, 2024-2025) 
 - Mentor at [UW CSE Ph.D. Pre-Application Mentorship Service (PAMS)](https://www.cs.washington.edu/academics/phd/admissions/pams) (2023).
 
 #### Research communities
+- Workshop Co-Organizer: [Workshop on Knowledge-augmented NLP](https://knowledge-nlp.github.io/naacl2025/), NAACL 2025.
 - Workshop Lead Organizer: [Workshop on Multilingual Information Access (MIA)](https://mia-workshop.github.io/), NAACL 2022.
 - Shared-task Lead Organizer: [MIA 2022 Shared task](https://mia-workshop.github.io/shared_task.html), NAACL 2022.
 - Organizing Committee, Student Volunteer Coordinator: [NAACL 2022](https://2022.naacl.org/committees/organization/).
