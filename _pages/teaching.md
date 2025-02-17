@@ -17,7 +17,7 @@ nav_order: 4
 
 
 ##### Invited Lectures
-- Invited lecture about *Retrieval and Retrieval-Augmented Generation* at [CMU 11-711: Advanced NLP (Spring 2025)](https://cmu-l3.github.io/anlp-spring2025/)
+- Invited lecture about *Retrieval and Retrieval-Augmented Generation* at [CMU 11-711: Advanced NLP (Spring 2025)](https://cmu-l3.github.io/anlp-spring2025/) [slide](assets/pdf/akari_anlp_2025_rag_lecture.pdf)
 - Invited lecture about *Past, Present and Future of Retrieval-augmented Language Models* at [University of Wisconsin-Madison CS 769: Advanced Natural Language Processing (Fall 2024)](https://junjiehu.github.io/cs769-fall24/lectures/)
 - Invited lecture about *Past, Present and Future of Retrieval-augmented Language Models* at [CMU 11-667: Large Language Models and Applications (Fall 2024)](https://cmu-llms.org/)
 - Invited lecture about *Retrieval-augmented LMs* at [Washington University in St. Louis CSE 561A: Large Language Models (Spring 2024)](https://teapot123.github.io/CSE561A_2024sp/)

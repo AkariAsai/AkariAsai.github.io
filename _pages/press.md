@@ -8,7 +8,8 @@ nav_order: 4
 
 ##### Selected Press
 - 2025.1: **UW CSE News** -- [Working to solve global problems’: Allen School Ph.D. student Akari Asai named one of MIT Technology Review’s Innovators Under 35 Japan](https://news.cs.washington.edu/2025/01/07/working-to-solve-global-problems-allen-school-ph-d-student-akari-asai-named-one-of-mit-technology-reviews-innovators-under-35-japan/)
-- 2024.12: **msn**-- [AI Meets Academia: OpenScholar Redefines Literature Reviews](https://www.msn.com/en-gb/news/techandscience/ai-meets-academia-openscholar-redefines-literature-reviews/ar-AA1v5X7f)
+
+- 2024.12: **msn** -- [AI Meets Academia: OpenScholar Redefines Literature Reviews](https://www.msn.com/en-gb/news/techandscience/ai-meets-academia-openscholar-redefines-literature-reviews/ar-AA1v5X7f)
 
 - 2024.11: **VentureBeat** -- [OpenScholar: The open-source A.I. that’s outperforming GPT-4o in scientific research](https://venturebeat.com/ai/openscholar-the-open-source-a-i-thats-outperforming-gpt-4o-in-scientific-research/)
 
