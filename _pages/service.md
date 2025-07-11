@@ -14,7 +14,7 @@ nav_order: 6
 - Mentor at [UW CSE Ph.D. Pre-Application Mentorship Service (PAMS)](https://www.cs.washington.edu/academics/phd/admissions/pams) (2023).
 
 #### Research communities
-- Competition Co-Organizer: MMU-RAG: Massive Multi-Modal User-Centric Retrieval Augmented Generation Benchmark, NeurIPS 2025.
+- Competition Co-Organizer: [MMU-RAG: Massive Multi-Modal User-Centric Retrieval Augmented Generation Benchmark](https://agi-lti.github.io/MMU-RAGent/), NeurIPS 2025.
 - Workshop Co-Organizer: [Workshop on LLM for Scientific Discovery: Reasoning, Assistance, and Collaboration (LM4SCI)](https://lm4sci.github.io/), COLM 2025.
 - Workshop Co-Organizer: [Workshop on Knowledge-augmented NLP](https://knowledge-nlp.github.io/naacl2025/), NAACL 2025.
 - Workshop Lead Organizer: [Workshop on Multilingual Information Access (MIA)](https://mia-workshop.github.io/), NAACL 2022.
