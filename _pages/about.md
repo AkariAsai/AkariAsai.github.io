@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an incoming Assistant Professor at Carnegie Mellon University (Fall 2026~), affiliated with [the Language Technologies Institute](https://www.lti.cs.cmu.edu/) and (by courtesy) [the Machine Learning Department](https://ml.cmu.edu/) and a research scientist at [the Allen Institute for AI](https://allenai.org/) (2025-2026). 
+I am an incoming Assistant Professor at Carnegie Mellon University (Fall 2026-), affiliated with [the Language Technologies Institute](https://www.lti.cs.cmu.edu/) and (by courtesy) [the Machine Learning Department](https://ml.cmu.edu/) and a research scientist at [the Allen Institute for AI](https://allenai.org/) (2025-2026). 
 
 I've completed my Ph.D. in NLP at Paul G. Allen School of Computer Science & Engineering, University of Washington. I am fortunate to be advised by [Prof. Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html). I was also spending time at [Meta AI Research](https://ai.meta.com/research/) as a visiting student researcher, under the supervision of [Dr. Wen-tau Yih](https://scottyih.org/). Prior to joining UW, I obtained a B.E. in [Electrical Engineering and Computer Science](https://www.ee.t.u-tokyo.ac.jp/en/) from The University of Tokyo, Japan. 
 

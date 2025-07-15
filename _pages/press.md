@@ -25,18 +25,11 @@ nav_order: 4
 
 ##### Talks with Public Recordings
 
+- 2025.6: **Ph.D. Dissertation Defense Talk: Beyond Scaling: Frontiers of Retrieval-Augmented Language Models** at University of Washington.
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qnWyU9zryao?si=Tbj1SJt78HuytUVd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - 2023.7: **ACL 2023 Tutorial: Retrieval-based Language Models and Applications** ([zoom recording](https://us06web.zoom.us/rec/play/6fqU9YDLoFtWqpk8w8I7oFrszHKW6JkbPVGgHsdPBxa69ecgCxbmfP33asLU3DJ74q5BXqDGR2ycOTFk.93teqylfi_uiViNK?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FNrYheXPtE5zOlbogmdBg653RIu7RBO1uAsYH2CZt_hacD1jOHksRahGlERHc_Ybs.KGX1cRVtJBQtJf0o))
-
-- 2023.10: **Self-Reflective Language Models with Retrieval** at University of Massachusetts Amherst [Machine Learning and Friends Lunch](https://ds.cs.umass.edu/mlfl)
-<div style="text-align:center">
-<iframe width="460" height="255" src="https://www.youtube.com/embed/bVz8Ua1VVsE?si=7RjfDkydHlqF7g9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-- 2023.2: **Adaptive and trustworthy NLP with retrieval for information access for everyone** at [The AI Talks](https://theaitalks.org/)
-
-<div style="text-align:center">
-<iframe width="460" height="255" src="https://www.youtube.com/embed/wcsoRx-gFgM?si=ORFNTTFEP4lG2-BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
 
 ##### External talks
