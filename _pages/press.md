@@ -28,12 +28,13 @@ nav_order: 4
 - 2025.6: **Ph.D. Dissertation Defense Talk: Beyond Scaling: Frontiers of Retrieval-Augmented Language Models** at University of Washington.
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qnWyU9zryao?si=Tbj1SJt78HuytUVd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 - 2023.7: **ACL 2023 Tutorial: Retrieval-based Language Models and Applications** ([zoom recording](https://us06web.zoom.us/rec/play/6fqU9YDLoFtWqpk8w8I7oFrszHKW6JkbPVGgHsdPBxa69ecgCxbmfP33asLU3DJ74q5BXqDGR2ycOTFk.93teqylfi_uiViNK?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FNrYheXPtE5zOlbogmdBg653RIu7RBO1uAsYH2CZt_hacD1jOHksRahGlERHc_Ybs.KGX1cRVtJBQtJf0o))
 
 
 ##### External talks
-- 205.1: [University of Pittsburgh CS Colloquium](https://www.cs.pitt.edu/news/colloquium-talks)
+- 2025.1: [University of Pittsburgh CS Colloquium](https://www.cs.pitt.edu/news/colloquium-talks)
 - 2024.11: [CMU WInE group](https://www.cs.cmu.edu/~sherryw/group.html) *OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs*
 - 2024.5: Microsoft Research India, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
 - 2024.5: NIH, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
