@@ -34,6 +34,9 @@ nav_order: 4
 
 
 ##### External talks
+- 2025.4: [The 10th Workshop on Representation Learning for NLP @ NAACL](https://sites.google.com/view/repl4nlp2025?pli=1), **Beyond Scaling: Frontiers of Retrieval-Augmented LMs** 
+- 2025.4: [Foundation Models for Science Workshop](https://www.simonsfoundation.org/flatiron/foundation-models-of-science/), **Beyond Scaling: Frontiers of Retrieval-Augmented LMs** 
+- 2025.4: Flatiron Institute, **Beyond Scaling: Frontiers of Retrieval-Augmented LMs** 
 - 2025.1: [University of Pittsburgh CS Colloquium](https://www.cs.pitt.edu/news/colloquium-talks)
 - 2024.11: [CMU WInE group](https://www.cs.cmu.edu/~sherryw/group.html) *OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs*
 - 2024.5: Microsoft Research India, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
