@@ -17,7 +17,8 @@ nav_order: 4
 
 
 ##### Invited Lectures
-- Invited lecture about *Retrieval and Retrieval-Augmented Generation* at [CMU 11-711: Advanced NLP (Spring 2025)](https://cmu-l3.github.io/anlp-spring2025/) [slide](assets/pdf/akari_anlp_2025_rag_lecture.pdf)
+- Invited lecture about *Retrieval and Retrieval-Augmented Generation* at [CMU 11-711: Advanced NLP (Fall 2025)](https://cmu-l3.github.io/anlp-fall2025/) and [CMU 11-617: Large Language Models: Methods and Applications ](https://cmu-llms.org/) [slide](assets/pdf/akari_anlp_2025_rag_lecture.pdf)
+- Invited lecture about *Retrieval and Retrieval-Augmented Generation* at [CMU 11-711: Advanced NLP (Spring 2025)](https://cmu-l3.github.io/anlp-spring2025/) and [CMU 11-617: ]()[slide](assets/pdf/akari_anlp_2025_rag_lecture.pdf)
 - Invited lecture about *Past, Present and Future of Retrieval-augmented Language Models* at [University of Wisconsin-Madison CS 769: Advanced Natural Language Processing (Fall 2024)](https://junjiehu.github.io/cs769-fall24/lectures/)
 - Invited lecture about *Past, Present and Future of Retrieval-augmented Language Models* at [CMU 11-667: Large Language Models and Applications (Fall 2024)](https://cmu-llms.org/)
 - Invited lecture about *Retrieval-augmented LMs* at [Washington University in St. Louis CSE 561A: Large Language Models (Spring 2024)](https://teapot123.github.io/CSE561A_2024sp/)
@@ -30,13 +31,14 @@ nav_order: 4
 
 ##### Mentoring
 I'm fortunate to work with passionate and talented undergraduate and graduate students.
-- [Velocity Yu](https://velocitycavalry.github.io/), UW CSE BS Undergrad -> USC Ph.D. April 2021 - June 2022.
+- [Velocity Yu](https://velocitycavalry.github.io/), UW CSE BS Undergrad -> Meta AI resident -> USC Ph.D. April 2021 - June 2022.
 - [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), UW CSE Undergrad --> EleutherAI. April 2022 - July 2023.
 - [Daniel Kim](https://danieljkim0118.github.io/), UW CSE Ph.D. student. September 2022-July 2023.
 - [Abhika Mishra](https://abhika-m.github.io/), UW CSE undergrad. January 2023 - Present.
 - [Go Kamoda](https://gokamoda.github.io/), Tohoku University CS Master student. March 2023 - Present.
 - [Rulin Shao](https://rulinshao.github.io/), UW CSE Ph.D. student. February 2024 - July 2024. 
 - [Tong Chen](https://scholar.google.com/citations?user=fOcXofAAAAAJ&hl=en), UW CSE Ph.D. student. February 2024 - Present. 
+- [Kevin Farhat](https://www.linkedin.com/in/kevin-farhat), UW CSE BS Undergrad -> AI2 Research Engineer. February 2024 - December 2024. 
 
 ##### Community Office Hours
 

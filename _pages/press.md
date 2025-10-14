@@ -10,7 +10,7 @@ nav_order: 4
 
 - 2025.9: **Nature News** -- [Can researchers stop AI making up citations?](https://www.nature.com/articles/d41586-025-02853-8)
 
-- 2025.9: **MIT Tehcnology Review** -- [MIT Tech Review Innovators Under 35 2025 - She uses datastores to reduce AI hallucinations.](https://www.technologyreview.com/innovator/akari-asai/?utm_source=tr_staff_outreach&utm_medium=tr_staff_social&utm_campaign=TR35-SOCIAL&utm_content=guestbp)
+- 2025.9: **MIT Technology Review** -- [MIT Tech Review Innovators Under 35 2025 - She uses datastores to reduce AI hallucinations.](https://www.technologyreview.com/innovator/akari-asai/?utm_source=tr_staff_outreach&utm_medium=tr_staff_social&utm_campaign=TR35-SOCIAL&utm_content=guestbp)
 
 - 2025.1: **UW CSE News** -- [Working to solve global problems’: Allen School Ph.D. student Akari Asai named one of MIT Technology Review’s Innovators Under 35 Japan](https://news.cs.washington.edu/2025/01/07/working-to-solve-global-problems-allen-school-ph-d-student-akari-asai-named-one-of-mit-technology-reviews-innovators-under-35-japan/)
 
