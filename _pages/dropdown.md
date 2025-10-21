@@ -7,7 +7,8 @@ dropdown: true
 children:
   - title: publications
     permalink: /publications/
-  - title: divider
+  - title: groups
+    permalink: /groups/
   - title: projects
     permalink: /projects/
   - title: divider
