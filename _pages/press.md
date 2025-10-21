@@ -8,19 +8,13 @@ nav_order: 4
 
 ##### Selected Press
 
+- 2025.9: **CMU LTI News** -- [Asai Named to MIT Technology Review's '35 Innovators Under 35'](https://www.lti.cs.cmu.edu/news-and-events/news/2025-09-12-asai-35-under-35.html)
 - 2025.9: **Nature News** -- [Can researchers stop AI making up citations?](https://www.nature.com/articles/d41586-025-02853-8)
-
 - 2025.9: **MIT Technology Review** -- [MIT Tech Review Innovators Under 35 2025 - She uses datastores to reduce AI hallucinations.](https://www.technologyreview.com/innovator/akari-asai/?utm_source=tr_staff_outreach&utm_medium=tr_staff_social&utm_campaign=TR35-SOCIAL&utm_content=guestbp)
-
 - 2025.1: **UW CSE News** -- [Working to solve global problems’: Allen School Ph.D. student Akari Asai named one of MIT Technology Review’s Innovators Under 35 Japan](https://news.cs.washington.edu/2025/01/07/working-to-solve-global-problems-allen-school-ph-d-student-akari-asai-named-one-of-mit-technology-reviews-innovators-under-35-japan/)
-
 - 2024.12: **msn** -- [AI Meets Academia: OpenScholar Redefines Literature Reviews](https://www.msn.com/en-gb/news/techandscience/ai-meets-academia-openscholar-redefines-literature-reviews/ar-AA1v5X7f)
-
 - 2024.11: **VentureBeat** -- [OpenScholar: The open-source A.I. that’s outperforming GPT-4o in scientific research](https://venturebeat.com/ai/openscholar-the-open-source-a-i-thats-outperforming-gpt-4o-in-scientific-research/)
-
-
 - 2024.11: **MIT Technology Reviews - Innovators Under 35** -- [A trailblazer in retrieval-augmented generation research is taking on the challenge of preventing hallucinations and elevating LLM reliability.](https://www.innovatorsunder35.com/the-list/akari-asai)
-
 - 2024.7: **Forbes -- Innovation** -- [How RAG-Powered AI Applications Have A Positive Impact On Businesses](https://www.forbes.com/councils/forbestechcouncil/2024/07/30/how-rag-powered-ai-applications-have-a-positive-impact-on-businesses/)
 - 2023.11: **Towards Data Science** -- [How Self-RAG Could Revolutionize Industrial LLMs](https://towardsdatascience.com/how-self-rag-could-revolutionize-industrial-llms-b33d9f810264)
 - 2022.10: **UW CSE News** -- [Lost in translation no more: IBM Fellowship winner Akari Asai asks — and answers — big questions in NLP to expand information access to all](https://news.cs.washington.edu/2022/10/20/lost-in-translation-no-more-ibm-fellowship-winner-akari-asai-asks-and-answers-big-questions-in-nlp-to-expand-information-access-to-all/)
@@ -39,10 +33,12 @@ nav_order: 4
 
 
 ##### External talks
-- 2025.4: [The 10th Workshop on Representation Learning for NLP @ NAACL](https://sites.google.com/view/repl4nlp2025?pli=1), **Beyond Scaling: Frontiers of Retrieval-Augmented LMs** 
-- 2025.4: [Foundation Models for Science Workshop](https://www.simonsfoundation.org/flatiron/foundation-models-of-science/), **Beyond Scaling: Frontiers of Retrieval-Augmented LMs** 
-- 2025.4: Flatiron Institute, **Beyond Scaling: Frontiers of Retrieval-Augmented LMs** 
-- 2025.1: [University of Pittsburgh CS Colloquium](https://www.cs.pitt.edu/news/colloquium-talks)
+- 2025.10: [Delta Institue Podcast](https://www.youtube.com/watch?v=nroNb-Fgcgs)
+- 2025.9: [CMU AI for Science Workshop 2025](https://cmu-ai-for-science-workshop.github.io/), *OpenScholar and Beyond: Evaluation, Training, and Building trust for Scientific Agents*
+- 2025.4: [The 10th Workshop on Representation Learning for NLP @ NAACL](https://sites.google.com/view/repl4nlp2025?pli=1), *Beyond Scaling: Frontiers of Retrieval-Augmented LMs* 
+- 2025.4: [Foundation Models for Science Workshop](https://www.simonsfoundation.org/flatiron/foundation-models-of-science/), *Beyond Scaling: Frontiers of Retrieval-Augmented LMs*
+- 2025.4: Flatiron Institute, *Beyond Scaling: Frontiers of Retrieval-Augmented LMs*
+- 2025.1: [University of Pittsburgh CS Colloquium](https://www.cs.pitt.edu/news/colloquium-talks), *Beyond Scaling: Frontiers of Retrieval-Augmented LMs*
 - 2024.11: [CMU WInE group](https://www.cs.cmu.edu/~sherryw/group.html) *OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs*
 - 2024.5: Microsoft Research India, *Reliable, Adaptable, and Attributable Language Models with Retrieval*
 - 2024.5: NIH, *Reliable, Adaptable, and Attributable Language Models with Retrieval*

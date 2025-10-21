@@ -5,7 +5,7 @@ title: Awards
 nav: true
 nav_order: 3
 ---
--2025.9: **MIT Technology Review Innovators Under 35** by [MIT Technology Review](https://www.technologyreview.com/innovator/akari-asai/). 
+- 2025.9: **MIT Technology Review Innovators Under 35** by [MIT Technology Review](https://www.technologyreview.com/innovator/akari-asai/). 
 
 - 2025.5: **Forbes 30 Under 30 Asia 2025 in Science** by [Forbes](https://www.forbes.com/30-under-30/2025/asia/healthcare-science).
 
