@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: false # includes a list of the newest posts
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -42,7 +42,7 @@ We design, train, and deploy augmented LMs and agents that collaborate with comp
 - **Understanding and Mitigating Failure Modes of LMs**:
 We systematically investigate where and why LMs fail, including hallucinations, copyright infringements, and unreliable reasoning, and design mechanisms to improve their reliability and safety. Projects such as [When Not to Trust LMs](https://arxiv.org/abs/2212.10511), copyright–utility trade-offs of LMs in [CopyBench](https://arxiv.org/abs/2407.07087), and analyses of capability–hallucination trade-offs in [Binary RAR](https://arxiv.org/abs/2510.17733) exemplify our efforts to make LMs more trustworthy and robust. 
 
-- **Deploying Augmented LMs Ms in High-Impact Domains**:
+- **Deploying Augmented LMs in High-Impact Domains**:
 We apply our methods to real-world challenges that demand factuality, transparency, and accessibility. Examples include AI for science ([OpenScholar](https://arxiv.org/abs/2411.14199), used by tens of thousands of scientists for literature synthesis), AI for code [CodeRAGBench](https://arxiv.org/abs/2406.14497), and AI for linguistic equity ([XORQA](https://arxiv.org/abs/2010.11856), [AfriQA](https://arxiv.org/abs/2305.06897), [CORA](https://arxiv.org/abs/2107.11976)), broadening global access to reliable information.
 
 
