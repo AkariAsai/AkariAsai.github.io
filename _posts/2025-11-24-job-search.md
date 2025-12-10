@@ -20,7 +20,9 @@ My materials are available here:
 - [Job Talk Slides](assets/pdf/akari_job_talk_slides.pdf)
 - [Job Talk Video (defense recording)](https://www.youtube.com/watch?v=qnWyU9zryao)
 
-In the U.S. academic job market, applicants typically submit these materials plus 3–6 recommendation letters (I applied to about 20 schools). The process usually proceeds as:
+In the U.S. academic job market, applicants typically submit these materials along with 3–6 recommendation letters. I applied to about 20 schools, sometimes across multiple departments (e.g., EE and Information Science), though I ultimately received interview invites mostly from CS. 
+
+The process usually proceeds as:
 1. Phone/Zoom screening (15–60 minutes with several faculty)
 2. Onsite interview (1–2 days; typically a colloquium talk, many 1:1s with faculty, a student meeting, and group meals like dinner and breakfast)
 3. Offer 
@@ -39,7 +41,7 @@ Here's the context behind my search: what I work on, how the market shifted, and
 **Personal motivation:** I chose a research career after trying both engineering and research internships as an undergraduate. There’s active debate about whether a Ph.D. is necessary for NLP/LLM research, but I’m happy with my decision professionally and personally. My Ph.D. was one of the best periods of my life, thanks to an incredibly supportive advisor, friends, and family. That said, as I often tell my pre-doctoral mentees, the right path depends on individual goals and preferences. See Ruiqi’s thoughtful post [here](https://ruiqizhong.substack.com/p/is-a-phd-on-language-models-worth). 
 
 
-My interest in academia grew through research, mentoring, teaching, and the particular kind of freedom it affords - not more than industry, but different. Alongside shifts in the field, that convinced me to pursue an academic path. The academia-industry choice is personal. When I started job hunting, I didn't seriously explore industry (see gap-year notes) and went all-in on faculty roles until I signed. 
+My interest in academia grew through research, mentoring, teaching, and the particular kind of freedom it affords (not more than industry, but different). Alongside shifts in the field, that convinced me to pursue an academic path. The academia-industry choice is personal. When I started job hunting, I didn't seriously explore industry (see gap-year notes) and went all-in on faculty roles until I signed. 
 
 ### My Personal Timeline
 
@@ -51,9 +53,9 @@ I'm sharing my personal job-search timeline to give a clearer sense of the acade
 
 **October 2024**: Still trying to finish my final project (yes, still). I also attended COLM. 
 
-**November 2024**: In November, I was finally wrapping up my project, but I realized I needed to finalize my application materials soon - some schools had mid-November deadlines, even if they weren't strict (in general, make sure to submit your applications on time). So, early in the month, I shifted into ~80% job search mode and ~20% research mode. I completed all my materials and also prepared a document summarizing my contributions to research, teaching, and service, which I shared with my letter writers to help them write strong letters. I began submitting applications in late November. Unfortunately, around the same time, a family emergency came up and I had to return to Japan to see if I could help out. 
+**November 2024**: In November, I was finally wrapping up my project, but I realized I needed to finalize my application materials soon. Some schools had mid-November deadlines, even if they weren't strict (in general, make sure to submit your applications on time). So, early in the month, I shifted into ~80% job search mode and ~20% research mode. I completed all my materials and also prepared a document summarizing my contributions to research, teaching, and service, which I shared with my letter writers to help them write strong letters. I began submitting applications in late November. Unfortunately, around the same time, a family emergency came up and I had to return to Japan to see if I could help out. 
 
-**December 2024**: After submitting everything, I headed to NeurIPS and gave a very early "thesis proposal" version of my job talk to my committee right after that. The feedback was clear: "Great start, but it needs major restructuring." I’m glad I did it early—it gave me time to rethink the storyline and build the real job talk. Over the holidays, I received my first phone-interview invite. I developed a new pitch, refined it (my advisor approved!), and the interview went well. 
+**December 2024**: After submitting everything, I headed to NeurIPS and gave a very early "thesis proposal" version of my job talk to my committee right after that. The feedback was clear: "Great start, but it needs major restructuring." I’m glad I did it early, since it gave me time to rethink the storyline and build the real job talk. Over the holidays, I received my first phone-interview invite. I developed a new pitch, refined it (my advisor approved!), and the interview went well. 
 
 **January 2025**: January was by far the most stressful month. I was juggling job-talk prep, constant rounds of feedback, and multiple phone interviews—some with a talk segment. In retrospect, I strongly recommend having a solid version of your talk ready by new year, since you'll likely be asked to present it during interviews (I had multiple of phone interviews during the second week of January).
 My practice talks that month were really rough due to the delay of preparations (I did my first ones in the second week of January). I'm deeply grateful for the countless rounds of feedback from my advisor, Hanna, UW faculty, Pang Wei, Yulia, Ranjay, and friends who helped me get through it. I finalized my job talk at the end of January and started receiving onsite invites, which brought some relief.
@@ -113,15 +115,15 @@ Some quick advice:
 
 - **Plan travel wisely.** 
 If possible, I was trying not to schedule more than two onsites in a single week. Traveling, giving talks, and doing back-to-back one-on-ones is incredibly draining, and you'll want to bring your full energy to each visit. 
-I was based on the East Coast during interview season, and since most of my interviews were also on the East Coast, I typically flew in the night before and out the day after. However, if you're flying cross-country - from West to East or vice versa - I highly recommend arriving two nights before. A 5+ hour flight plus a major time zone shift can leave you drained, and it’s tough to deliver your best talk the next morning if you’ve just stepped off a long flight. 
+If you're flying cross-country from West to East or vice versa. I highly recommend arriving two nights before. A 5+ hour flight plus a major time zone shift can leave you drained, and it’s tough to deliver your best talk the next morning if you’ve just stepped off a long flight. 
 - **Take care of yourself.** Onsites are exciting and exhausting—take care of yourself. I tried to keep my routine: sleep early, do a quick morning workout, and eat a favorite meal the day before. I also played Animal Crossing on flights to decompress. I masked on planes, stayed hydrated, and kept vaccinations up to date to lower the risk during the busiest travel season.
 
 **Talks & meetings**
 
-For the job talk and 1:1s, practice heavily with people outside your area - the goal is to convince experts in other areas that your work matters (aka impacts). I couldn't do many practice talks, but two with folks not strictly in NLP yielded some of my best feedback. It’s worth reaching out to professors in your department in adjacent fields and asking for a mock 1:1 or a talk run-through to learn what lands, what’s jargon, and where the stakes need to be clearer. 
+For the job talk and 1:1s, practice heavily with people outside your area. The goal is to convince experts in other areas that your work matters (aka impacts). I couldn't do many practice talks, but two with folks not strictly in NLP yielded some of my best feedback. It’s worth reaching out to professors in your department in adjacent fields and asking for a mock 1:1 or a talk run-through to learn what lands, what’s jargon, and where the stakes need to be clearer. 
 
 Some advice people gave me and I found really helpful: 
-- **Take the talk really seriously.** Everything - the one-on-ones, the lunch / dinner - often centers around your talk. I may write a separate post on job talk prep someday, but in short: it took many rounds of painful revision and feedback before I found a version that really worked. I found watching other people's job talks as well as giving multiple practice talks and getting feedback early is really helpful. 
+- **Take the talk really seriously.** Everything including the one-on-ones, the lunch / dinner often centers around your talk. I may write a separate post on job talk prep someday, but in short: it took many rounds of painful revision and feedback before I found a version that really worked. I found watching other people's job talks as well as giving multiple practice talks and getting feedback early is really helpful. 
 - **Prepare your short pitch.** Yet, some faculty won’t catch your job talk due to conflicts, so have a ~5-minute research summary ready for both insiders in your area and non-specialists. It's also helpful for conference hallway conversations with faculty. 
 - **Do homework and engage in discussions.** You don’t need to read every paper by the faculty you’ll meet, but you should read their web page, learn high level ideas of what they do, identify collaboration angles and skim their recent work if they are in related areas. Come with questions you’re genuinely curious about—their research, the department, and the institution.
 - **Spotlight non-research strengths: teaching, service, grants.** One thing I learned later in the process: if you have experience with teaching, service, or grant writing, it’s worth finding natural moments to bring them up during your interviews. These topics often don’t surface on their own—especially if you're a Ph.D. student. (For postdocs, I heard there's a greater expectation of having experience in these areas.) Someone mentioned that, in their department, candidates with strong research and demonstrated engagement in teaching or service were generally preferred over those with research strength alone. That said, this really varies by school and department. 
@@ -161,4 +163,4 @@ I still can't believe how much support I received throughout this journey. My ad
 Huge thanks to the UW NLP faculty including Yulia, Pang Wei, Luke, Noah, and Yejin, for their honest feedback, thoughtful advice and enormous amount of support during the most stressful times, and my letter writers, Graham and Matei, for their strong support. 
 I'm so thankful to my wonderful friends, especially Sewon, Tim, and Victor, who generously shared advice and encouragement.
 
-And most of all, I'm deeply grateful to my partner. Navigating the two-body challenge is tough, especially in academia. We had plenty of highs and lows, but I couldn’t have made it through without your love, patience, and strength. 
+And most of all, I'm deeply grateful to my partner. We had plenty of highs and lows, but I couldn’t have made it through without your love, patience, and strength. 
