@@ -20,7 +20,7 @@ My materials are available here:
 - [Job Talk Slides](assets/pdf/akari_job_talk_slides.pdf)
 - [Job Talk Video (defense recording)](https://www.youtube.com/watch?v=qnWyU9zryao)
 
-IIn the U.S. academic job market, applicants typically submit these materials plus 3–6 recommendation letters (I applied to about 20 schools). The process usually proceeds as:
+In the U.S. academic job market, applicants typically submit these materials plus 3–6 recommendation letters (I applied to about 20 schools). The process usually proceeds as:
 1. Phone/Zoom screening (15–60 minutes with several faculty)
 2. Onsite interview (1–2 days; typically a colloquium talk, many 1:1s with faculty, a student meeting, and group meals like dinner and breakfast)
 3. Offer 
@@ -62,7 +62,7 @@ My practice talks that month were really rough due to the delay of preparations 
 
 My first onsite interview was in the first week of February. I was quite nervous, and I don’t think I handled the meetings particularly well. But during dinner and later conversations, people shared kind words about my talk, which helped me feel more at ease. I kept refining my talk after each visit based on the feedback and Q&A, and I did one last practice round with my advisor in late February.
 
-One pleasant surprise was that onsite interviews turned out to be much more enjoyable than I had expected, especially after the stress of phone interviews. Traveling was definitely tiring, but I’ve always loved exploring new places. That said, coming from a relatively warm town with few snow days, I was definitely not prepared for the brutal Midwestern winter. One of my flights was even canceled due to a snowstorm. I’m glad I purchased a warm jacket for onsite interviews, which helped me a lot during the onsite interviews.
+One pleasant surprise was that onsite interviews turned out to be much more enjoyable than I had expected, especially after the stress of phone interviews. Traveling was definitely tiring, but I’ve always loved exploring new places. 
 
 **March 2025**: By this point, I had gotten more used to the interview process. I started receiving both informal and formal offers from some of my top-choice schools, which brought an enormous sense of relief. Given how uncertain the hiring landscape was this year, I felt incredibly fortunate.
 
@@ -82,7 +82,7 @@ Eventually, I made my decision and accepted the CMU offer in early April. I info
 
 While the application itself takes work (materials, multi-day interviews, etc.), the most important preparation happens during the Ph.D.: doing impactful research, building community and visibility, and learning how the ecosystem works. I highly recommend [Arnan's blog](https://anandbhattad.github.io/blogs/jr_grads.html) for early–mid Ph.D. students! It is useful even if you're unsure about academia, since many lessons apply broadly to a research career. 
 
-Some more academia specific experience that would be really helpful 
+Some more academia specific experience that might be helpful: 
 1. **Sit in on the hiring process as a student.** Volunteer as a student host, attend student meetings, or help with DEI reviews to see how decisions are made. I learned a lot from hearing how senior researchers think about research directions and advising.
 2. **Attend a career workshop (e.g., EECS Rising Stars).** I participated early in my Ph.D.; they walk through the process end-to-end. Ideally, go a year before you're on the market.
 3. **Sample the full job: teaching, service, grant writing.** Not required as a candidate, but trying these helped me decide whether I’d enjoy the non-research parts of the job. Balance is key—research output matters most, and over-investing in non-research activities can have downsides.
@@ -146,11 +146,12 @@ There are definitely some advantages to taking a gap year before starting a facu
 - Extra income – A gap year can provide financial stability, especially if the position is well-compensated.
 - Industry experience and connections - A gap year can also be a great opportunity to gain firsthand experience in industry research settings and build connections with industry researchers. Understanding how industry labs operate—from research priorities to collaboration styles—can be valuable, especially if you plan to maintain academic–industry collaborations in the future. 
 
+That said, I also spoke with several friends who didn't take a gap year, and they enjoyed jumping right into their faculty roles. They were able to spend time on teaching, recruit strong undergrad or master’s students, and collaborate with Ph.D. students already working with other faculty. 
+
 ##### My gap year considerations 
+I felt okay with the idea of skipping a gap year if I couldn't find something that truly aligned with my goals. But once my academic job search was wrapped up, I realized it might be really helpful to give myself more time to prepare, so I started exploring options after all. 
 
-That said, finding the right gap-year position isn't always easy. I struggled to find roles that offered both publishing freedom and flexible work arrangements such as remote work or access to a local office in Pittsburgh, where I'll be starting as a faculty member the following year. I generally don't enjoy moving, and the idea of relocating just for a one-year position didn't appeal to me. Additionally, many frontier labs have become increasingly restrictive about what can be published, even for research conducted outside the company. 
-
-Since I had already completed several industry internships and part-time roles in Seattle and the Bay Area, and had experience writing grants and mentoring during my Ph.D., I felt okay with the idea of skipping the gap year altogether if I couldn't find something that aligned well with my goals. I also spoke with several friends who didn't take a gap year, and they enjoyed jumping right into their faculty roles. They were able to spend time on teaching, recruit strong undergrad or master’s students, and collaborate with Ph.D. students already working with other faculty. 
+I did struggle to find roles that offered both publishing freedom and flexible work arrangements, like remote work or access to a local office in Pittsburgh, where I’ll be starting as a faculty member the following year. I generally don't enjoy moving, and the idea of relocating just for a one-year position didn't appeal to me. Additionally, many frontier labs have become increasingly restrictive about what can be published, even for research conducted outside the company. 
 
 Ultimately, think carefully about your goals and priorities. What do you want to get out of a gap year, and what matters most—research freedom, flexibility, income, or location? There's no single "right" path; the key is choosing what aligns with your goals. I ultimately chose a gap-year position at AI2 because the research focus fits closely and the environment was genuinely supportive. In retrospect, I'm very happy with the decision. It gave me time to explore directions I couldn't during my Ph.D., complete research projects I started during the final year of my PhD, start new collaborations, begin writing grants ... etc. I may write a blog post on my gap year in the future. 
 

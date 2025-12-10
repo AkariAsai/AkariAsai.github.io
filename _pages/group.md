@@ -6,15 +6,15 @@ nav: true
 nav_order: 7
 ---
 
-Interested in joining my group? Thank you for your interest! I may not be able to respond to individual inquiry emails, so please read the following information before reaching out! 
+Interested in joining my group? Thank you for your interest! Please read the following information before reaching out!
 
 #### If you're applying to the CMU SCS Ph.D. program:
 
-For the 2026 application cycle, I expect to recruit 2–3 Ph.D. students. Unfortunately, I am unlikely to respond to individual emails or review your applications. 
+For the 2026 application cycle, I expect to recruit 2–3 Ph.D. students. Due to volume, I am unable to respond to individual emails or review applications before the deadline. 
 
 - **Which Ph.D. programs to apply to:** I'm affiliated with CMU’s Language Technologies Institute (LTI) and Machine Learning Department (MLD). The best way for me to see your application is to apply to LTI or MLD, list me as a potential advisor, and mention me in your Statement of Purpose. I may review applications from other SCS units (e.g., CSD, RI, S3D, HCII), but those are less likely to reach me directly. If you apply elsewhere or can't find my name in dropdown, please mention me in your SoP and feel free to send me a brief email. 
 
-- **Which areas I'm looking for**: I work broadly on LLMs and multimodal LMs. I'm especially excited about augmented LMs—systems that pair models with complementary components and external tools (e.g., RAG, agents)—and their system-level challenges (efficiency, scalability). I also apply these methods to real-world problems (e.g., scientific applications) and study safety and societal issues in LMs, including hallucinations and copyright. That said, the topics are not fixed - I'm very excited to hear what *you* are interested in working on!
+- **Which areas I'm looking for**: I work broadly on LLMs and multimodal LMs. I'm especially excited about augmented LMs, systems that pair models with complementary components and external tools (e.g., RAG, agents), and their system-level challenges (efficiency, scalability). I also apply these methods to real-world problems (e.g., scientific applications) and study safety and societal issues in LMs, including hallucinations and copyright. That said, the topics are not fixed and I'm more excited to hear what *you* are interested in working on! 
 
 - **What I look for in students**: I enjoy working with students from diverse backgrounds who are curious, rigorous, and collaborative—and who care about building systems with real-world impact. I (like many faculty) genuinely enjoy reading SoPs: please highlight your interests, link your prior research to your goals, and make your strengths clear. Strong foundations in computer science, engineering, and mathematics are important. 
 
@@ -33,7 +33,7 @@ To ensure a meaningful experience, I typically ask for two things:
 - **Strong foundation**: I generally consider students who have completed core courses in machine learning and NLP. This background helps ensure you can engage deeply with the research. 
 - **Time commitment**: I ask for a consistent commitment of 10–20 hours per week. If you're currently balancing a heavy course load, job search, or other responsibilities, I recommend waiting until you have more bandwidth. Research takes time and consistency, and my goal is to support your long-term growth, not just a short-term project. 
 
-If you're interested, please fill out [this google form](https://forms.gle/2igzAgfL7BZnjUJb7) (You need to sign in your CMU email address), including your transcript and CV. I may not be able to respond to all requests, but I’ll reach out if I think we might be a good match for a project. 
+If you're interested, please fill out [this google form](https://forms.gle/2igzAgfL7BZnjUJb7) (Please sign in with your CMU email address. This form is intended for current CMU students, so **please don't request access or sharing permissions**. If you are not a CMU undergraduate student and are interested in working with me, please see the section below.), including your transcript and CV. I may not be able to respond to all requests, but I’ll reach out if I think we might be a good match for a project. 
 
 
 #### If you're an external undergraduate, M.S., or Ph.D. student seeking internships or visiting/postdoc positions:
