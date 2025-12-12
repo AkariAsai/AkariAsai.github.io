@@ -82,7 +82,7 @@ Eventually, I made my decision and accepted the CMU offer in early April. I info
 
 ### Before application cycle
 
-While the application itself takes work (materials, multi-day interviews, etc.), the most important preparation happens during the Ph.D.: doing impactful research, building community and visibility, and learning how the ecosystem works. I highly recommend [Arnan's blog](https://anandbhattad.github.io/blogs/jr_grads.html) for early–mid Ph.D. students! It is useful even if you're unsure about academia, since many lessons apply broadly to a research career. 
+While the application itself takes work (materials, multi-day interviews, etc.), the most important preparation happens during the Ph.D.: doing impactful research, building community and visibility, and learning how the ecosystem works. I highly recommend [Anand Bhattad's blog](https://anandbhattad.github.io/blogs/jr_grads.html) for early–mid Ph.D. students! It is useful even if you're unsure about academia, since many lessons apply broadly to a research career. 
 
 Some more academia specific experience that might be helpful: 
 1. **Sit in on the hiring process as a student.** Volunteer as a student host, attend student meetings, or help with DEI reviews to see how decisions are made. I learned a lot from hearing how senior researchers think about research directions and advising.
