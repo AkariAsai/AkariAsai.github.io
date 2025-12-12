@@ -23,22 +23,26 @@ nav_order: 4
 
 
 ##### Talks with Public Recordings
+- 2025.6: **Ph.D. Dissertation Defense Talk: Beyond Scaling: Frontiers of Retrieval-Augmented Language Models** at University of Washington.
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qnWyU9zryao?si=Tbj1SJt78HuytUVd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 - 2025:11: **Panel: The Next Wave of AI - LLMs to Agentic Systems** (Panel at [G1 Global 2025](https://g1.org/g1global/))
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-2FzpAsDCI0?si=LgdMbQU8UolwGiU_&amp;start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-- 2025.6: **Ph.D. Dissertation Defense Talk: Beyond Scaling: Frontiers of Retrieval-Augmented Language Models** at University of Washington.
+- 2025:10: **Lecture: Retrieval and Retrieval-Augmented Generation** (Invited lecture at [CMU Advanced NLP Fall 2025](https://cmu-l3.github.io/anlp-fall2025/))
 <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qnWyU9zryao?si=Tbj1SJt78HuytUVd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6PMEqN0-gkM?si=Bk-XolZH-HjqASSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 - 2023.7: **ACL 2023 Tutorial: Retrieval-based Language Models and Applications** ([zoom recording](https://us06web.zoom.us/rec/play/6fqU9YDLoFtWqpk8w8I7oFrszHKW6JkbPVGgHsdPBxa69ecgCxbmfP33asLU3DJ74q5BXqDGR2ycOTFk.93teqylfi_uiViNK?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FNrYheXPtE5zOlbogmdBg653RIu7RBO1uAsYH2CZt_hacD1jOHksRahGlERHc_Ybs.KGX1cRVtJBQtJf0o))
 
 
 ##### External talks
-- 2025.12: [NeurIPS 2025 Competition: MMU-RAGent: Massive Multi-Modal User-Centric Retrieval Augmented Generation Benchmark](https://neurips.cc/virtual/2025/loc/san-diego/competition/127730), *DR Tulu and Beyond Building Fully Open Deep Research Agent for Open-Ended Tasks* [slides](https://docs.google.com/presentation/d/1_ggNo_w548bMwTNedhCccYdY8CmpptuPHlMY45Ah1Vs/edit?usp=sharing)
+- 2025.12: [NeurIPS 2025 Competition: MMU-RAGent: Massive Multi-Modal User-Centric Retrieval Augmented Generation Benchmark](https://neurips.cc/virtual/2025/loc/san-diego/competition/127730), *DR Tulu and Beyond Building Fully Open Deep Research Agent for Open-Ended Tasks* [(slides)](https://docs.google.com/presentation/d/1_ggNo_w548bMwTNedhCccYdY8CmpptuPHlMY45Ah1Vs/edit?usp=sharing)
 - 2025.10: [Delta Institue Podcast](https://www.youtube.com/watch?v=nroNb-Fgcgs)
 - 2025.9: [CMU AI for Science Workshop 2025](https://cmu-ai-for-science-workshop.github.io/), *OpenScholar and Beyond: Evaluation, Training, and Building trust for Scientific Agents*
 - 2025.4: [The 10th Workshop on Representation Learning for NLP @ NAACL](https://sites.google.com/view/repl4nlp2025?pli=1), *Beyond Scaling: Frontiers of Retrieval-Augmented LMs* 

@@ -14,10 +14,10 @@ Inspired by my dear friend and colleague [Maarten's 2020 job search notes](https
 
 ### Documents
 My materials are available here: 
-- [Research Statement](assets/pdf/akariasai_2024_research.pdf)
-- [Teaching Statement](assets/pdf/akariasai_2024_teaching.pdf)
-- [Diversity Statement](assets/pdf/akariasai_2024_dei.pdf)
-- [Job Talk Slides](assets/pdf/akari_job_talk_slides.pdf)
+- [Research Statement](https://akariasai.github.io/assets/pdf/akariasai_2024_research.pdf)
+- [Teaching Statement](https://akariasai.github.io/assets/pdf/akariasai_2024_teaching.pdf)
+- [Diversity Statement](https://akariasai.github.io/assets/pdf/akariasai_2024_dei.pdf)
+- [Job Talk Slides](https://akariasai.github.io/assets/pdf/akari_job_talk_slides.pdf)
 - [Job Talk Video (defense recording)](https://www.youtube.com/watch?v=qnWyU9zryao)
 
 In the U.S. academic job market, applicants typically submit these materials along with 3–6 recommendation letters. I applied to about 20 schools, sometimes across multiple departments (e.g., EE and Information Science), though I ultimately received interview invites mostly from CS. 
@@ -164,3 +164,14 @@ Huge thanks to the UW NLP faculty including Yulia, Pang Wei, Luke, Noah, and Yej
 I'm so thankful to my wonderful friends, especially Sewon, Tim, and Victor, who generously shared advice and encouragement.
 
 And most of all, I'm deeply grateful to my partner. We had plenty of highs and lows, but I couldn’t have made it through without your love, patience, and strength. 
+
+
+#### Blogs, Videos, and Tweets I found helpful
+
+Some helpful reads I've been pointing people to:
+- [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
+- [My 2020 Academic Job Search Experience](https://maartensap.com/notes/06-job-search-2020.html)
+- [What I Wish I Knew Early in Graduate School](https://anandbhattad.github.io/blogs/jr_grads.html)
+- [Faculty Interview Tips & Common Questions (Tweet)](https://x.com/ManlingLi_/status/1870195425090908575)
+- [Interview Questions for Computer Science Faculty Jobs](https://csfaculty.github.io/)
+- [UW CSE YouTube channel (Allen School Colloquia Series in Spring are mostly job talk videos)](https://www.youtube.com/user/UWCSE)
