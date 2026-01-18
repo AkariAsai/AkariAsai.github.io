@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an incoming Assistant Professor at Carnegie Mellon University (Fall 2026-) [Language Technologies Institute](https://www.lti.cs.cmu.edu/), with an affiliate appointment in [the Machine Learning Department](https://ml.cmu.edu/) and a research scientist at [OLMo @ the Allen Institute for AI](https://allenai.org/) (2025-2026). 
 
-**I am hiring 2-3 Ph.D. students at CMU in the 2025-2026 application cycle. Please check out [FAQ](https://akariasai.github.io/groups/) for more info.**
+**Please read the [FAQ](https://akariasai.github.io/groups/) before emailing me if you're interested in working with me (Ph.D., visiting, or internship opportunities). I expect to recruit a few Ph.D. students in the upcoming cycle, but I'm not accepting postdocs or external visiting students for 2026–2027.**
 
 I've completed my Ph.D. in NLP at Paul G. Allen School of Computer Science & Engineering, University of Washington. I am fortunate to be advised by [Prof. Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html). I was also spending time at [Meta AI Research](https://ai.meta.com/research/) as a visiting student researcher, under the supervision of [Dr. Wen-tau Yih](https://scottyih.org/). My Ph.D. pioneered [**Retrieval-Augmented LMs**](https://acl2023-retrieval-lm.github.io/), LMs that integrate large-scale text data via retrieval during inference ([thesis (PDF)](assets/pdf/akari_phd_dissertation.pdf), [video (youtube)](https://www.youtube.com/watch?v=qnWyU9zryao).)
 
