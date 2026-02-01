@@ -42,10 +42,10 @@ nav_order: 4
 
 
 ##### External talks
-- 2026.2: [Microsoft Research Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), **Deep Research in the Wild* 
-- 2026.2: [Penn NLP Lunch Seminar](https://nlp.cis.upenn.edu/clunch.html), **Deep Research in the Wild* 
-- 2026.2: CMU [Nihar B. Shah Group](https://www.cs.cmu.edu/~nihars/), **Deep Research Agents for Scientific Ideation and Experiment Design* 
-- 2026.2: Oracle AI, **Deep Research in the Wild* 
+- 2026.2: [Microsoft Research Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), *Deep Research in the Wild* 
+- 2026.2: [Penn NLP Lunch Seminar](https://nlp.cis.upenn.edu/clunch.html), *Deep Research in the Wild* 
+- 2026.2: CMU [Nihar B. Shah Group](https://www.cs.cmu.edu/~nihars/), *Deep Research Agents for Scientific Ideation and Experiment Design* 
+- 2026.2: Oracle AI, *Deep Research in the Wild* 
 - 2025.12: [NeurIPS 2025 Competition: MMU-RAGent: Massive Multi-Modal User-Centric Retrieval Augmented Generation Benchmark](https://neurips.cc/virtual/2025/loc/san-diego/competition/127730), *DR Tulu and Beyond Building Fully Open Deep Research Agent for Open-Ended Tasks* [(slides)](https://docs.google.com/presentation/d/1_ggNo_w548bMwTNedhCccYdY8CmpptuPHlMY45Ah1Vs/edit?usp=sharing)
 - 2025.10: [Delta Institue Podcast](https://www.youtube.com/watch?v=nroNb-Fgcgs)
 - 2025.9: [CMU AI for Science Workshop 2025](https://cmu-ai-for-science-workshop.github.io/), *OpenScholar and Beyond: Evaluation, Training, and Building trust for Scientific Agents*
