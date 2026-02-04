@@ -8,6 +8,7 @@ nav_order: 4
 
 ##### Selected Press
 
+- 2026.2: **UW News** -- [In a study, AI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/)
 - 2025.9: **CMU LTI News** -- [Asai Named to MIT Technology Review's '35 Innovators Under 35'](https://www.lti.cs.cmu.edu/news-and-events/news/2025-09-12-asai-35-under-35.html)
 - 2025.9: **Nature News** -- [Can researchers stop AI making up citations?](https://www.nature.com/articles/d41586-025-02853-8)
 - 2025.9: **MIT Technology Review** -- [MIT Tech Review Innovators Under 35 2025 - She uses datastores to reduce AI hallucinations.](https://www.technologyreview.com/innovator/akari-asai/?utm_source=tr_staff_outreach&utm_medium=tr_staff_social&utm_campaign=TR35-SOCIAL&utm_content=guestbp)

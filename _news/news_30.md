@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[**OpenScholar**](https://arxiv.org/abs/2411.14199) has been accepted for publication in Nature (to appear).
+[**OpenScholar**](https://www.nature.com/articles/s41586-025-10072-4) has been accepted for publication in Nature. 
