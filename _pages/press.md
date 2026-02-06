@@ -8,6 +8,8 @@ nav_order: 4
 
 ##### Selected Press
 
+- 2026.2: **Science News** -- [https://www.science.org/content/article/open-source-ai-program-can-answer-science-questions-better-humans](https://www.science.org/content/article/open-source-ai-program-can-answer-science-questions-better-humans)
+- 2026.2: **Nature News** -- [Open-source AI tool beats giant LLMs in literature reviews — and gets citations right](https://www.nature.com/articles/d41586-026-00347-9)
 - 2026.2: **UW News** -- [In a study, AI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/)
 - 2025.9: **CMU LTI News** -- [Asai Named to MIT Technology Review's '35 Innovators Under 35'](https://www.lti.cs.cmu.edu/news-and-events/news/2025-09-12-asai-35-under-35.html)
 - 2025.9: **Nature News** -- [Can researchers stop AI making up citations?](https://www.nature.com/articles/d41586-025-02853-8)
