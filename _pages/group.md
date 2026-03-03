@@ -8,17 +8,29 @@ nav_order: 7
 
 Interested in joining my group? Thank you for your interest! Please read the following information before reaching out!
 
-#### If you're applying to the CMU SCS Ph.D. program:
+#### If you're applying to CMU SCS Ph.D. programs:
 
-For the 2026 application cycle, I expect to recruit 2 - 3 Ph.D. students. Due to the volume of inquiries, I’m not able to respond to individual emails or review applications before the deadline. During the admissions season, I also cannot answer questions about application status (via email or public office hours). Please note that different schools/departments have different admissions processes and timelines. 
+Due to the volume of inquiries, I'm not able to respond to individual emails or review applications before the deadline. During the admissions season, I also cannot answer questions about application status (via email or public office hours). Please note that different schools/departments have different admissions processes and timelines, even among CMU. 
 
-- **Which Ph.D. programs to apply to:** I'm affiliated with CMU’s Language Technologies Institute (LTI) and the Machine Learning Department (MLD). If you'd like me to see your application, please apply to LTI or MLD and list me under "Faculty of Interest" in the department application form. If my name isn't listed there, I may inadvertently miss your application even if you mention in SoP. I may review applications from other SCS departments (e.g., CSD, RI, S3D, HCII), but those are less likely to reach me directly. Generally, at CMU, I recommend applying to the department(s) where your faculty of interest are officially affiliated, since each department reviews applications independently. If you're already admitted to a CMU SCS PhD program and think our research interests align, I'm happy to chat (see the next section).
+- **Which Ph.D. programs to apply to:** I'm affiliated with CMU's Language Technologies Institute (LTI) and the Machine Learning Department (MLD). If you'd like me to see your application, please apply to LTI or MLD and list me under "Faculty of Interest" in the department application form. If my name isn't listed there, I may inadvertently miss your application even if you mention in SoP. I may review applications from other SCS departments (e.g., CSD, RI, S3D, HCII), but those are far less likely to reach me directly. Generally, at CMU, I recommend applying to the department(s) where your faculty of interest are officially affiliated, since each department reviews applications independently. If you've already been admitted to a CMU SCS PhD program and think our research interests align, I'd be happy to chat. You can also ask the program coordinators to schedule a 1:1 meeting during the open house.
 
 - **Which areas I'm looking for**: I work broadly on LLMs and multimodal LMs. I'm especially excited about augmented LMs, systems that pair models with complementary components and external tools (e.g., RAG, agents), and their system-level challenges (efficiency, scalability). I also apply these methods to real-world problems (e.g., scientific applications) and study safety and societal issues in LMs, including hallucinations and copyright. That said, the topics are not fixed and I'm more excited to hear what *you* are interested in working on! 
 
 - **What I look for in students**: I enjoy working with students from diverse backgrounds who are curious, rigorous, and collaborative—and who care about building systems with real-world impact. I (like many faculty) genuinely enjoy reading SoPs: please highlight your interests, link your prior research to your goals, and make your strengths clear. Strong foundations in computer science, engineering, and mathematics are important. 
 
-I'm not able to provide feedback on individual application materials. That said, many universities offer free, Ph.D.-student–run mentorship programs that help with Ph.D. applications including SoP feedback. I encourage you to apply early. One example is [CMU SCS’s Application Support Program](https://www.cs.cmu.edu/academics/phd/application-support) (already closed for 2025–2026). 
+
+I'm not able to provide feedback on individual application materials. That said, many universities offer free, Ph.D.-student–run mentorship programs that help with Ph.D. applications including SoP feedback. I encourage you to apply early. One example is [CMU SCS's Application Support Program](https://www.cs.cmu.edu/academics/phd/application-support) (already closed for 2025–2026). For general advice on PhD applications, I personally found these blog posts helpful:
+
+- [Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/). 
+- [Student Perspectives on Applying to NLP PhD Programs by by: Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
+- [Advice for prospective students from awesome-phd-advise by Paul Liang](https://github.com/pliang279/awesome-phd-advice?tab=readme-ov-file#advice-for-prospective-students)
+
+
+#### If you're applying to CMU SCS Master programs: 
+
+CMU offers a wide range of master’s programs across departments (e.g., [LTI](https://www.lti.cs.cmu.edu/academics/masters-programs/index.html), [MLD](https://ml.cmu.edu/academics/primary-ms-machine-learning-masters), [CSD](https://www.csd.cs.cmu.edu/academics/masters/overview) ... etc). Some programs include an Independent Study or Thesis option, where you work with an advisor and pursue an independent research project, while others may not offer a thesis track. I'd recommend taking a close look at each program's curriculum and requirements to see which best matches your interests.
+
+That said, I typically don't respond to thesis-advising inquiries from prospective master applicants. If you're interested in potentially working with me, please reach out in the fall after you've started your master program.
 
 #### If you're a current or incoming CMU SCS Ph.D. student (LTI, MLD, CSD etc.):
 

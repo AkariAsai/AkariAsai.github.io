@@ -7,8 +7,8 @@ nav_order: 4
 ---
 
 ##### Selected Press
-
-- 2026.2: **Science News** -- [https://www.science.org/content/article/open-source-ai-program-can-answer-science-questions-better-humans](https://www.science.org/content/article/open-source-ai-program-can-answer-science-questions-better-humans)
+- 2026.2: **CMU News** -- [An AI Model for Scientists: OpenScholar Synthesizes Scientific Research, Cites Sources Equal to Human Experts](https://www.cs.cmu.edu/news/2026/open-scholar)
+- 2026.2: **Science News** -- [Open-source AI program can answer science questions better than humans](https://www.science.org/content/article/open-source-ai-program-can-answer-science-questions-better-humans)
 - 2026.2: **Nature News** -- [Open-source AI tool beats giant LLMs in literature reviews — and gets citations right](https://www.nature.com/articles/d41586-026-00347-9)
 - 2026.2: **UW News** -- [In a study, AI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/)
 - 2025.9: **CMU LTI News** -- [Asai Named to MIT Technology Review's '35 Innovators Under 35'](https://www.lti.cs.cmu.edu/news-and-events/news/2025-09-12-asai-35-under-35.html)
@@ -45,6 +45,7 @@ nav_order: 4
 
 
 ##### External talks
+- 2026:2: [Cohere](https://cohere.com/), *Deep Research Agents: From Evaluation to Training*
 - 2026.2: [Microsoft Research Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), *Deep Research in the Wild* 
 - 2026.2: [Penn NLP Lunch Seminar](https://nlp.cis.upenn.edu/clunch.html), *Deep Research in the Wild* 
 - 2026.2: CMU [Nihar B. Shah Group](https://www.cs.cmu.edu/~nihars/), *Deep Research Agents for Scientific Ideation and Experiment Design* 
