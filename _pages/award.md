@@ -5,6 +5,8 @@ title: Awards
 nav: true
 nav_order: 3
 ---
+- 2026.4: **Laude Moonshot Honorable Mention (Accelerating Science)** by [Laude Institute](https://www.laude.org/moonshots) (Co-PI). 
+
 - 2025.12: **2025 AAAI/ACM SIGAI Dissertation Award Winner** by [AAAI and ACM SIGAI](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/). 
 
 - 2025.9: **MIT Technology Review Innovators Under 35** by [MIT Technology Review](https://www.technologyreview.com/innovator/akari-asai/). 

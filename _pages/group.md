@@ -26,34 +26,35 @@ I'm not able to provide feedback on individual application materials. That said,
 - [Advice for prospective students from awesome-phd-advise by Paul Liang](https://github.com/pliang279/awesome-phd-advice?tab=readme-ov-file#advice-for-prospective-students)
 
 
+#### If you're a current or incoming CMU SCS Ph.D. student (LTI, MLD, CSD etc.):
+If you're a Ph.D. student in CMU SCS and interested in collaborating, feel free to email or Slack me with a brief summary of your research interests or projects. I'll be splitting my time between Pittsburgh and Seattle in 2025–2026 and would love to explore potential collaborations! 
+
+If you are an incoming PhD student looking for a potential advisor or co-advisor, or interested in future collaborations, please feel free to email me as well. In some CMU SCS departments, advisor matching takes place later in the year (for example, in the fall), so I may not be able to make advising commitments right away, but I would still be very happy to chat. 
+
 #### If you're applying to CMU SCS Master programs: 
 
 CMU offers a wide range of master’s programs across departments (e.g., [LTI](https://www.lti.cs.cmu.edu/academics/masters-programs/index.html), [MLD](https://ml.cmu.edu/academics/primary-ms-machine-learning-masters), [CSD](https://www.csd.cs.cmu.edu/academics/masters/overview) ... etc). Some programs include an Independent Study or Thesis option, where you work with an advisor and pursue an independent research project, while others may not offer a thesis track. I'd recommend taking a close look at each program's curriculum and requirements to see which best matches your interests.
 
-That said, I typically don't respond to thesis-advising inquiries from prospective master applicants. If you're interested in potentially working with me, please reach out in the fall after you've started your master program.
-
-#### If you're a current or incoming CMU SCS Ph.D. student (LTI, MLD, CSD etc.):
-
-If you're a Ph.D. student in CMU SCS and interested in collaborating, feel free to email or Slack me with a brief summary of your research interests or projects. I’ll be splitting my time between Pittsburgh and Seattle in 2025–2026 and would love to explore potential collaborations! 
-
 
 #### If you're a CMU undergraduate or M.S. student:
-Thanks so much for your interest! I love working with undergraduate and master’s students; many such collaborations have led to publications at ACL, COLM, NeurIPS, and more, and helped students launch research-focused careers. 
+
+Thanks so much for your interest! I love working with undergraduate and master's students; many such collaborations have led to publications at ACL, COLM, NeurIPS, and more, and helped students launch research-focused careers. I'm also happy to write letters for PhD applications, if we've directly worked (e.g., we met regularly for the projects we collaborate on). 
 
 To ensure a meaningful experience, I typically ask for two things: 
 
 - **Strong foundation**: I generally consider students who have completed core courses in machine learning and NLP. This background helps ensure you can engage deeply with the research. 
-- **Time commitment**: I ask for a consistent commitment of 10–20 hours per week. If you're currently balancing a heavy course load, job search, or other responsibilities, I recommend waiting until you have more bandwidth. Research takes time and consistency, and my goal is to support your long-term growth, not just a short-term project. 
+- **Time commitment**: I ask for a consistent commitment of 10–20 hours per week. If you're currently balancing a heavy course load, job search, or other responsibilities, I recommend waiting until you have more bandwidth. Research takes time and consistency, and my goal is to support your long-term growth, not just a short-term project. In general, I do not recommend taking on multiple research projects at once, especially for predoctoral students or early-stage PhD students. If you are already working with another research group or are involved in other research projects, I would encourage you to apply after you have wrapped those up. 
 
 If you're interested, please fill out [this google form](https://forms.gle/2igzAgfL7BZnjUJb7) (Please sign in with your CMU email address. This form is intended for current CMU students, so **please don't request access or sharing permissions**. If you are not a CMU undergraduate student and are interested in working with me, please see the section below.), including your transcript and CV. I may not be able to respond to all requests, but I’ll reach out if I think we might be a good match for a project. 
 
 
 #### If you're an external undergraduate, M.S., or Ph.D. student seeking internships or visiting/postdoc positions:
 
-In 2025–2026, I’ll be a Research Scientist at AI2 and won’t be able to host visiting students at CMU (if you are interested in working with me at Ai2 for internship / pre-doc, apply from [Ai2's career](https://allenai.org/careers) page!). Also in 2026, I am unlikely to have the capacity to advise students outside CMU during the academic year, but I may announce future opportunities on my website or social media, so please stay tuned! 
+In 2025–2026, I'll be a Research Scientist at AI2 and won’t be able to host visiting students at CMU (if you are interested in working with me at Ai2 for internship / pre-doc, apply from [Ai2's career](https://allenai.org/careers) page!). Also in 2026, I am unlikely to have the capacity to advise students outside CMU during the academic year, but I may announce future opportunities on my website or social media, so please stay tuned! 
 
 For undergrad internships, CMU SCS offers several summer internship programs: [Summer Research Fellowships at CMU](https://www.cmu.edu/uro/summer%20research%20fellowships/SURF/) In the future, I may host 1–2 summer interns through these programs, so please stay tuned!
 
 
 #### Looking for general advice on research / Ph.D. applications, etc. 
 I restarted my public office hours each week, open to anyone to chat about research, career, or anything else this summer! While I can't guarantee positions, this is meant to offer mentorship, especially for those with limited access. Please sign up from [Google Calendar](calendar.app.google/3daW5UMPCNc7qJdQA)
+

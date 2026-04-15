@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 ##### Selected Press
+- 2026.4: **CMU News** -- [CMU Teams Recognized in Moonshots AI Competition](https://www.cmu.edu/news/stories/archives/2026/april/cmu-teams-recognized-in-moonshots-ai-competition)
 - 2026.2: **CMU News** -- [An AI Model for Scientists: OpenScholar Synthesizes Scientific Research, Cites Sources Equal to Human Experts](https://www.cs.cmu.edu/news/2026/open-scholar)
 - 2026.2: **Science News** -- [Open-source AI program can answer science questions better than humans](https://www.science.org/content/article/open-source-ai-program-can-answer-science-questions-better-humans)
 - 2026.2: **Nature News** -- [Open-source AI tool beats giant LLMs in literature reviews — and gets citations right](https://www.nature.com/articles/d41586-026-00347-9)
@@ -45,6 +46,7 @@ nav_order: 4
 
 
 ##### External talks
+- 2026:2: [Ehime University Data Science Center Seminar](https://www.cdse.ehime-u.ac.jp/DS_Seminar/DS_Seminar42_20260415.pdf), *Deep Research Agents: From Evaluation to Training*
 - 2026:2: [Cohere](https://cohere.com/), *Deep Research Agents: From Evaluation to Training*
 - 2026.2: [Microsoft Research Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), *Deep Research in the Wild* 
 - 2026.2: [Penn NLP Lunch Seminar](https://nlp.cis.upenn.edu/clunch.html), *Deep Research in the Wild* 
