@@ -35,7 +35,7 @@
 }
 
 
-@misc{shao2025drtulu,
+@inproceedings{shao2025drtulu,
   title        = {DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research},
   author       = {Shao*, Rulin and Asai*, Akari and Shen*, Shannon Zejiang and Ivison*, Hamish
                   and Kishore, Varsha and Zhuo, Jingming and Zhao, Xinran and Park, Molly
@@ -43,20 +43,20 @@
                   and Dasigi, Pradeep and Soldaini, Luca and Brahman, Faeze and Yih, Wen-tau
                   and Wu, Tongshuang and Zettlemoyer, Luke and Kim, Yoon
                   and Hajishirzi, Hannaneh and Koh, Pang Wei},
-  year         = {2025},
+  year         = {2026},
   pdf="https://arxiv.org/abs/2511.19399",
   code="https://github.com/rlresearch/DR-Tulu", 
   website="https://allenai.org/blog/dr-tulu",
-  note         = {Preprint},
     selected={true},
+      booktitle={International Conference on Machine Learning (ICML; Spotlight - Top 2\%)},
     abstract="Deep research models perform multi-step research to produce long-form, well-attributed answers. However, most open deep research models are trained on easily verifiable short-form QA tasks via reinforcement learning with verifiable rewards (RLVR), which does not extend to realistic long-form tasks. We address this with Reinforcement Learning with Evolving Rubrics (RLER), in which we construct and maintain rubrics that co-evolve with the policy model during training; this allows the rubrics to incorporate information that the model has newly explored and to provide discriminative, on-policy feedback. Using RLER, we develop Deep Research Tulu (DR Tulu-8B), the first open model that is directly trained for open-ended, long-form deep research. Across four long-form deep research benchmarks in science, healthcare and general domains, DR Tulu substantially outperforms existing open deep research models, and matches or exceeds proprietary deep research systems, while being significantly smaller and cheaper per query. To facilitate future research, we release all data, models, and code, including our new MCP-based agent infrastructure for deep research systems."
 }
 
-@article{chen2025brar,
+@inproceedings{chen2025brar,
   title={Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations},
   author={Chen, Tong and Asai, Akari and Zettlemoyer, Luke and Hajishirzi, Hannaneh and Brahman, Faeze},
-  journal={Preprint (Under Review)},
-  year={2025},
+  booktitle={International Conference on Machine Learning (ICML; Spotlight - Top 2\%)},
+  year={2026},
   pdf="https://arxiv.org/abs/2510.17733",
   code="https://github.com/chentong0/rl-binary-rar",
   abstract="Language models often generate factually incorrect information unsupported by their training data, a phenomenon known as extrinsic hallucination. Existing mitigation approaches often degrade performance on open-ended generation and downstream tasks, limiting their practical utility. We propose an online reinforcement learning method using a novel binary retrieval-augmented reward (RAR) to address this tradeoff. Unlike continuous reward schemes, our approach assigns a reward of one only when the model's output is entirely factually correct, and zero otherwise. We evaluate our method on Qwen3 reasoning models across diverse tasks. For open-ended generation, binary RAR achieves a 39.3% reduction in hallucination rates, substantially outperforming both supervised training and continuous-reward RL baselines. In short-form question answering, the model learns calibrated abstention, strategically outputting I don't know when faced with insufficient parametric knowledge. This yields 44.4% and 21.7% fewer incorrect answers on PopQA and GPQA, respectively. Crucially, these factuality gains come without performance degradation on instruction following, math, or code, whereas continuous-reward RL, despite improving factuality, induces quality regressions."

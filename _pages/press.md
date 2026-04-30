@@ -8,7 +8,7 @@ nav_order: 4
 
 ##### Selected Press
 - 2026.4: **CMU News** -- [CMU Teams Recognized in Moonshots AI Competition](https://www.cmu.edu/news/stories/archives/2026/april/cmu-teams-recognized-in-moonshots-ai-competition)
-- 2026.2: **CMU News** -- [An AI Model for Scientists: OpenScholar Synthesizes Scientific Research, Cites Sources Equal to Human Experts](https://www.cs.cmu.edu/news/2026/open-scholar)
+- 2026.2: **CMU SCS News** -- [An AI Model for Scientists: OpenScholar Synthesizes Scientific Research, Cites Sources Equal to Human Experts](https://www.cs.cmu.edu/news/2026/open-scholar)
 - 2026.2: **Science News** -- [Open-source AI program can answer science questions better than humans](https://www.science.org/content/article/open-source-ai-program-can-answer-science-questions-better-humans)
 - 2026.2: **Nature News** -- [Open-source AI tool beats giant LLMs in literature reviews — and gets citations right](https://www.nature.com/articles/d41586-026-00347-9)
 - 2026.2: **UW News** -- [In a study, AI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/)
