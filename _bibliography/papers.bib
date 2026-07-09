@@ -1,6 +1,40 @@
 ---
 ---
 
+@article{kim2026limits,
+  title={On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists},
+  author={Seungone Kim and Dongkeun Yoon and Kiril Gashteovski and Juyoung Suk and Jinheon Baek and Pranjal Aggarwal and Ian Wu and Viktor Zaverkin and Spase Petkoski and Daniel R. Schrider and Ilija Dukovski and Francesco Santini and Biljana Mitreska and Yong Jeong and Kyeongha Kwon and Young Min Sim and Dragana Manasova and Arthur Porto and Biljana Mojsoska and Makoto Takamoto and Marko Shuntov and Ruoqi Liu and Hyunjoo Jenny Lee and Niyazi Ulas Dinç and Yehhyun Jo and Sunkyu Han and Chungwoo Lee and Huishan Li and Esther H. R. Tsai and Ergun Simsek and Khushboo Shafi and Yeonseung Chung and Jihye Park and Aleksandar Shulevski and Henrik Christiansen and Yoosang Son and Elly Knight and Amanda Montoya and Jeongyoun Ahn and Christian Langkammer and Heera Moon and Changwon Yoon and Nikola Stikov and Mooseok Jang and Edward Choi and Junhan Kim and Yeon Sik Jung and Woo Youn Kim and Jae Kyoung Kim and Ishraq Md Anjum and Hyun Uk Kim and Drew Bridges and Carolin Lawrence and Xiang Yue and Alice Oh and Akari Asai and Sean Welleck and Graham Neubig},
+  journal={Preprint},
+  year={2026},
+  pdf="https://arxiv.org/abs/2605.20668",
+  website="https://prometheus-eval.github.io/cmu-paper-reviewer/",
+  code="https://github.com/prometheus-eval/cmu-paper-reviewer",
+  abstract="With the advancement of AI capabilities, AI reviewers are beginning to be deployed in scientific peer review, yet their capability and credibility remain in question: many scientists simply view them as probabilistic systems without the expertise to evaluate research, while other researchers are more optimistic about their readiness without concrete evidence. Understanding what AI reviewers do well, where they fall short, and what challenges remain is essential. However, existing evaluations of AI reviewers have focused on whether their verdicts match human verdicts (e.g., score alignment, acceptance prediction), which is insufficient to characterize their capabilities and limits. In this paper, we close this gap through a large-scale expert annotation study, in which 45 domain scientists in Physical, Biological, and Health Sciences spent 469 hours rating 2,960 individual criticisms (each targeting one specific aspect of a paper) from human-written and AI-generated reviews of 82 Nature-family papers on correctness, significance, and sufficiency of evidence. On a composite of all three dimensions, a reviewing agent powered by GPT-5.2 scores above each paper's top-rated human reviewer (60.0% vs. 48.2%, p = 0.009), while all three AI reviewers (including Gemini 3.0 Pro and Claude Opus 4.5) exceed the lowest-rated human across every dimension. AI reviewers' accurate criticisms are also more often rated significant and well-evidenced, and surface a distinct 26% of issues no human raises. However, AI reviewers overlap far more than humans do (21% vs. 3% for cross-reviewer pairs), and exhibit 16 recurring weaknesses humans do not share, such as limited subfield knowledge, lack of long context management over multiple files, and overly critical stance on minor issues. Overall, our results position current AI reviewers as complements to, not substitutes for, human reviewers."
+}
+
+@article{son2026soohak,
+  title={Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs},
+  author={Guijin Son and Seungone Kim and Catherine Arnett and Hyunwoo Ko and Hyein Lee and Hyeonah Kang and Jiang Longxi and Jin Yun and JungYup Lee and Kyungmin Lee and Sam Yoosuk Kim and Sang Park and Seunghyeok Hong and SeungJae Lee and Seungyeop Yi and Shinae Shin and SunHye Bok and Sunyoung Shin and Yonghoon Ji and Youngtaek Kim and Hanearl Jung and Akari Asai and Graham Neubig and Sean Welleck and Youngjae Yu},
+  journal={Preprint},
+  year={2026},
+  pdf="https://arxiv.org/abs/2605.09063",
+  abstract="Following the recent achievement of gold-medal performance on the IMO by frontier LLMs, the community is searching for the next meaningful and challenging target for measuring LLM reasoning. Whereas olympiad-style problems measure step-by-step reasoning alone, research-level problems use such reasoning to advance the frontier of mathematical knowledge itself, emerging as a compelling alternative. Yet research-level math benchmarks remain scarce because such problems are difficult to source (e.g., Riemann Bench and FrontierMath-Tier 4 contain 25 and 50 problems, respectively). To support reliable evaluation of next-generation frontier models, we introduce Soohak, a 439-problem benchmark newly authored from scratch by 64 mathematicians. Soohak comprises two subsets. On the Challenge subset, frontier models including Gemini-3-Pro, GPT-5, and Claude-Opus-4.5 reach 30.4%, 26.4%, and 10.4% respectively, leaving substantial headroom, while leading open-weight models such as Qwen3-235B, GPT-OSS-120B, and Kimi-2.5 remain below 15%. Notably, beyond standard problem solving, Soohak introduces a refusal subset that probes a capability intrinsic to research mathematics: recognizing ill-posed problems and pausing rather than producing confident but unjustified answers. On this subset, no model exceeds 50%, identifying refusal as a new optimization target that current models do not directly address. To prevent contamination, the dataset will be publicly released in late 2026, with model evaluations available upon request in the interim.
+"
+}
+
+
+@inproceedings{chen2026agentir,
+  title={Agentir: Reasoning-aware retrieval for deep research agents},
+  author={Chen, Zijian and Ma, Xueguang and Zhuang, Shengyao and Lin, Jimmy and Asai, Akari and Zhong, Victor},
+  year={2026},
+  booktitle={Conference on Language Modeling (COLM)},
+  pdf="https://arxiv.org/abs/2603.04384",
+  code="https://github.com/texttron/AgentIR",
+  website="https://texttron.github.io/AgentIR/", 
+  selected={true},
+  abstract="Deep Research agents are rapidly emerging as primary consumers of modern retrieval systems. Unlike human users who issue and refine queries without documenting their intermediate thought processes, Deep Research agents generate explicit natural language reasoning before each search call, revealing rich intent and contextual information that existing retrievers entirely ignore. To exploit this overlooked signal, we introduce: (1) Reasoning-Aware Retrieval, a retrieval paradigm that jointly embeds the agent's reasoning trace alongside its query; and (2) DR-Synth, a data synthesis method that generates Deep Research retriever training data from standard QA datasets. We demonstrate that both components are independently effective, and their combination yields a trained embedding model, AgentIR-4B, with substantial gains. On the challenging BrowseComp-Plus benchmark, AgentIR-4B achieves 68% accuracy with the open-weight agent Tongyi-DeepResearch, compared to 50% with conventional embedding models twice its size, and 37% with BM25."
+}
+
 
 @article{asai2024openscholar,
   title={{OpenScholar}: Synthesizing Scientific Literature with Retrieval-Augmented LMs},
@@ -13,6 +47,34 @@
   selected={true},
   abstract="Scientific progress depends on researchers' ability to synthesize the growing body of literature. Can large language models (LMs) assist scientists in this task? We introduce OpenScholar, a specialized retrieval-augmented LM that answers scientific queries by identifying relevant passages from 45 million open-access papers and synthesizing citation-backed responses. To evaluate OpenScholar, we develop ScholarQABench, the first large-scale multi-domain benchmark for literature search, comprising 2,967 expert-written queries and 208 long-form answers across computer science, physics, neuroscience, and biomedicine. On ScholarQABench, OpenScholar-8B outperforms GPT-4o by 5% and PaperQA2 by 7% in correctness, despite being a smaller, open model. While GPT4o hallucinates citations 78 to 90% of the time, OpenScholar achieves citation accuracy on par with human experts. OpenScholar's datastore, retriever, and self-feedback inference loop also improves off-the-shelf LMs: for instance, OpenScholar-GPT4o improves GPT-4o's correctness by 12%. In human evaluations, experts preferred OpenScholar-8B and OpenScholar-GPT4o responses over expert-written ones 51% and 70% of the time, respectively, compared to GPT4o's 32%. We open-source all of our code, models, datastore, data and a public demo."
 }
+
+@inproceedings{shao2025drtulu,
+  title        = {DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research},
+  author       = {Shao*, Rulin and Asai*, Akari and Shen*, Shannon Zejiang and Ivison*, Hamish
+                  and Kishore, Varsha and Zhuo, Jingming and Zhao, Xinran and Park, Molly
+                  and Finlayson, Samuel and Sontag, David and Murray, Tyler and Min, Sewon
+                  and Dasigi, Pradeep and Soldaini, Luca and Brahman, Faeze and Yih, Wen-tau
+                  and Wu, Tongshuang and Zettlemoyer, Luke and Kim, Yoon
+                  and Hajishirzi, Hannaneh and Koh, Pang Wei},
+  year         = {2026},
+  pdf="https://arxiv.org/abs/2511.19399",
+  code="https://github.com/rlresearch/DR-Tulu", 
+  website="https://allenai.org/blog/dr-tulu",
+    selected={true},
+      booktitle={International Conference on Machine Learning (ICML; Oral)},
+    abstract="Deep research models perform multi-step research to produce long-form, well-attributed answers. However, most open deep research models are trained on easily verifiable short-form QA tasks via reinforcement learning with verifiable rewards (RLVR), which does not extend to realistic long-form tasks. We address this with Reinforcement Learning with Evolving Rubrics (RLER), in which we construct and maintain rubrics that co-evolve with the policy model during training; this allows the rubrics to incorporate information that the model has newly explored and to provide discriminative, on-policy feedback. Using RLER, we develop Deep Research Tulu (DR Tulu-8B), the first open model that is directly trained for open-ended, long-form deep research. Across four long-form deep research benchmarks in science, healthcare and general domains, DR Tulu substantially outperforms existing open deep research models, and matches or exceeds proprietary deep research systems, while being significantly smaller and cheaper per query. To facilitate future research, we release all data, models, and code, including our new MCP-based agent infrastructure for deep research systems."
+}
+
+@inproceedings{chen2025brar,
+  title={Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations},
+  author={Chen, Tong and Asai, Akari and Zettlemoyer, Luke and Hajishirzi, Hannaneh and Brahman, Faeze},
+  booktitle={International Conference on Machine Learning (ICML; Spotlight)},
+  year={2026},
+  pdf="https://arxiv.org/abs/2510.17733",
+  code="https://github.com/chentong0/rl-binary-rar",
+  abstract="Language models often generate factually incorrect information unsupported by their training data, a phenomenon known as extrinsic hallucination. Existing mitigation approaches often degrade performance on open-ended generation and downstream tasks, limiting their practical utility. We propose an online reinforcement learning method using a novel binary retrieval-augmented reward (RAR) to address this tradeoff. Unlike continuous reward schemes, our approach assigns a reward of one only when the model's output is entirely factually correct, and zero otherwise. We evaluate our method on Qwen3 reasoning models across diverse tasks. For open-ended generation, binary RAR achieves a 39.3% reduction in hallucination rates, substantially outperforming both supervised training and continuous-reward RL baselines. In short-form question answering, the model learns calibrated abstention, strategically outputting I don't know when faced with insufficient parametric knowledge. This yields 44.4% and 21.7% fewer incorrect answers on PopQA and GPQA, respectively. Crucially, these factuality gains come without performance degradation on instruction following, math, or code, whereas continuous-reward RL, despite improving factuality, induces quality regressions."
+}
+
 
 @inproceedings{cao2025style,
   title={Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents},
@@ -34,33 +96,6 @@
   abstract="We introduce Olmo3,a family of state-of-the-art, fully open language models at the 7B and 32B parameter scales.Olmo3 model construction targets long context reasoning, function calling,coding, instruction following, general chat, and knowledge recall. The release includes the entire model flow, i.e.,the full life cycle of the family of models, including every stage,checkpoint,datapoint,and dependency used to build it. Our flagship model, Olmo3 Think-32B, is the strongest fully open thinking model released to-date."
 }
 
-
-@inproceedings{shao2025drtulu,
-  title        = {DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research},
-  author       = {Shao*, Rulin and Asai*, Akari and Shen*, Shannon Zejiang and Ivison*, Hamish
-                  and Kishore, Varsha and Zhuo, Jingming and Zhao, Xinran and Park, Molly
-                  and Finlayson, Samuel and Sontag, David and Murray, Tyler and Min, Sewon
-                  and Dasigi, Pradeep and Soldaini, Luca and Brahman, Faeze and Yih, Wen-tau
-                  and Wu, Tongshuang and Zettlemoyer, Luke and Kim, Yoon
-                  and Hajishirzi, Hannaneh and Koh, Pang Wei},
-  year         = {2026},
-  pdf="https://arxiv.org/abs/2511.19399",
-  code="https://github.com/rlresearch/DR-Tulu", 
-  website="https://allenai.org/blog/dr-tulu",
-    selected={true},
-      booktitle={International Conference on Machine Learning (ICML; Spotlight - Top 2\%)},
-    abstract="Deep research models perform multi-step research to produce long-form, well-attributed answers. However, most open deep research models are trained on easily verifiable short-form QA tasks via reinforcement learning with verifiable rewards (RLVR), which does not extend to realistic long-form tasks. We address this with Reinforcement Learning with Evolving Rubrics (RLER), in which we construct and maintain rubrics that co-evolve with the policy model during training; this allows the rubrics to incorporate information that the model has newly explored and to provide discriminative, on-policy feedback. Using RLER, we develop Deep Research Tulu (DR Tulu-8B), the first open model that is directly trained for open-ended, long-form deep research. Across four long-form deep research benchmarks in science, healthcare and general domains, DR Tulu substantially outperforms existing open deep research models, and matches or exceeds proprietary deep research systems, while being significantly smaller and cheaper per query. To facilitate future research, we release all data, models, and code, including our new MCP-based agent infrastructure for deep research systems."
-}
-
-@inproceedings{chen2025brar,
-  title={Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations},
-  author={Chen, Tong and Asai, Akari and Zettlemoyer, Luke and Hajishirzi, Hannaneh and Brahman, Faeze},
-  booktitle={International Conference on Machine Learning (ICML; Spotlight - Top 2\%)},
-  year={2026},
-  pdf="https://arxiv.org/abs/2510.17733",
-  code="https://github.com/chentong0/rl-binary-rar",
-  abstract="Language models often generate factually incorrect information unsupported by their training data, a phenomenon known as extrinsic hallucination. Existing mitigation approaches often degrade performance on open-ended generation and downstream tasks, limiting their practical utility. We propose an online reinforcement learning method using a novel binary retrieval-augmented reward (RAR) to address this tradeoff. Unlike continuous reward schemes, our approach assigns a reward of one only when the model's output is entirely factually correct, and zero otherwise. We evaluate our method on Qwen3 reasoning models across diverse tasks. For open-ended generation, binary RAR achieves a 39.3% reduction in hallucination rates, substantially outperforming both supervised training and continuous-reward RL baselines. In short-form question answering, the model learns calibrated abstention, strategically outputting I don't know when faced with insufficient parametric knowledge. This yields 44.4% and 21.7% fewer incorrect answers on PopQA and GPQA, respectively. Crucially, these factuality gains come without performance degradation on instruction following, math, or code, whereas continuous-reward RL, despite improving factuality, induces quality regressions."
-}
 
 @inproceedings{cao2025style,
   title={Out of Style: RAG's Fragility to Linguistic Variation},
