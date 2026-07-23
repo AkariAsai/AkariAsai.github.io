@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an incoming Assistant Professor at Carnegie Mellon University (Fall 2026-) [Language Technologies Institute](https://www.lti.cs.cmu.edu/), with an affiliate appointment in [the Machine Learning Department](https://ml.cmu.edu/) and a research scientist at [OLMo @ the Allen Institute for AI](https://allenai.org/) (2025-2026). 
+I am an Assistant Professor at Carnegie Mellon University (Fall 2026-) [Language Technologies Institute](https://www.lti.cs.cmu.edu/), with an affiliate appointment in [the Machine Learning Department](https://ml.cmu.edu/) and a research scientist at [OLMo @ the Allen Institute for AI](https://allenai.org/) (2025-2026). 
 
 **Please read the [FAQ](https://akariasai.github.io/groups/) before emailing me if you're interested in working with me (Ph.D., visiting, or internship opportunities). I expect to recruit a few Ph.D. students in the upcoming cycle, but I'm not accepting postdocs or external visiting students for 2026–2027.**
 

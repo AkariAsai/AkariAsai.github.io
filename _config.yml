@@ -5,9 +5,9 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Akari
 last_name: Asai
-email: akari@cs.washington.edu
+email: aasai@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A research scientist at Allen Institute for AI and an incoming assistant professor at CMU, focusing on natural language processing, machine learning, and large language models.
+  A research scientist at Allen Institute for AI and an assistant professor at CMU, focusing on natural language processing, machine learning, and large language models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
