@@ -46,6 +46,8 @@ nav_order: 4
 
 
 ##### External talks
+- 2026.9: [VLDB 2026 Workshop on Vector Databases](https://vecdb-ws.github.io/vldb2026/)
+- 2026.8: [KDD Reasoning Day on Agent Reasoning](https://ai-reasoning.github.io/)
 - 2026:2: [Ehime University Data Science Center Seminar](https://www.cdse.ehime-u.ac.jp/DS_Seminar/DS_Seminar42_20260415.pdf), *Deep Research Agents: From Evaluation to Training*
 - 2026:2: [Cohere](https://cohere.com/), *Deep Research Agents: From Evaluation to Training*
 - 2026.2: [Microsoft Research Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), *Deep Research in the Wild* 
