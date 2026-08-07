@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist @ <a href='https://allenai.org/'>Allen Institute for AI</a><br>Incoming Assistant Professor @ <a href='https://www.cs.cmu.edu/'>Carnegie Mellon University</a>
+subtitle: Research Scientist @ <a href='https://allenai.org/'>Allen Institute for AI</a><br>Assistant Professor @ <a href='https://www.cs.cmu.edu/'>Carnegie Mellon University</a>
 
 profile:
   align: right
@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an Assistant Professor at Carnegie Mellon University (Fall 2026-) [Language Technologies Institute](https://www.lti.cs.cmu.edu/), with an affiliate appointment in [the Machine Learning Department](https://ml.cmu.edu/) and a research scientist at [OLMo @ the Allen Institute for AI](https://allenai.org/) (2025-2026). 
+I am an Assistant Professor at Carnegie Mellon University [Language Technologies Institute](https://www.lti.cs.cmu.edu/), with an affiliate appointment in [the Machine Learning Department](https://ml.cmu.edu/) and a research scientist at [Allen Institute for AI](https://allenai.org/).  
 
 **Please read the [FAQ](https://akariasai.github.io/groups/) before emailing me if you're interested in working with me (Ph.D., visiting, or internship opportunities). I expect to recruit a few Ph.D. students in the upcoming cycle, but I'm not accepting postdocs or external visiting students for 2026–2027.**
 
@@ -49,7 +49,7 @@ We apply our methods to real-world challenges that demand factuality, transparen
 Selected recognitions include [2025 AAAI/ACM SIGAI Dissertation Award](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/), [MIT Technology Review 35 Innovators Under 35](https://www.technologyreview.com/innovators-under-35/2025/) (2025 Global & 2024 Japan), [Forbes 30 Under 30 Asia in Science 2025](https://www.forbes.com/30-under-30/2025/asia/healthcare-science), [EECS Rising Stars 2022](https://risingstars.utexas.edu/profiles/akari-asai), and the [IBM Global Ph.D. Fellows 2022-2023](https://news.cs.washington.edu/2022/10/20/lost-in-translation-no-more-ibm-fellowship-winner-akari-asai-asks-and-answers-big-questions-in-nlp-to-expand-information-access-to-all/). Our work has been covered by [Forbes](https://www.forbes.com/councils/forbestechcouncil/2024/07/30/how-rag-powered-ai-applications-have-a-positive-impact-on-businesses/), [Nature News](https://www.nature.com/articles/d41586-025-02853-8), and [MIT Technology Review](https://www.technologyreview.com/2018/02/05/145813/100000-happy-moments/), and is used in libraries such as [Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/luke), [LlamaIndex](https://docs.llamaindex.ai/en/stable/api_reference/packs/self_rag/), and [LangChain](https://blog.langchain.dev/agentic-rag-with-langgraph/). 
 
 
-**Public office hours and application materials:** To help lower barriers to starting research, pursuing a Ph.D. in this field or job search, I host weekly office hours open to all every Friday. Feel free to sign up via (please sign up from [Google Calendar](https://calendar.app.google/3daW5UMPCNc7qJdQA)!). 
+**Public office hours and application materials:** To help lower barriers to starting research, pursuing a Ph.D. in this field or job search, I host weekly office hours open to all every Friday. Feel free to sign up via (please sign up from [Google Calendar](https://calendar.app.google/1q5n12cARXh4itvB7)!). 
 
 Inspired by many wonderful friends who have shared their own materials to promote equity and access, I’ve also made my past application materials available:
 
